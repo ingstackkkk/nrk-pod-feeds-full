@@ -42,21 +42,21 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
         language="no"
     )
 
-    if season == "LATEST_SEASON":
-        season = metadata["_links"]["seasons"][0]["name"]
+  if season == "LATEST_SEASON":
+    season = metadata["_links"]["seasons"][0]["name"]
 
-    if ep_count == 0:
-        if season == "ALL":
-            episodes = get_all_podcast_episodes_all_seasons(podcast_id, metadata)
-        else:
-            episodes = get_all_podcast_episodes(podcast_id, season)
+if ep_count == 0:
+    if season == "ALL":
+        episodes = get_all_podcast_episodes_all_seasons(podcast_id, metadata)
     else:
-        episodes = get_podcast_episodes(podcast_id, season)
+        episodes = get_all_podcast_episodes(podcast_id, season)
+else:
+    episodes = get_podcast_episodes(podcast_id, season)
 
-    if not episodes:
-        return None
+if not episodes:
+    return None
 
-    if ep_count != 0:
+if ep_count != 0:
     new_episode = False
     for episode in episodes:
         episode_title = episode["titles"]["title"]
@@ -69,23 +69,26 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
         logging.info("  No new episodes found since feed was last updated")
         return None
 else:
-    logging.info(f"  Full archive mode: rebuilding feed with {len(episodes)} episodes")
+    logging.info(
+        f"  Full archive mode: rebuilding feed with {len(episodes)} episodes"
+    )
 
-    ep_i = 0
-    for episode in episodes:
-        logging.info(f"Episode #{ep_i}:")
+ep_i = 0
+for episode in episodes:
+    logging.info(f"Episode #{ep_i}:")
 
-        episode_id = episode["episodeId"]
-        episode_title = episode["titles"]["title"]
-        episode_subtitle = episode["titles"]["subtitle"]
-        episode_image = f"{episode['squareImage'][4]['url']}.jpg"
-        duration = episode["durationInSeconds"]
-        date = episode["date"]
-        
-        manifest = get_episode_manifest(podcast_id, episode_id)
-        if not manifest:
-            continue
-                    logging.info(f"  *** MANIFEST FOUND FOR: {episode_title} ***")
+    episode_id = episode["episodeId"]
+    episode_title = episode["titles"]["title"]
+    episode_subtitle = episode["titles"]["subtitle"]
+    episode_image = f"{episode['squareImage'][4]['url']}.jpg"
+    duration = episode["durationInSeconds"]
+    date = episode["date"]
+
+    manifest = get_episode_manifest(podcast_id, episode_id)
+    if not manifest:
+        continue
+
+    logging.info(f"  *** MANIFEST FOUND FOR: {episode_title} ***")
 
         audio_mime = manifest["playable"]["assets"][0]["mimeType"]
         audio_url = manifest["playable"]["assets"][0]["url"]
