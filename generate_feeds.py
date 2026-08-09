@@ -56,6 +56,7 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
     if not episodes:
         return None
 
+    if ep_count != 0:
     new_episode = False
     for episode in episodes:
         episode_title = episode["titles"]["title"]
@@ -67,6 +68,8 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
     if not new_episode:
         logging.info("  No new episodes found since feed was last updated")
         return None
+else:
+    logging.info(f"  Full archive mode: rebuilding feed with {len(episodes)} episodes")
 
     ep_i = 0
     for episode in episodes:
