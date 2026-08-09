@@ -82,6 +82,7 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
         manifest = get_episode_manifest(podcast_id, episode_id)
         if not manifest:
             continue
+                    logging.info(f"  *** MANIFEST FOUND FOR: {episode_title} ***")
 
         audio_mime = manifest["playable"]["assets"][0]["mimeType"]
         audio_url = manifest["playable"]["assets"][0]["url"]
@@ -91,7 +92,8 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
         logging.info(f"  Episode date: {date}")
         logging.info(f"  Audio file URL: {audio_url}")
         logging.info(f"  Episode image URL: {episode_image}")
-
+        logging.info(f"  *** AUDIO TYPE: {audio_mime} ***")
+        
         if audio_mime != "audio/mp3":
             logging.info(f"  Unrecognized audio MIME type ({audio_mime})")
             continue
