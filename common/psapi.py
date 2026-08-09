@@ -40,6 +40,7 @@ def get_all_podcast_episodes(podcast_id, season = None):
         else:
             for episode in r.json()["_embedded"]["episodes"]:
                 episodes.append(episode)
+                logging.info(f"  Found {len(episodes)} episodes in season {season}")
         
         if not "next" in r.json()["_links"]:
             break
