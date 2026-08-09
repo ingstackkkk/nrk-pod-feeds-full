@@ -266,7 +266,7 @@
         "title": "Privat Ekko - samfunnspodden",
         "season": null,
         "enabled": true,
-        "episodes": 0
+        "episodes": 30
     },
     {
         "id": "etikketaten",
@@ -486,7 +486,7 @@
         "title": "De 10 siste fra Hele historien",
         "season": "ALL",
         "enabled": true,
-        "episodes": 0
+        "episodes": 30
     },
     {
         "id": "herreavdelingen",
@@ -501,7 +501,7 @@
         "title": "privat Historiske kjendiser",
         "season": null,
         "enabled": true,
-        "episodes": 0 
+        "episodes": 30 
     },
     {
         "id": "hoera",
@@ -638,7 +638,7 @@
         "title": "De 10 siste fra Kjapt oppdatert",
         "season": null,
         "enabled": true,
-        "episodes": 0 
+        "episodes": 30 
     },
     {
         "id": "kjente_boeker_paa_4_minutter",
@@ -745,7 +745,7 @@
         "title": "De 10 siste fra Krimrommet",
         "season": null,
         "enabled": true,
-        "episodes": 0
+        "episodes": 30
     },
     {
         "id": "kringkastingsorkestret_",
@@ -1020,7 +1020,7 @@
         "enabled": true,
         "ignore": true,
         "hidden": true,
-        "episodes": 0
+        "episodes": 30
     },
     {
         "id": "natt_til_loerdag",
@@ -1131,7 +1131,7 @@
         "title": "privat - Oppdatert",
         "season": null,
         "enabled": true, 
-        "episodes": 0
+        "episodes": 30
     },
     {
         "id": "p060ms2h",
@@ -1234,7 +1234,7 @@
         "title": "privat Historier fra virkeligheten",
         "season": "LATEST_SEASON",
         "enabled": true,
-        "episodes": 0
+        "episodes": 30
     },
     {
         "id": "radiolegen",
@@ -1454,7 +1454,7 @@
         "title": " privat Språksnakk",
         "season": null,
         "enabled": false,
-        "episodes": 0
+        "episodes": 30
     },
     {
         "id": "staale_utslagsnes_fra_loensj",
@@ -1647,7 +1647,7 @@
         "title": "privat- Tyrann",
         "season": "LATEST_SEASON",
         "enabled": true,
-        "episodes": 0
+        "episodes": 30
     },
     {
         "id": "ubaatsaken",
