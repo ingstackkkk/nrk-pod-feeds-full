@@ -483,8 +483,9 @@ const feeds = [
   {
     "id": "hele_historien",
     "title": "De 10 siste fra Hele historien",
-    "season": "LATEST_SEASON",
-    "enabled": true
+    "season": "ALL",
+    "enabled": true,
+    "episodes": 0
   },
   {
     "id": "herreavdelingen",
@@ -496,9 +497,10 @@ const feeds = [
   },
   {
     "id": "historiske_kjendiser",
-    "title": "De 10 siste fra Historiske kjendiser",
+    "title": "IMS Historiske kjendiser",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "episodes": 0
   },
   {
     "id": "hoera",
@@ -634,7 +636,8 @@ const feeds = [
     "id": "kjapt_oppdatert",
     "title": "De 10 siste fra Kjapt oppdatert",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "episodes": 0
   },
   {
     "id": "kjente_boeker_paa_4_minutter",
@@ -1124,7 +1127,8 @@ const feeds = [
     "id": "oppdatert",
     "title": "De 10 siste fra Oppdatert",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "episodes": 0
   },
   {
     "id": "p060ms2h",
@@ -1444,9 +1448,10 @@ const feeds = [
   },
   {
     "id": "spraakteigen",
-    "title": "De 10 siste fra Språksnakk",
+    "title": "Språksnakk",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "episodes": 0
   },
   {
     "id": "staale_utslagsnes_fra_loensj",
