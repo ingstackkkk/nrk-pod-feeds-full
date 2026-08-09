@@ -95,22 +95,21 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count=10):
 
     archive_mode = ep_count == 0
     archive_initialized = feed_has_archive_marker(existing_feed)
+if archive_mode and not archive_initialized:
+    logging.info(
+        "  Archive not initialized - fetching complete archive"
+    )
 
-    if archive_mode and not archive_initialized:
-        logging.info(
-            "  Archive not initialized - fetching complete archive"
+    if season == "ALL":
+        episodes = get_all_podcast_episodes_all_seasons(
+            podcast_id,
+            metadata,
         )
-
-        if season == "ALL":
-            episodes = get_all_podcast_episodes_all_seasons(
-                podcast_id,
-                metadata,
-            )
-        else:
-            episodes = get_all_podcast_episodes(
-                podcast_id,
-                season,
-            )
+    else:
+        episodes = get_all_podcast_episodes(
+            podcast_id,
+            season,
+        )
 
 else:
     # Normal mode - fetch newest episodes
@@ -119,46 +118,11 @@ else:
         season,
     )
 
+    # Begrens til ønsket antall episoder
     episodes = episodes[:ep_count]
 
 if not episodes:
     return None
-    # ---------------------------------------------------------
-    # NORMAL UPDATE MODE
-    #
-    # For an already initialized feed, only episodes newer
-    # than the previous feed build are interesting.
-    # ---------------------------------------------------------
-
-    if not archive_mode or archive_initialized:
-        new_episode = False
-
-        for episode in episodes:
-            episode_title = episode["titles"]["title"]
-            episode_date = episode["date"]
-
-            if parser.parse(episode_date) >= last_feed_update:
-                logging.info(
-                    f"  Found new episode {episode_title} "
-                    f"from {episode_date}"
-                )
-                new_episode = True
-
-        if not new_episode:
-            logging.info(
-                "  No new episodes found since feed was last updated"
-            )
-            return None
-
-    else:
-        logging.info(
-            f"  Full archive mode: rebuilding feed with "
-            f"{len(episodes)} episodes"
-        )
-
-    # ---------------------------------------------------------
-    # BUILD PODGEN FEED WITH NEW EPISODES
-    # ---------------------------------------------------------
 
     ep_i = 0
 
