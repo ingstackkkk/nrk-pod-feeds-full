@@ -122,53 +122,52 @@ if not episodes:
 
 ep_i = 0
 
-    for episode in episodes:
-        logging.info(f"Episode #{ep_i}")
+for episode in episodes:
+    logging.info(f"Episode #{ep_i}")
 
-        episode_id = episode["episodeId"]
-        episode_title = episode["titles"]["title"]
-        episode_subtitle = episode["titles"]["subtitle"]
-        episode_image = f"{episode['squareImage'][4]['url']}.jpg"
-        duration = episode["durationInSeconds"]
-        date = episode["date"]
+    episode_id = episode["episodeId"]
+    episode_title = episode["titles"]["title"]
+    episode_subtitle = episode["titles"]["subtitle"]
+    episode_image = f"{episode['squareImage'][4]['url']}.jpg"
+    duration = episode["durationInSeconds"]
+    date = episode["date"]
 
-        manifest = get_episode_manifest(
-            podcast_id,
-            episode_id,
-        )
+    manifest = get_episode_manifest(
+        podcast_id,
+        episode_id,
+    )
 
-        if not manifest:
-            continue
+    if not manifest:
+        continue
 
-        audio_mime = manifest["playable"]["assets"][0]["mimeType"]
-        audio_url = manifest["playable"]["assets"][0]["url"]
+    audio_mime = manifest["playable"]["assets"][0]["mimeType"]
+    audio_url = manifest["playable"]["assets"][0]["url"]
 
-        if audio_mime != "audio/mp3":
-            continue
+    if audio_mime != "audio/mp3":
+       continue
 
-        if filter_teasers and episode_title.startswith(
-            "Neste episode: "
-        ):
-            continue
+    if filter_teasers and episode_title.startswith(
+        "Neste episode: "
+    ):
+        continue
 
-        p.episodes += [
-            Episode(
-                title=episode_title,
-                media=Media(
-                    audio_url,
-                    0,
-                    duration=timedelta(seconds=duration),
-                ),
-                summary=episode_subtitle,
-                publication_date=parser.parse(date),
-                image=episode_image,
+    p.episodes += [
+        Episode(
+            title=episode_title,
+            media=Media(
+                audio_url,
+                0,
+                duration=timedelta(seconds=duration),
             ),
-        ]
+            summary=episode_subtitle,
+            publication_date=parser.parse(date),
+            image=episode_image,
+        ),
+    ]
+    ep_i += 1
 
-        ep_i += 1
-
-    if ep_i == 0:
-        return None
+if ep_i == 0:
+    return None
 
     p.name = f"De {ep_i} siste fra {original_title}"
 
