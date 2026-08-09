@@ -484,7 +484,7 @@
     {
         "id": "hele_historien",
         "title": "De 10 siste fra Hele historien",
-        "season": "ALL",
+        "season": "LATEST_SEASON",
         "enabled": true,
         "episodes": 30
     },
