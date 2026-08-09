@@ -43,8 +43,6 @@ def feed_has_archive_marker(existing_feed):
     )
 
     return marker is not None and marker.text == "true"
-
-
 def get_podcast(podcast_id, season, feeds_dir, ep_count=10):
     existing_feed = get_last_feed(feeds_dir, podcast_id)
 
@@ -56,9 +54,6 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count=10):
 
             if last_build_date is not None and last_build_date.text:
                 last_feed_update = parser.parse(last_build_date.text)
-                logging.debug(
-                    f"Feed was last built {last_feed_update}"
-                )
 
     metadata = get_podcast_metadata(podcast_id)
 
@@ -68,9 +63,6 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count=10):
     original_title = metadata["series"]["titles"]["title"]
     image = f"{metadata['series']['squareImage'][4]['url']}.jpg"
     website = metadata["_links"]["share"]["href"]
-
-    logging.debug(f"  Title: {original_title}")
-    logging.debug(f"  Image: {image}")
 
     p = Podcast(
         generator=podgen_agent,
@@ -84,50 +76,42 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count=10):
     if season == "LATEST_SEASON":
         season = metadata["_links"]["seasons"][0]["name"]
 
-    # ---------------------------------------------------------
-    # ARCHIVE MODE
-    #
-    # episodes == 0 means:
-    #
-    #   1. No archive yet -> fetch everything.
-    #   2. Archive already initialized -> fetch only newest 10.
-    # ---------------------------------------------------------
-
     archive_mode = ep_count == 0
     archive_initialized = feed_has_archive_marker(existing_feed)
-if archive_mode and not archive_initialized:
-    logging.info(
-        "  Archive not initialized - fetching complete archive"
-    )
 
-    if season == "ALL":
-        episodes = get_all_podcast_episodes_all_seasons(
-            podcast_id,
-            metadata,
-        )
+    if archive_mode and not archive_initialized:
+        logging.info("Fetching full archive")
+
+        if season == "ALL":
+            episodes = get_all_podcast_episodes_all_seasons(
+                podcast_id,
+                metadata,
+            )
+        else:
+            episodes = get_all_podcast_episodes(
+                podcast_id,
+                season,
+            )
+
     else:
-        episodes = get_all_podcast_episodes(
+        logging.info(
+            f"Fetching latest {ep_count} episodes"
+        )
+
+        episodes = get_podcast_episodes(
             podcast_id,
             season,
         )
 
-else:
-    # Normal mode - fetch newest episodes
-    episodes = get_podcast_episodes(
-        podcast_id,
-        season,
-    )
+        episodes = episodes[:ep_count]
 
-    # Begrens til ønsket antall episoder
-    episodes = episodes[:ep_count]
-
-if not episodes:
-    return None
+    if not episodes:
+        return None
 
     ep_i = 0
 
     for episode in episodes:
-        logging.info(f"Episode #{ep_i}:")
+        logging.info(f"Episode #{ep_i}")
 
         episode_id = episode["episodeId"]
         episode_title = episode["titles"]["title"]
@@ -142,35 +126,17 @@ if not episodes:
         )
 
         if not manifest:
-            logging.info(
-                f"  No manifest found for: {episode_title}"
-            )
             continue
-
-        logging.info(
-            f"  *** MANIFEST FOUND FOR: {episode_title} ***"
-        )
 
         audio_mime = manifest["playable"]["assets"][0]["mimeType"]
         audio_url = manifest["playable"]["assets"][0]["url"]
 
-        logging.info(f"  Episode title: {episode_title}")
-        logging.info(f"  Episode duration: {duration}")
-        logging.info(f"  Episode date: {date}")
-        logging.info(f"  Audio file URL: {audio_url}")
-        logging.info(f"  Episode image URL: {episode_image}")
-        logging.info(f"  *** AUDIO TYPE: {audio_mime} ***")
-
         if audio_mime != "audio/mp3":
-            logging.info(
-                f"  Unrecognized audio MIME type ({audio_mime})"
-            )
             continue
 
         if filter_teasers and episode_title.startswith(
             "Neste episode: "
         ):
-            logging.info("  Skipping teaser")
             continue
 
         p.episodes += [
@@ -190,22 +156,16 @@ if not episodes:
         ep_i += 1
 
     if ep_i == 0:
-        logging.info(
-            "  No playable episodes found"
-        )
         return None
 
-    title = f"De {ep_i} siste fra {original_title}"
+    p.name = f"De {ep_i} siste fra {original_title}"
 
-    subtitle = (
+    p.description = (
         f"Uoffisiell feed med de siste {ep_i} episodene "
         f"fra podkasten {original_title}. "
-        f"Opphavsrett på innhold eies av NRK og ev. andre "
+        f"Opphavsrett på innhold eies av NRK og andre "
         f"rettighetshavere. Se {website} for mer informasjon."
     )
-
-    p.name = title
-    p.description = subtitle
 
     return p
 
