@@ -112,7 +112,7 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count=10):
                 season,
             )
 
-   else:
+else:
     # Normal mode - fetch newest episodes
     episodes = get_podcast_episodes(
         podcast_id,
@@ -121,9 +121,8 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count=10):
 
     episodes = episodes[:ep_count]
 
-    if not episodes:
-        return None
-
+if not episodes:
+    return None
     # ---------------------------------------------------------
     # NORMAL UPDATE MODE
     #
