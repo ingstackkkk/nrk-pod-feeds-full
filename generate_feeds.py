@@ -79,23 +79,30 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count=10):
     archive_mode = ep_count == 0
     archive_initialized = feed_has_archive_marker(existing_feed)
 
-    if archive_mode and not archive_initialized:
-        logging.info("Fetching full archive")
+    # ---------------------------------------------------------
+# FETCH EPISODES
+# ---------------------------------------------------------
 
-        if season == "ALL":
-            episodes = get_all_podcast_episodes_all_seasons(
-                podcast_id,
-                metadata,
-            )
-        else:
-            episodes = get_all_podcast_episodes(
-                podcast_id,
-                season,
-            )
-
-    else:
+if archive_mode and not archive_initialized:
     logging.info(
-        f"Fetching latest {ep_count} episodes"
+        "  Archive not initialized - fetching complete archive"
+    )
+
+    if season == "ALL":
+        episodes = get_all_podcast_episodes_all_seasons(
+            podcast_id,
+            metadata,
+        )
+    else:
+        episodes = get_all_podcast_episodes(
+            podcast_id,
+            season,
+        )
+
+else:
+    # Normal mode - fetch newest episodes
+    logging.info(
+        f"  Fetching latest {ep_count} episodes"
     )
 
     episodes = get_podcast_episodes(
@@ -103,16 +110,15 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count=10):
         season,
     )
 
-    if episodes is None:
-        logging.warning(
-            f"Could not fetch episodes for {podcast_id}"
-        )
-        return None
+    if episodes:
+        episodes = episodes[:ep_count]
 
-    episodes = episodes[:ep_count]
 
-    if not episodes:
-        return None
+if not episodes:
+    logging.info(
+        "  No episodes found"
+    )
+    return None
 
     ep_i = 0
 
