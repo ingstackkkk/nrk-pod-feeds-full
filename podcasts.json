@@ -497,10 +497,10 @@
     },
     {
         "id": "historiske_kjendiser",
-        "title": "De 10 siste fra Historiske kjendiser",
+        "title": "IMS Historiske kjendiser",
         "season": null,
         "enabled": true,
-        "episodes": 0, 
+        "episodes": 0 
     },
     {
         "id": "hoera",
@@ -637,7 +637,7 @@
         "title": "De 10 siste fra Kjapt oppdatert",
         "season": null,
         "enabled": true,
-        "episodes": 0, 
+        "episodes": 0 
     },
     {
         "id": "kjente_boeker_paa_4_minutter",
@@ -1128,7 +1128,7 @@
         "title": "De 10 siste fra Oppdatert",
         "season": null,
         "enabled": true, 
-        "episodes": 0,
+        "episodes": 0
     },
     {
         "id": "p060ms2h",
@@ -1448,10 +1448,10 @@
     },
     {
         "id": "spraakteigen",
-        "title": "De 10 siste fra Språksnakk",
+        "title": "Språksnakk",
         "season": null,
         "enabled": false,
-        "episodes": 0,
+        "episodes": 0
     },
     {
         "id": "staale_utslagsnes_fra_loensj",
