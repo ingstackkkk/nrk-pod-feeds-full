@@ -44,7 +44,7 @@ def feed_has_archive_marker(existing_feed):
 
     return marker is not None and marker.text == "true"
     def get_podcast(podcast_id, season, feeds_dir, ep_count=10):
-    existing_feed = get_last_feed(feeds_dir, podcast_id)
+        existing_feed = get_last_feed(feeds_dir, podcast_id)
 
     last_feed_update = parser.parse("1970-01-01 00:00:01+00:00")
 
