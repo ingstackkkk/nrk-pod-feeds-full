@@ -120,7 +120,7 @@ if not episodes:
     )
     return None
 
-    ep_i = 0
+ep_i = 0
 
     for episode in episodes:
         logging.info(f"Episode #{ep_i}")
