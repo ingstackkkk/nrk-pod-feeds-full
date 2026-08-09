@@ -484,7 +484,8 @@
         "id": "hele_historien",
         "title": "De 10 siste fra Hele historien",
         "season": "ALL",
-        "enabled": true
+        "enabled": true,
+        "episodes": 0
     },
     {
         "id": "herreavdelingen",
