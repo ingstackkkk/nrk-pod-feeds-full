@@ -1,106 +1,106 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>De 10 siste fra Krimrommet</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Krimrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/krimrommet for mer informasjon.</description>
-    <itunes:explicit>no</itunes:explicit>
+    <ns0:explicit>no</ns0:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 05 Aug 2026 06:42:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 16:54:12 +0000</lastBuildDate>
     <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
-    <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg"/>
+    <ns0:block>Yes</ns0:block>
+    <ns0:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg" />
     <item>
       <title>Martine-saken (2): Drapsalarm</title>
-      <description><![CDATA[Det britiske politiet finner Martine. Samtidig har den eneste mistenkte i saken, Farouk Abdulhak, satt seg på et fly – til Jemen.]]></description>
+      <description>Det britiske politiet finner Martine. Samtidig har den eneste mistenkte i saken, Farouk Abdulhak, satt seg på et fly – til Jemen.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/1b1ec10c-9677-4bed-9ec1-0c96770bed99_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/1b1ec10c-9677-4bed-9ec1-0c96770bed99_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:54</itunes:duration>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/1b1ec10c-9677-4bed-9ec1-0c96770bed99_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>14:54</ns0:duration>
       <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/iy3TaH0R4oKmV_wOlNQ4PwCvtNfhDcjIHDqFh2X97Mbg.jpg"/>
+      <ns0:image href="https://gfx.nrk.no/iy3TaH0R4oKmV_wOlNQ4PwCvtNfhDcjIHDqFh2X97Mbg.jpg" />
     </item>
     <item>
       <title>Martine-saken (1): Den siste festen</title>
-      <description><![CDATA[En marsdag i 2008 drar Martine Vik Magnussen (23) på byen med noen venner. Hun kommer aldri hjem igjen.]]></description>
+      <description>En marsdag i 2008 drar Martine Vik Magnussen (23) på byen med noen venner. Hun kommer aldri hjem igjen.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/31da71e3-e95d-4b25-9a71-e3e95d0b2581_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/31da71e3-e95d-4b25-9a71-e3e95d0b2581_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:45</itunes:duration>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/31da71e3-e95d-4b25-9a71-e3e95d0b2581_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>11:45</ns0:duration>
       <pubDate>Wed, 29 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/OLQr6hW4Ek6i4iVh42XQSAlB9OpEvgEOwX3W8JLFMm0w.jpg"/>
+      <ns0:image href="https://gfx.nrk.no/OLQr6hW4Ek6i4iVh42XQSAlB9OpEvgEOwX3W8JLFMm0w.jpg" />
     </item>
     <item>
       <title>Kampen-drapet (2): Et varslet drap?</title>
-      <description><![CDATA[En 18-åring kjøper militærliknende klær og en jaktkniv på nettet. Planen han legger, skal ende i en av landets strengeste straffer.]]></description>
+      <description>En 18-åring kjøper militærliknende klær og en jaktkniv på nettet. Planen han legger, skal ende i en av landets strengeste straffer.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/6c6835d6-c596-4c42-a835-d6c5968c4224_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/6c6835d6-c596-4c42-a835-d6c5968c4224_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:03</itunes:duration>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/6c6835d6-c596-4c42-a835-d6c5968c4224_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>23:03</ns0:duration>
       <pubDate>Thu, 23 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/caQkOdF7eEVCIZyaxraNxQKrz1xPtE7vcEXvQC6rSG_w.jpg"/>
+      <ns0:image href="https://gfx.nrk.no/caQkOdF7eEVCIZyaxraNxQKrz1xPtE7vcEXvQC6rSG_w.jpg" />
     </item>
     <item>
       <title>Kampen-drapet (1): Den forlatte bilen</title>
-      <description><![CDATA[Tamima Nibras Juhar forteller venner at hun er redd for å dra på jobb. Det har hun all grunn til.]]></description>
+      <description>Tamima Nibras Juhar forteller venner at hun er redd for å dra på jobb. Det har hun all grunn til.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/aeccc91e-50f1-4f66-8cc9-1e50f19f66dc_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/aeccc91e-50f1-4f66-8cc9-1e50f19f66dc_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>09:51</itunes:duration>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/aeccc91e-50f1-4f66-8cc9-1e50f19f66dc_2_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>09:51</ns0:duration>
       <pubDate>Wed, 15 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/8CZ-nrQv9nfaytZvoCbbdglUc4p7fm2EQTAT_F5SAEiw.jpg"/>
+      <ns0:image href="https://gfx.nrk.no/8CZ-nrQv9nfaytZvoCbbdglUc4p7fm2EQTAT_F5SAEiw.jpg" />
     </item>
     <item>
       <title>Wangen (6): Derfor ble han dømt</title>
-      <description><![CDATA[Meldinger om drap, endring i forklaringer og en fascinasjon for død. Dette legger retten til grunn for den ankede dommen.]]></description>
+      <description>Meldinger om drap, endring i forklaringer og en fascinasjon for død. Dette legger retten til grunn for den ankede dommen.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/c3308437-2a15-4fcf-b084-372a158fcf53_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/c3308437-2a15-4fcf-b084-372a158fcf53_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:46</itunes:duration>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/c3308437-2a15-4fcf-b084-372a158fcf53_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>19:46</ns0:duration>
       <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-jT1VLE2n8BiT2J2CR9S-QlWFcdCn-gNOKdv0BRABzpw.jpg"/>
+      <ns0:image href="https://gfx.nrk.no/-jT1VLE2n8BiT2J2CR9S-QlWFcdCn-gNOKdv0BRABzpw.jpg" />
     </item>
     <item>
       <title>Jørn Andersen (2): Blodet i snøen</title>
-      <description><![CDATA[Over 20 år etter at han drepte ekskjæresten sin på et vorspiel, blir Jørn Andersen siktet i en ny og uhyggelig sak.]]></description>
+      <description>Over 20 år etter at han drepte ekskjæresten sin på et vorspiel, blir Jørn Andersen siktet i en ny og uhyggelig sak.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/2bea1339-2beb-4c45-aa13-392beb4c4545_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/2bea1339-2beb-4c45-aa13-392beb4c4545_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:59</itunes:duration>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/2bea1339-2beb-4c45-aa13-392beb4c4545_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>18:59</ns0:duration>
       <pubDate>Fri, 03 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/OE1Zq0LAFjyzJOjkVmRRfQWxxIelN_snADDtAkzRZeEg.jpg"/>
+      <ns0:image href="https://gfx.nrk.no/OE1Zq0LAFjyzJOjkVmRRfQWxxIelN_snADDtAkzRZeEg.jpg" />
     </item>
     <item>
       <title>Lastebil-Jonas (4): Dødshevnen</title>
-      <description><![CDATA[«Bestilleren» ble besatt av sjalusi da kjæresten hans ble med Jonas Aarseth Henriksen på hyttetur. Så la han en plan, mener lagmannsretten.]]></description>
+      <description>«Bestilleren» ble besatt av sjalusi da kjæresten hans ble med Jonas Aarseth Henriksen på hyttetur. Så la han en plan, mener lagmannsretten.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/7b53212a-2fe6-456d-9321-2a2fe6156dd6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/7b53212a-2fe6-456d-9321-2a2fe6156dd6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:23</itunes:duration>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/7b53212a-2fe6-456d-9321-2a2fe6156dd6_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>23:23</ns0:duration>
       <pubDate>Wed, 01 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DAi-q1B9tIHIFi9QZlVAwAHbsSovtc8qDS3_y2bwaitg.jpg"/>
+      <ns0:image href="https://gfx.nrk.no/DAi-q1B9tIHIFi9QZlVAwAHbsSovtc8qDS3_y2bwaitg.jpg" />
     </item>
     <item>
       <title>Jørn Andersen (1): Farlig vorspiel</title>
-      <description><![CDATA[En høstdag i 1999 bestemmer 28 år gamle Jørn Andersen seg for å dra på en fest han ikke er invitert til. Det ender fatalt.]]></description>
+      <description>En høstdag i 1999 bestemmer 28 år gamle Jørn Andersen seg for å dra på en fest han ikke er invitert til. Det ender fatalt.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/39d60426-1506-4f7a-9604-2615068f7ae0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/39d60426-1506-4f7a-9604-2615068f7ae0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:22</itunes:duration>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/39d60426-1506-4f7a-9604-2615068f7ae0_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>11:22</ns0:duration>
       <pubDate>Thu, 25 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/g5kG8PRsDHMMegeq2d2Oww4RXwhk_WQ_2X38vkON7Y-Q.jpg"/>
+      <ns0:image href="https://gfx.nrk.no/g5kG8PRsDHMMegeq2d2Oww4RXwhk_WQ_2X38vkON7Y-Q.jpg" />
     </item>
     <item>
       <title>Kan Kongen benåde Høiby?</title>
-      <description><![CDATA[Krimrommet svarer på spørsmålene dine.]]></description>
+      <description>Krimrommet svarer på spørsmålene dine.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/7a6aedd7-9d56-4f41-aaed-d79d561f41f3_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/7a6aedd7-9d56-4f41-aaed-d79d561f41f3_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:22</itunes:duration>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/7a6aedd7-9d56-4f41-aaed-d79d561f41f3_2_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>20:22</ns0:duration>
       <pubDate>Thu, 18 Jun 2026 15:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PbJ68jKD6tr8OGjheHmRegd_p7yo5PVxIG1XHUKHDaxQ.jpg"/>
+      <ns0:image href="https://gfx.nrk.no/PbJ68jKD6tr8OGjheHmRegd_p7yo5PVxIG1XHUKHDaxQ.jpg" />
     </item>
     <item>
       <title>Wangen (5): Pute eller ikke pute?</title>
-      <description><![CDATA[Retten skal avgjøre om Steinar Wangen har drept med pute eller medvirket til selvmord.]]></description>
+      <description>Retten skal avgjøre om Steinar Wangen har drept med pute eller medvirket til selvmord.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/354d2628-936c-4b8d-8d26-28936c8b8d44_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/354d2628-936c-4b8d-8d26-28936c8b8d44_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:27</itunes:duration>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/354d2628-936c-4b8d-8d26-28936c8b8d44_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>24:27</ns0:duration>
       <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/E41s7mA4f7-vqNBXfc2xYQb67M3CK7QJMQPenwNdZzJg.jpg"/>
+      <ns0:image href="https://gfx.nrk.no/E41s7mA4f7-vqNBXfc2xYQb67M3CK7QJMQPenwNdZzJg.jpg" />
     </item>
   </channel>
 </rss>

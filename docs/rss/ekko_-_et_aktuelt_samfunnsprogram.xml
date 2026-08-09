@@ -1,106 +1,106 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>De 10 siste fra Ekko</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
-    <itunes:explicit>no</itunes:explicit>
+    <ns0:explicit>no</ns0:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 04 Aug 2026 06:41:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 16:54:02 +0000</lastBuildDate>
     <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
-    <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <ns0:block>Yes</ns0:block>
+    <ns0:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg" />
     <item>
       <title>Netthandel endrar samfunnet</title>
-      <description><![CDATA[Nye kjøpemønstre går ut over nærbutikkane. Kva gjer det med både oss, og bysamfunna, at vi handlar digitalt?]]></description>
+      <description>Nye kjøpemønstre går ut over nærbutikkane. Kva gjer det med både oss, og bysamfunna, at vi handlar digitalt?</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/93c80e2d-3bdf-436f-880e-2d3bdf236fbc_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/93c80e2d-3bdf-436f-880e-2d3bdf236fbc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:43</itunes:duration>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/93c80e2d-3bdf-436f-880e-2d3bdf236fbc_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>26:43</ns0:duration>
       <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/r8Ey8ezGM1CCPx2Ar0grHAborvNyZKLNOuoYqP0f3xsA.jpg"/>
+      <ns0:image href="https://gfx.nrk.no/r8Ey8ezGM1CCPx2Ar0grHAborvNyZKLNOuoYqP0f3xsA.jpg" />
     </item>
     <item>
       <title>Natur er kur mot ensomhet</title>
-      <description><![CDATA[Skog, fjell og sjø kan gjøre oss mindre ensomme, selv om vi er der alene. Hva gir naturen oss, som andre mennesker ikke kan?]]></description>
+      <description>Skog, fjell og sjø kan gjøre oss mindre ensomme, selv om vi er der alene. Hva gir naturen oss, som andre mennesker ikke kan?</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/5ba56467-4658-410a-a564-674658d10a97_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/5ba56467-4658-410a-a564-674658d10a97_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:25</itunes:duration>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/5ba56467-4658-410a-a564-674658d10a97_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>33:25</ns0:duration>
       <pubDate>Tue, 28 Jul 2026 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/E6bgM9qRmlyz9ZC7h1NEGghSYmm2dlmTMPdqgn_wK2Yw.jpg"/>
+      <ns0:image href="https://gfx.nrk.no/E6bgM9qRmlyz9ZC7h1NEGghSYmm2dlmTMPdqgn_wK2Yw.jpg" />
     </item>
     <item>
       <title>Ufarlig med peanøtter?</title>
-      <description><![CDATA[Det er ikke farlig for allergikere å ha peanøtter i samme rom, viser ny studie.]]></description>
+      <description>Det er ikke farlig for allergikere å ha peanøtter i samme rom, viser ny studie.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8805fedd-30ec-4652-85fe-dd30ec86527a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8805fedd-30ec-4652-85fe-dd30ec86527a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:06</itunes:duration>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8805fedd-30ec-4652-85fe-dd30ec86527a_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>23:06</ns0:duration>
       <pubDate>Tue, 21 Jul 2026 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9gkLU-_9_xYk1y2R06Sy1QGACH5SBigaYiSQ4-3q0L-A.jpg"/>
+      <ns0:image href="https://gfx.nrk.no/9gkLU-_9_xYk1y2R06Sy1QGACH5SBigaYiSQ4-3q0L-A.jpg" />
     </item>
     <item>
       <title>Hvis russerne kommer</title>
-      <description><![CDATA[Finnmark får flere soldater, mer luftvern, og det finnes allerede en plan for evakuering av sivilbefolkninga.]]></description>
+      <description>Finnmark får flere soldater, mer luftvern, og det finnes allerede en plan for evakuering av sivilbefolkninga.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/674df4fb-2e05-447c-8df4-fb2e05947cb2_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/674df4fb-2e05-447c-8df4-fb2e05947cb2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:15</itunes:duration>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/674df4fb-2e05-447c-8df4-fb2e05947cb2_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>34:15</ns0:duration>
       <pubDate>Tue, 14 Jul 2026 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nKJ2PBmq8X1d29gREWrGqQgJhwHDsy_R-FKCr7RPyukw.jpg"/>
+      <ns0:image href="https://gfx.nrk.no/nKJ2PBmq8X1d29gREWrGqQgJhwHDsy_R-FKCr7RPyukw.jpg" />
     </item>
     <item>
       <title>Demo-boom på Eidsvolls plass</title>
-      <description><![CDATA[Hvorfor fortsetter folk å demonstrere utafor Stortinget, når så mye av debatten foregår i sosiale medier?]]></description>
+      <description>Hvorfor fortsetter folk å demonstrere utafor Stortinget, når så mye av debatten foregår i sosiale medier?</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d21c260d-29d9-47b3-9c26-0d29d9e7b3b4_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d21c260d-29d9-47b3-9c26-0d29d9e7b3b4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:15</itunes:duration>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d21c260d-29d9-47b3-9c26-0d29d9e7b3b4_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>33:15</ns0:duration>
       <pubDate>Tue, 07 Jul 2026 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3o7QSBKVOwX79r5gr6jvZQoy4pv0IdqEGwaNXP0Qv7jg.jpg"/>
+      <ns0:image href="https://gfx.nrk.no/3o7QSBKVOwX79r5gr6jvZQoy4pv0IdqEGwaNXP0Qv7jg.jpg" />
     </item>
     <item>
       <title>Fastlegeordninga - jubilant i krise?</title>
-      <description><![CDATA[Fastlegeordninga har gått fra suksess til krise på 25 år. Men alternativene til ordninga er verre.]]></description>
+      <description>Fastlegeordninga har gått fra suksess til krise på 25 år. Men alternativene til ordninga er verre.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9c8f9973-63bd-4de6-8f99-7363bd6de6e9_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9c8f9973-63bd-4de6-8f99-7363bd6de6e9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:50</itunes:duration>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9c8f9973-63bd-4de6-8f99-7363bd6de6e9_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>22:50</ns0:duration>
       <pubDate>Tue, 30 Jun 2026 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LNm1_XllkM3gBOI5462JKAylQUEjim3uGOiW2pZX22Ig.jpg"/>
+      <ns0:image href="https://gfx.nrk.no/LNm1_XllkM3gBOI5462JKAylQUEjim3uGOiW2pZX22Ig.jpg" />
     </item>
     <item>
       <title>Flere blir syke av flåtten</title>
-      <description><![CDATA[Selv om rekordmange velger å vaksinere seg, blir stadig flere av oss syke av flåttbitt.]]></description>
+      <description>Selv om rekordmange velger å vaksinere seg, blir stadig flere av oss syke av flåttbitt.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0b26c424-c4c4-447a-a6c4-24c4c4647a2e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0b26c424-c4c4-447a-a6c4-24c4c4647a2e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:01</itunes:duration>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0b26c424-c4c4-447a-a6c4-24c4c4647a2e_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>23:01</ns0:duration>
       <pubDate>Tue, 23 Jun 2026 13:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/G4iQBBEh_7sruudiyqBNUQg-5hpuhV8c8PegtgTjIlCw.jpg"/>
+      <ns0:image href="https://gfx.nrk.no/G4iQBBEh_7sruudiyqBNUQg-5hpuhV8c8PegtgTjIlCw.jpg" />
     </item>
     <item>
       <title>Trumps USA: Fest, fiender og fredsavtaler</title>
-      <description><![CDATA[Trump vil være fredsmekler i verden, men hjemme er det fortsatt krig mot fiendene. Hva sier uka som gikk om USA nå?]]></description>
+      <description>Trump vil være fredsmekler i verden, men hjemme er det fortsatt krig mot fiendene. Hva sier uka som gikk om USA nå?</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9a50951c-fcf1-40dc-9095-1cfcf1c0dc62_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9a50951c-fcf1-40dc-9095-1cfcf1c0dc62_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:47</itunes:duration>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9a50951c-fcf1-40dc-9095-1cfcf1c0dc62_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>42:47</ns0:duration>
       <pubDate>Thu, 18 Jun 2026 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/TqDIT3WMXkIEJAJWimDH-QyMiacaxXtBX26oCeOFVStA.jpg"/>
+      <ns0:image href="https://gfx.nrk.no/TqDIT3WMXkIEJAJWimDH-QyMiacaxXtBX26oCeOFVStA.jpg" />
     </item>
     <item>
       <title>Skam etter slankesprøyte</title>
-      <description><![CDATA[Folk syns de som bruker slankemedisin jukser, viser ny studie. Hvorfor dømmer vi dem som trenger hjelp?]]></description>
+      <description>Folk syns de som bruker slankemedisin jukser, viser ny studie. Hvorfor dømmer vi dem som trenger hjelp?</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2122d2d9-c667-4600-a2d2-d9c667f600d3_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2122d2d9-c667-4600-a2d2-d9c667f600d3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:46</itunes:duration>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2122d2d9-c667-4600-a2d2-d9c667f600d3_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>23:46</ns0:duration>
       <pubDate>Wed, 17 Jun 2026 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1QlzXDk1v_BnhSn73rBsIwunAOzrDvg-yOpUONuKf4yA.jpg"/>
+      <ns0:image href="https://gfx.nrk.no/1QlzXDk1v_BnhSn73rBsIwunAOzrDvg-yOpUONuKf4yA.jpg" />
     </item>
     <item>
       <title>Spør Ekko: Dagen etter dommen</title>
-      <description><![CDATA[Hadde Marius Borg Høiby blitt funnet skyldig uten sine egne mobilopptak og hva skjer videre nå? Ekspertene svarte lytterne.]]></description>
+      <description>Hadde Marius Borg Høiby blitt funnet skyldig uten sine egne mobilopptak og hva skjer videre nå? Ekspertene svarte lytterne.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/139c4bc1-7505-4b7a-9c4b-c17505fb7a29_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/139c4bc1-7505-4b7a-9c4b-c17505fb7a29_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:53</itunes:duration>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/139c4bc1-7505-4b7a-9c4b-c17505fb7a29_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>57:53</ns0:duration>
       <pubDate>Tue, 16 Jun 2026 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xYTj6HAXBroMs-d0_fd3agjxed1nIUBdAmanCxUJnHxw.jpg"/>
+      <ns0:image href="https://gfx.nrk.no/xYTj6HAXBroMs-d0_fd3agjxed1nIUBdAmanCxUJnHxw.jpg" />
     </item>
   </channel>
 </rss>
