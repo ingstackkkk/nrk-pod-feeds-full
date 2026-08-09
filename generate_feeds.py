@@ -94,16 +94,22 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count=10):
             )
 
     else:
-        logging.info(
-            f"Fetching latest {ep_count} episodes"
-        )
+    logging.info(
+        f"Fetching latest {ep_count} episodes"
+    )
 
-        episodes = get_podcast_episodes(
-            podcast_id,
-            season,
-        )
+    episodes = get_podcast_episodes(
+        podcast_id,
+        season,
+    )
 
-        episodes = episodes[:ep_count]
+    if episodes is None:
+        logging.warning(
+            f"Could not fetch episodes for {podcast_id}"
+        )
+        return None
+
+    episodes = episodes[:ep_count]
 
     if not episodes:
         return None
