@@ -112,14 +112,14 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count=10):
                 season,
             )
 
-    else:
-        # Normal mode and subsequent archive updates.
-        #
-        # Only fetch the newest 10 episodes from NRK.
-        episodes = get_podcast_episodes(
-            podcast_id,
-            season,
-        )
+   else:
+    # Normal mode - fetch newest episodes
+    episodes = get_podcast_episodes(
+        podcast_id,
+        season,
+    )
+
+    episodes = episodes[:ep_count]
 
     if not episodes:
         return None
