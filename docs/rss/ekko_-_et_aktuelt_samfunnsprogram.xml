@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 10 siste fra Ekko</title>
+    <title>De 11 siste fra Ekko</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 11 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
     <ns0:explicit>no</ns0:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 10 Aug 2026 09:01:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 17:42:15 +0000</lastBuildDate>
     <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
     <ns0:block>Yes</ns0:block>
     <ns0:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg" />
+    <item>
+      <title>Keisersnitt gir ikke sykmelding</title>
+      <description>Norge står midt i årets største babyboom, men kvinner som føder med keisersnitt har ikke alltid rett på sykmelding. Hvorfor?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/bb1367c7-fe34-4160-9367-c7fe3451608a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/bb1367c7-fe34-4160-9367-c7fe3451608a_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>20:54</ns0:duration>
+      <pubDate>Mon, 10 Aug 2026 13:30:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/kQopxBlDVPHKsT8OIfPutAbCdTB0-_9bXvxVNKiJjDMA.jpg" />
+    </item>
     <item>
       <title>Netthandel endrar samfunnet</title>
       <description>Nye kjøpemønstre går ut over nærbutikkane. Kva gjer det med både oss, og bysamfunna, at vi handlar digitalt?</description>
