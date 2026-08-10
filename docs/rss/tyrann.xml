@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 5 siste fra Tyrann</title>
+    <title>De 31 siste fra Tyrann</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 31 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 10 Aug 2026 18:11:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 18:25:08 +0000</lastBuildDate>
     <pubDate>Sat, 27 Jun 2026 06:03:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg" />
@@ -65,5 +65,290 @@ Enver Hoxha - hersker af Europas mest lukkede land (Radio IIII, 2025)</descripti
       <pubDate>Thu, 25 Jun 2026 12:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/aLvs8uZtbTm3E8cL3rVQgw9awsf6XQaqY5JrqGOl7OWw.jpg" />
     </item>
-    </channel>
+    <item>
+      <title>Charles Taylor (4:4)</title>
+      <description>Taylor har nådd toppen, men skjebnen vil noe annet. Nå gjelder ikke lengre Taylors jakt på makt, men rettferdighetens jakt på ham.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/bda60d1e-a5c7-4e60-a60d-1ea5c71e60a8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/bda60d1e-a5c7-4e60-a60d-1ea5c71e60a8_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>43:49</itunes:duration>
+      <pubDate>Sat, 30 May 2026 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rqLZ_dbqdbUdUvlNjIE_UwZ_Q-thDmWj8c6YDNIT030g.jpg" />
+    </item>
+    <item>
+      <title>Charles Taylor (3:4)</title>
+      <description>Hevnens time er kommet! Hvis de andre tyr til skitne triks i kampen om makten, så vil Taylor definitivt bruke samme våpen mot dem.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/838e3b4d-5964-4cd9-8e3b-4d5964ccd9bb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/838e3b4d-5964-4cd9-8e3b-4d5964ccd9bb_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>41:59</itunes:duration>
+      <pubDate>Sat, 30 May 2026 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rqLZ_dbqdbUdUvlNjIE_UwZ_Q-thDmWj8c6YDNIT030g.jpg" />
+    </item>
+    <item>
+      <title>Charles Taylor (2:4)</title>
+      <description>For første gang er makten innen rekkevidde, men snart kommer Taylor på kant med de brutale mennene som skulle føre ham til topps.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/01907f0c-54ea-4ff9-907f-0c54eaeff9d3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/01907f0c-54ea-4ff9-907f-0c54eaeff9d3_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>36:36</itunes:duration>
+      <pubDate>Sat, 30 May 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rqLZ_dbqdbUdUvlNjIE_UwZ_Q-thDmWj8c6YDNIT030g.jpg" />
+    </item>
+    <item>
+      <title>Charles Taylor (1:4)</title>
+      <description>Fattiggutten Charles Taylor drømmer om å endre Liberias skjebne. For å oppfylle drømmen, behøver han folk med blod på hendene.
+
+Kilder:
+Charles Taylor and Liberia: Ambition and Atrocity in Africa's Lone Star State - Collin M. Waugh (Zed Books, 2011)
+Human Rights Watch Reports 1990, 1993, 1994, 1995, 2001, 2004
+Children in combat, TRC Final Report - https://www.trcofliberia.org/index.html
+
+Taylors forsvar: 
+https://www.youtube.com/@charlestaylor1182
+
+Rettsdokumenter: https://www.sierra-leone.org/Documents/Decisions/Taylor/1283/SCSL-03-01-T-1283.pdf?utm_source=chatgpt.com
+
+Amnesty: https://www.amnesty.org/fr/wp-content/uploads/2021/08/afr340092004en.pdf?utm_source=chatgpt.com + https://www.amnesty.org/en/wp-content/uploads/2021/06/afr340092001en.pdf?utm_source=chatgpt.com
+
+Wikipedia</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/2d899fe9-7bcf-4ec7-899f-e97bcfeec78a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/2d899fe9-7bcf-4ec7-899f-e97bcfeec78a_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>43:51</itunes:duration>
+      <pubDate>Sat, 30 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rqLZ_dbqdbUdUvlNjIE_UwZ_Q-thDmWj8c6YDNIT030g.jpg" />
+    </item>
+    <item>
+      <title>Khomeini (6:6)</title>
+      <description>Kan Khomeini være udødelig? Han er kanskje mer enn en vismann, men til slutt er Khomeini framfor alt en dårlig, blodtørstig taper.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/7c4540af-05f7-4e1e-8540-af05f7fe1e44_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/7c4540af-05f7-4e1e-8540-af05f7fe1e44_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>37:27</itunes:duration>
+      <pubDate>Sat, 02 May 2026 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vHEgBKeLA9m7apQD1UvSowNWxkV57CKHc-X5z3HixZ1g.jpg" />
+    </item>
+    <item>
+      <title>Khomeini (5:6)</title>
+      <description>Khomeini er svært fornøyd med revolusjonen sin, og vil spre sitt gledelige budskap til nabolandene. Men en av naboene går til krig!</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/034789d3-0bc6-4e2b-8789-d30bc6de2baa_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/034789d3-0bc6-4e2b-8789-d30bc6de2baa_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>28:28</itunes:duration>
+      <pubDate>Sat, 02 May 2026 06:04:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vHEgBKeLA9m7apQD1UvSowNWxkV57CKHc-X5z3HixZ1g.jpg" />
+    </item>
+    <item>
+      <title>Khomeini (4:6)</title>
+      <description>Steininger, fengslinger og henrettelser. Ayatollah Khomeinis nye Iran ble ikke akkurat sånn som han hadde lovet det iranske folket.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/4109d560-1c43-476e-89d5-601c43c76e59_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/4109d560-1c43-476e-89d5-601c43c76e59_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>26:26</itunes:duration>
+      <pubDate>Sat, 02 May 2026 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vHEgBKeLA9m7apQD1UvSowNWxkV57CKHc-X5z3HixZ1g.jpg" />
+    </item>
+    <item>
+      <title>Khomeini (3:6)</title>
+      <description>Khomeini sendes i eksil til Tyrkia, men skjønner at sjahens makt minker. Misnøyen i Iran vokser, og Khomeini puster liv til bålet.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/40231a67-0cea-4a8d-a31a-670ceaea8dd9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/40231a67-0cea-4a8d-a31a-670ceaea8dd9_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>38:30</itunes:duration>
+      <pubDate>Sat, 02 May 2026 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vHEgBKeLA9m7apQD1UvSowNWxkV57CKHc-X5z3HixZ1g.jpg" />
+    </item>
+    <item>
+      <title>Khomeini (2:6)</title>
+      <description>Alt Khomeini hater, elsker sjahen. Med støtte fra USA vil sjahen bygge et moderne Iran, noe som gjør Khomeini überklar for opprør.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/d677c5d8-a4a0-4cee-b7c5-d8a4a08ceef7_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/d677c5d8-a4a0-4cee-b7c5-d8a4a08ceef7_2_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>37:20</itunes:duration>
+      <pubDate>Sat, 02 May 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vHEgBKeLA9m7apQD1UvSowNWxkV57CKHc-X5z3HixZ1g.jpg" />
+    </item>
+    <item>
+      <title>Khomeini (1:6)</title>
+      <description>Før han går i gang med fatwa og sharia, er den unge Khomeini hellig overbevist om at han er mye tettere på Allah enn alle andre. 
+
+Kilder:
+I knew the Shah - Al Jazeera (dokumentar, 2009)
+I knew Khomeini - Al Jazeera (dokumentar, 2017)
+
+Black Wave: Saudi Arabia, Iran and the Rivalry that Unravelled the Middle East - Ghattas, K. (Wildfire, 2020)
+The Shah - Milani, A. (New York: St. Martin’s Griffin, 2011)  
+Khomeini: Life of the Ayatollah - Moin, B. (London: I.B. Tauris, 1999)  
+Irans moderne historie - Elling, Rasmus Christian
+
+Emergency Episode: Qassem Soleimani and the Bastardful History of U.S./Iran - Evans, R. (host) (‘Relations’ [Podcast episode]. Behind the Bastards, 2020) ‘ iHeartPodcasts, 8 January 2020. (Accessed: 30 January 2026).
+Empire podcast series on iran: episode 96-125
+Conflicted podcast series on Iran
+Wiser world podcast series on Iran: “Iran 101”</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/aefd39d6-d0cc-42eb-bd39-d6d0cc42eb7a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/aefd39d6-d0cc-42eb-bd39-d6d0cc42eb7a_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>32:00</itunes:duration>
+      <pubDate>Sat, 02 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vHEgBKeLA9m7apQD1UvSowNWxkV57CKHc-X5z3HixZ1g.jpg" />
+    </item>
+    <item>
+      <title>Nijazov (3:3)</title>
+      <description>Nijazovs storverk Ruhnama er verdens beste bok, skrevet av en genial forfatter. Men får folket nå mer enn nok diktator i monitor?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/f1c0907d-bee5-4a77-8090-7dbee52a779c_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/f1c0907d-bee5-4a77-8090-7dbee52a779c_2_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>39:51</itunes:duration>
+      <pubDate>Sat, 04 Apr 2026 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SZrX6HFMpzk_bMFFDOUGYAoXmVSyBuS5K3p1dfrL_CWQ.jpg" />
+    </item>
+    <item>
+      <title>Nijazov (2:3)</title>
+      <description>Nijazov styrer landet som et SIMS-spill, og reiser statuer av seg selv i gull og marmor, med statskassa som sin private lommebok.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/a0227e2e-5d5e-4385-a27e-2e5d5ee38541_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/a0227e2e-5d5e-4385-a27e-2e5d5ee38541_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>31:10</itunes:duration>
+      <pubDate>Sat, 04 Apr 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SZrX6HFMpzk_bMFFDOUGYAoXmVSyBuS5K3p1dfrL_CWQ.jpg" />
+    </item>
+    <item>
+      <title>Nijazov (1:3)</title>
+      <description>Etter å ha mistet mor og søsken i et digert jordskjelv jobber lille Nijazov seg opp til storhet. Eller rendyrket stormannsgalskap?
+
+Kilder:
+Ruhnama Bind 1 &amp; 2 -  Saparmurat Nijazov
+The Temptations of Tyranny in Central Asia - David Lewis
+It's a Gas - Funny Business in the Turkmen-Ukraine Gastrade - Global Witness (website)
+When a Kleptocratic, Megalomanûacal Dictator Goes Bad - Ilan Greenberg (New York Times)
+The Golden Man - Paul Theroux (The New Yorker)</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/040befb1-8980-468d-8bef-b18980468d2b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/040befb1-8980-468d-8bef-b18980468d2b_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>29:41</itunes:duration>
+      <pubDate>Sat, 04 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SZrX6HFMpzk_bMFFDOUGYAoXmVSyBuS5K3p1dfrL_CWQ.jpg" />
+    </item>
+    <item>
+      <title>Ceaușescu (6:6)</title>
+      <description>Plutselig er revolusjonen i gang i Romania, og mens jula ringes inn må Ceaușescus flykte for livet fra folkets oppdemte hevntørst.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/d176a9b4-2bbe-47ce-b6a9-b42bbec7ceee_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/d176a9b4-2bbe-47ce-b6a9-b42bbec7ceee_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>26:06</itunes:duration>
+      <pubDate>Sat, 07 Mar 2026 06:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4VKQ0CJZW9tpp2sECor72w-X8zlavnWlliCzerBwxXog.jpg" />
+    </item>
+    <item>
+      <title>Ceaușescu (5:6)</title>
+      <description>Mens opprøret ulmer i en stadig mer undertrykt befolkning, tar paranoiaen overhånd hos Ceaușescu. Til slutt eksploderer det hele.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/81208312-002f-4cde-a083-12002f8cded5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/81208312-002f-4cde-a083-12002f8cded5_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>23:52</itunes:duration>
+      <pubDate>Sat, 07 Mar 2026 06:04:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4VKQ0CJZW9tpp2sECor72w-X8zlavnWlliCzerBwxXog.jpg" />
+    </item>
+    <item>
+      <title>Ceaușescu (4:6)</title>
+      <description>Etter et statsbesøk i Nord-Korea ønsker Ceaușescu å omskape seg selv til en like høyt elsket og guddommelig leder som Kim Il Sung.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/359733aa-c2e5-4442-9733-aac2e5144225_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/359733aa-c2e5-4442-9733-aac2e5144225_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>39:03</itunes:duration>
+      <pubDate>Sat, 07 Mar 2026 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4VKQ0CJZW9tpp2sECor72w-X8zlavnWlliCzerBwxXog.jpg" />
+    </item>
+    <item>
+      <title>Ceaușescu (3:6)</title>
+      <description>Ut av det blå blir Ceaușescu Romanias nye leder. Han slipper gjerne litt frisk luft inn i landet, om han selv kan bli mer populær.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/8946ee28-0799-4d9f-86ee-2807998d9fdf_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/8946ee28-0799-4d9f-86ee-2807998d9fdf_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>30:48</itunes:duration>
+      <pubDate>Sat, 07 Mar 2026 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4VKQ0CJZW9tpp2sECor72w-X8zlavnWlliCzerBwxXog.jpg" />
+    </item>
+    <item>
+      <title>Ceaușescu (2:6)</title>
+      <description>I fengsel blir Ceaușescu kjent med partitoppene. Tenner han sigarettene og pusser skoene deres, kan de kanskje gi ham noe tilbake?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/7f7b10af-8fb1-407f-bb10-af8fb1207fdf_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/7f7b10af-8fb1-407f-bb10-af8fb1207fdf_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>32:27</itunes:duration>
+      <pubDate>Sat, 07 Mar 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4VKQ0CJZW9tpp2sECor72w-X8zlavnWlliCzerBwxXog.jpg" />
+    </item>
+    <item>
+      <title>Ceaușescu (1:6)</title>
+      <description>Ceaușescus oppvekst er fattig på kjærlighet. Han forelsker seg i kommunismen, og kastes ut i en turbulent ungdomstid i Romania.
+
+Kilder:
+Nicolae Ceaușescu : a study in political leadership - Mary Ellen Fischer 
+Ceaușescus taler: Uddrag af taler, interviews og artikler - Nicolae Ceaușescu / K. Helveg Petersen 
+Red Horizons: The True Story of Nicolae and Elena Ceaușescus' Crimes, Lifestyle, and Corruption - Ion Mihai Pacepa 
+Ceaușescu and the Securitate: Coercion and Dissent in Romania, 1965-1989 - Dennis Deletant 
+Kiss the hand you cannot bite - Edward Behr
+The King of Communism: Nicolae Ceaușescu (2016) BBC-dokumentar 
+The Autobiography of Nicolae Ceaușescu (2010) rumensk dokumentar</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/5fac9026-179a-499e-ac90-26179af99ebf_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/5fac9026-179a-499e-ac90-26179af99ebf_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>27:27</itunes:duration>
+      <pubDate>Sat, 07 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4VKQ0CJZW9tpp2sECor72w-X8zlavnWlliCzerBwxXog.jpg" />
+    </item>
+    <item>
+      <title>Trujillo (3:3)</title>
+      <description>Trujillo er blitt gammel og mer og mer skranten. Han babler hele tiden om at noen vil drepe ham. Og det kan han jo ha helt rett i.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/2e9ab28f-8702-415c-9ab2-8f8702315cfd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/2e9ab28f-8702-415c-9ab2-8f8702315cfd_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>31:13</itunes:duration>
+      <pubDate>Sat, 07 Feb 2026 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zXzvcEYNhVY8WJ-djHKXKgJ5ssBDL4dHIvxY9G22cnwA.jpg" />
+    </item>
+    <item>
+      <title>Trujillo (2:3)</title>
+      <description>Når Trujillo blir lei av dårlige haitiske naboer, løser han det med et grusomt folkemord på alle de som ikke kan uttale "persille".</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/92848756-ff05-4287-8487-56ff05e28797_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/92848756-ff05-4287-8487-56ff05e28797_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>27:30</itunes:duration>
+      <pubDate>Sat, 07 Feb 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zXzvcEYNhVY8WJ-djHKXKgJ5ssBDL4dHIvxY9G22cnwA.jpg" />
+    </item>
+    <item>
+      <title>Trujillo (1:3)</title>
+      <description>Den blodtørstige tyrannen Rafael Trujillo kom fra usle kår og endte med å styre Den dominikanske republikk med drap og folkemord.
+
+Kilder
+Death of the Goat - Bermard Diederich 
+Trujillo: The life and times of a caribbean Dictator - Robert D. Crassweller 
+The dictator's seduction - Lauren Derby 
+Foundations of despotism - Richard Lee Turits 
+The dictator next door - Eric Paul Roorda</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/6bab1b71-ddf2-481f-ab1b-71ddf2c81fcc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/6bab1b71-ddf2-481f-ab1b-71ddf2c81fcc_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>33:06</itunes:duration>
+      <pubDate>Sat, 07 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zXzvcEYNhVY8WJ-djHKXKgJ5ssBDL4dHIvxY9G22cnwA.jpg" />
+    </item>
+    <item>
+      <title>Mao (5:5)</title>
+      <description>Mao mister tillit til sin lojale høyre hånd, Lin Biao. Men det rammer også formannen selv, for hva er vel livet verdt uten venner?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/53e9332d-fba6-41d7-a933-2dfba611d7f6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/53e9332d-fba6-41d7-a933-2dfba611d7f6_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>29:10</itunes:duration>
+      <pubDate>Sat, 10 Jan 2026 06:04:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r4NN2mNTQ8dkN_UO2H4NswoNyaBVecpMNT5hDhy2tnyQ.jpg" />
+    </item>
+    <item>
+      <title>Mao (4:5)</title>
+      <description>Mao stoler ikke på noen lengre, så han restarter like godt hele kommunistbevegelsen med Den Store Proletariske Kulturrevolusjonen.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/9acab3df-09a9-4747-8ab3-df09a9274787_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/9acab3df-09a9-4747-8ab3-df09a9274787_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>35:37</itunes:duration>
+      <pubDate>Sat, 10 Jan 2026 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r4NN2mNTQ8dkN_UO2H4NswoNyaBVecpMNT5hDhy2tnyQ.jpg" />
+    </item>
+    <item>
+      <title>Mao (3:5)</title>
+      <description>Kina må bli en industriell stormakt. Dermed starter Mao reformer som dreper millioner av kinesere. Samt så å si samtlige spurver.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/886d1fa4-c56f-45a9-ad1f-a4c56fe5a98e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/886d1fa4-c56f-45a9-ad1f-a4c56fe5a98e_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>40:13</itunes:duration>
+      <pubDate>Sat, 10 Jan 2026 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r4NN2mNTQ8dkN_UO2H4NswoNyaBVecpMNT5hDhy2tnyQ.jpg" />
+    </item>
+    <item>
+      <title>Mao (2:5)</title>
+      <description>Bare noen få overlever Den Lange Marsjen. Nå må Mao gjenoppbygge kommunistpartiet, vinne borgerkrigen og få orden på privatlivet.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/4abfb346-5ec8-43ac-bfb3-465ec8a3ac38_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/4abfb346-5ec8-43ac-bfb3-465ec8a3ac38_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>29:10</itunes:duration>
+      <pubDate>Sat, 10 Jan 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r4NN2mNTQ8dkN_UO2H4NswoNyaBVecpMNT5hDhy2tnyQ.jpg" />
+    </item>
+  </channel>
 </rss>
