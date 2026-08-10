@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 11 siste fra Oppdatert</title>
+    <title>De 30 siste fra Oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 11 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 30 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
     <ns0:explicit>no</ns0:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 10 Aug 2026 17:42:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 17:46:15 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <ns0:block>Yes</ns0:block>
     <ns0:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg" />
@@ -110,6 +110,177 @@
       <ns0:duration>26:59</ns0:duration>
       <pubDate>Wed, 22 Jul 2026 05:59:00 +0200</pubDate>
       <ns0:image href="https://gfx.nrk.no/xPjyjvDvD-gn6tNFKoSH3Qaw3dL2jUbK3XFKJrh1jnXA.jpg" />
+    </item>
+  <item>
+      <title>Skrev bok om sorg: Skjulte forfatteren et drap?</title>
+      <description>Hun skrev en hyllet barnebok om tap av en forelder. Samtidig vokser spørsmålene rundt ektemannens død.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/6fae21a0-0a1b-410b-ae21-a00a1b610b28_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/6fae21a0-0a1b-410b-ae21-a00a1b610b28_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>18:36</ns0:duration>
+      <pubDate>Mon, 20 Jul 2026 05:59:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/VBUiYR2_3kRFtcUYbNc2oA6frnPDfPufIQEGfLI8-9FQ.jpg" />
+    </item>
+    <item>
+      <title>Tvunget til å legge opp: Hva skjedde med BTS?</title>
+      <description>Kan de koreanske verdensstjernene klare å nå tilbake til toppen etter flere år fra hverandre?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/2cf52d75-7bec-4c87-b52d-757bec3c87ec_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/2cf52d75-7bec-4c87-b52d-757bec3c87ec_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>11:48</ns0:duration>
+      <pubDate>Fri, 17 Jul 2026 05:59:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/bkSQFTBZKTKRO6q9mAKctwGhUq8fU01fF34G2fAT5ufQ.jpg" />
+    </item>
+    <item>
+      <title>Norges VM-exit: Har VAR blitt et maktmiddel?</title>
+      <description>Dømming ved hjelp av video skaper raseri blant fotball-supportere verden over. </description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/b86181a2-2b93-4a47-a181-a22b937a472b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/b86181a2-2b93-4a47-a181-a22b937a472b_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>20:47</ns0:duration>
+      <pubDate>Tue, 14 Jul 2026 16:05:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/x8GNz9C9vHG5yZ9HadPREgur-WTGeWcTUqe1ail2iGcg.jpg" />
+    </item>
+    <item>
+      <title>Fant rosa belegg i dusjen: Så kom sjokkbeskjeden</title>
+      <description>Hva er det som skjer med vannet i den lille bygda Kyrkjebø?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/acbf73c0-bed4-4d33-bf73-c0bed42d33a7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/acbf73c0-bed4-4d33-bf73-c0bed42d33a7_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>13:19</ns0:duration>
+      <pubDate>Mon, 13 Jul 2026 05:59:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/CO1rjpIiHRGU8zarJp27wwDmyoKt_7LAANy8FAG_QloQ.jpg" />
+    </item>
+    <item>
+      <title>Hele verden ror: Dette er mannen bak</title>
+      <description>Det er ikke bare på fotballbanen Norge skriver historie, også utenfor banen preger nordmennene verdensmesterskapet.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/8e8e5909-1aa4-47a0-8e59-091aa4f7a014_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/8e8e5909-1aa4-47a0-8e59-091aa4f7a014_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>11:52</ns0:duration>
+      <pubDate>Fri, 10 Jul 2026 05:59:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/Ff57R6u0DxuxNYWzVuHGQwLVjj_RzxSTrrunFNgIt7oA.jpg" />
+    </item>
+    <item>
+      <title>Spion under vann?</title>
+      <description>Nå vet vi mer om gåten Hvaldimir.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/d447fc16-3077-4eb7-87fc-1630773eb70c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/d447fc16-3077-4eb7-87fc-1630773eb70c_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>15:07</ns0:duration>
+      <pubDate>Wed, 08 Jul 2026 05:59:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/aAnJHyi4YIwt5-hmRav2ygnBOsJRMtXlvavIXpjFhrsw.jpg" />
+    </item>
+    <item>
+      <title>Jordskjelv-katastrofen: Dette møtte NRK i ruinene</title>
+      <description>Er det fortsatt mulig å finne overlevende i Venezuela?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/7fe9583d-5ad5-46d2-a958-3d5ad586d26f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/7fe9583d-5ad5-46d2-a958-3d5ad586d26f_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>16:22</ns0:duration>
+      <pubDate>Mon, 06 Jul 2026 05:59:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/7hWGLvFwToGZ97XJldNAuQx4Pki475QlXP21ek1yFzUQ.jpg" />
+    </item>
+    <item>
+      <title>Kampen vi aldri glemmer: Kan historien gjenta seg?</title>
+      <description>Kampen mot Brasil i 1998 anses som tidenes norske fotballprestasjon. Nå møter vi dem igjen i VM.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/b6381c0b-180a-443c-b81c-0b180a043cfd_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/b6381c0b-180a-443c-b81c-0b180a043cfd_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>16:17</ns0:duration>
+      <pubDate>Fri, 03 Jul 2026 05:59:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/3_9_u2ZI6UwB4aPAAJPbWg8WqEATeMGR4idRPKpM2zmQ.jpg" />
+    </item>
+    <item>
+      <title>Tvang kvinner til sex: En telefon endret alt</title>
+      <description>Politiet fikk en telefon som åpnet dørene til en mørk sfære de ikke ante fantes i det norske samfunnet.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/1ca05453-77c2-470a-a054-5377c2870a90_3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/1ca05453-77c2-470a-a054-5377c2870a90_3_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>12:33</ns0:duration>
+      <pubDate>Wed, 01 Jul 2026 05:59:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/BvGQFDgz8RH17wtXHNgnOwHGb201cWhcEq3Z_hup0twQ.jpg" />
+    </item>
+    <item>
+      <title>Ivanka Trumps luksusdrøm fyrer opp Albania</title>
+      <description>Trumps datter og svigersønn har falt pladask for en av Albanias kystperler. Det møter store problemer.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/e40361e8-9e02-4a8b-8361-e89e029a8b82_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/e40361e8-9e02-4a8b-8361-e89e029a8b82_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>15:23</ns0:duration>
+      <pubDate>Mon, 29 Jun 2026 05:59:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/k_TZDECBdiYGipFmWhUR6grWWj42TbRbXcI0K6SvW8Sg.jpg" />
+    </item>
+    <item>
+      <title>Jobben ingen mestrer: Er Burnham britenes nye håp?</title>
+      <description>På 10 år har seks statsministere gått av i Storbritannia. Vil «kongen fra nord» være redningen?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/87a0aa66-1f37-4d4f-a0aa-661f37dd4f04_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/87a0aa66-1f37-4d4f-a0aa-661f37dd4f04_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>18:37</ns0:duration>
+      <pubDate>Fri, 26 Jun 2026 05:59:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/hxuanZsiS10qTKkuGKWsiQg9q3YVk32hCEJtyKeCnZtg.jpg" />
+    </item>
+    <item>
+      <title>Dødsgåte i Mango-dynastiet: Ble gründeren drept?</title>
+      <description>Motemogulen Isak Andtich døde under en fjelltur. Men hva skjedde egentlig?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/fb1152db-dca0-45f9-9152-dbdca0d5f960_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/fb1152db-dca0-45f9-9152-dbdca0d5f960_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>14:08</ns0:duration>
+      <pubDate>Thu, 25 Jun 2026 05:59:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/Um1FEujV6wsdry3M28YVPQeml7MaQ20wqmRa0582f_pg.jpg" />
+    </item>
+    <item>
+      <title>Iran i VM: Storpolitisk drama</title>
+      <description>Landslagstreneren til Iran kaller laget for det mest undertrykte i VM-historien.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/85b5ce4c-55fe-478f-b5ce-4c55fe178f9e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/85b5ce4c-55fe-478f-b5ce-4c55fe178f9e_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>13:53</ns0:duration>
+      <pubDate>Wed, 24 Jun 2026 05:59:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/GiAunoPy3lJpHW_mc2h4Sw6WHPe1kqjM5YMO2YTaWd1Q.jpg" />
+    </item>
+    <item>
+      <title>Katastrofebrannen i LA: Sto en 29-åring bak?</title>
+      <description>Én mann er tiltalt for å ha startet branninfernoet i 2025 som i tok livet av flere mennesker.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/1af4468c-5041-4c2a-b446-8c50417c2afe_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/1af4468c-5041-4c2a-b446-8c50417c2afe_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>16:08</ns0:duration>
+      <pubDate>Tue, 23 Jun 2026 05:59:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/0Is0UetxW_zYbjtIXyU1Ogs2mfQiLl5MObmSoXjPG0JQ.jpg" />
+    </item>
+    <item>
+      <title>Dobbeltdrap i Sverige: Er nordmannen torpedo?</title>
+      <description>En mann fra Sørlandet knyttes til en blodig gjengkonflikt i Sverige.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/8a7b8710-2770-41d0-bb87-10277091d022_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/8a7b8710-2770-41d0-bb87-10277091d022_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>17:13</ns0:duration>
+      <pubDate>Mon, 22 Jun 2026 05:59:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/nwF5UtyIgwRhIpmqzrrEngjFMRw9W9Z2kpLu2acry3xg.jpg" />
+    </item>
+    <item>
+      <title>Olivia Rodrigo: Fra kontrovers til suksess</title>
+      <description>Nylig stormet det, men nå knuser Olivia Rodrigo rekorder med sitt tredje album.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/66aa0d8a-5213-4c73-aa0d-8a52135c73a1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/66aa0d8a-5213-4c73-aa0d-8a52135c73a1_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>17:46</ns0:duration>
+      <pubDate>Fri, 19 Jun 2026 05:59:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/H7QfmXm3wE5Fbk1MvuAPRAn0wU7oJ3b2d3QI1EklQ7UA.jpg" />
+    </item>
+    <item>
+      <title>Dop, damer og hatkrim-anklager: Et bevisst spill?</title>
+      <description>Slik tok den kontroversielle gruppa Roc Boyz over musikknorge.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/4f099b7a-c8ac-4368-899b-7ac8ac036847_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/4f099b7a-c8ac-4368-899b-7ac8ac036847_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>13:38</ns0:duration>
+      <pubDate>Thu, 18 Jun 2026 05:59:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/KfbFn-YejD2oHIvuBVDrKQfeHQ4mLrekft58tKw31xDw.jpg" />
+    </item>
+    <item>
+      <title>Narkokartellenes jerngrep: Likene i VM-byen</title>
+      <description>I Mexico leter mange etter sine kjære. NRK var med på å gjøre grufulle funn.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/b06f72e5-c62e-485a-af72-e5c62e085adf_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/b06f72e5-c62e-485a-af72-e5c62e085adf_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>16:44</ns0:duration>
+      <pubDate>Wed, 17 Jun 2026 05:59:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/_DW1AYMWaZlGMuDUWLNregduIUUAL-YY-PlFzctmyUMA.jpg" />
+    </item>
+    <item>
+      <title>Dom i Høiby-saken: Hva skjer videre?</title>
+      <description>Marius Borg Høiby dømmes til fire års fengsel. Høiby har anket saken.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/c182b8d6-c331-4005-82b8-d6c331a00520_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/c182b8d6-c331-4005-82b8-d6c331a00520_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>15:16</ns0:duration>
+      <pubDate>Mon, 15 Jun 2026 15:32:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/m_WlIbG4ihgUnw59ZGzcNwhLmGH68nFVAdh0RpoB1Y2A.jpg" />
     </item>
   </channel>
 </rss>

@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 10 siste fra Krimrommet</title>
+    <title>De 30 siste fra Krimrommet</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Krimrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/krimrommet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 30 episodene fra podkasten Krimrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/krimrommet for mer informasjon.</description>
     <ns0:explicit>no</ns0:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 10 Aug 2026 17:42:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 17:46:00 +0000</lastBuildDate>
     <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
     <ns0:block>Yes</ns0:block>
     <ns0:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg" />
@@ -101,6 +101,186 @@
       <ns0:duration>24:27</ns0:duration>
       <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
       <ns0:image href="https://gfx.nrk.no/E41s7mA4f7-vqNBXfc2xYQb67M3CK7QJMQPenwNdZzJg.jpg" />
+    </item>
+  <item>
+      <title>Høiby (22): Dette er dommen</title>
+      <description>Kronprinsessens sønn har fått en historisk dom. Hva skjer videre nå?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/96396304-04d2-4dba-b963-0404d24dbac6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/96396304-04d2-4dba-b963-0404d24dbac6_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>31:10</ns0:duration>
+      <pubDate>Mon, 15 Jun 2026 18:35:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/R9JQmd9laK48TE8IBO2tiA23iOp49SdYunmUL1aeT6EQ.jpg" />
+    </item>
+    <item>
+      <title>Høiby (21): Er retten for streng?</title>
+      <description>Lagmannsretten har talt: Marius Borg Høiby må fortsatt sitte i varetekt. Men er beslutningen rettferdig?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/25067f29-3388-47a5-867f-29338817a505_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/25067f29-3388-47a5-867f-29338817a505_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>18:04</ns0:duration>
+      <pubDate>Wed, 10 Jun 2026 16:45:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/PYArHzEwObWDLNV6s66s3AhDZOlMKQCQ9UOq83NDPjJw.jpg" />
+    </item>
+    <item>
+      <title>Wangen (4): Malins siste timer</title>
+      <description>Steinar Wangen forklarer seg om kvelden Malin (47) døde. Så gjør han noe som setter en støkk i retten.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/353eb710-4b8b-4c00-beb7-104b8b3c0068_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/353eb710-4b8b-4c00-beb7-104b8b3c0068_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>23:55</ns0:duration>
+      <pubDate>Wed, 10 Jun 2026 06:00:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/3EZak_8TVdgoM-MaIpKvNAdWletysXwBQYxNeNoQhneQ.jpg" />
+    </item>
+    <item>
+      <title>Wangen (3): Den rosa kofferten</title>
+      <description>Steinar Wangen drar tilbake til Sverige. Det han ikke vet, er at noen er i ferd med å lokke ham i en felle.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/f0d4d7b5-ee16-4735-94d7-b5ee16773592_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/f0d4d7b5-ee16-4735-94d7-b5ee16773592_2_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>17:47</ns0:duration>
+      <pubDate>Wed, 03 Jun 2026 06:00:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/Z8bTyXeicQ7eJd-cRrlPigtWeE0yTjGR45x_R4TNOOFg.jpg" />
+    </item>
+    <item>
+      <title>Wangen (2): Dødsplanen</title>
+      <description>Steinar Wangen møter en eldre kvinne på et hotell i Sverige. Bare én av dem kommer hjem til Norge i live.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/47cbf670-5aff-4602-8bf6-705aff460229_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/47cbf670-5aff-4602-8bf6-705aff460229_2_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>14:41</ns0:duration>
+      <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/dKfRHounwdwzRQvybIzfugBARyCHTGmyrSDYmPLrjH-Q.jpg" />
+    </item>
+    <item>
+      <title>Wangen (1): Barnedrapet</title>
+      <description>Steinar Wangen er 15 år gammel når han møter en jente i skogen. Det som skjer der, skal endre livet hans for alltid.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/7503c276-e40b-4e39-83c2-76e40bce3947_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/7503c276-e40b-4e39-83c2-76e40bce3947_2_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>10:58</ns0:duration>
+      <pubDate>Sat, 30 May 2026 06:00:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/hc_KHHL_jOTcn20iysaegAya8FxzGSD7LJJHNrPOLryQ.jpg" />
+    </item>
+    <item>
+      <title>Emilie Meng: Er drapsgåten endelig løst?</title>
+      <description>I 2016 forsvinner en 17-åring i Danmark. Så blir to jenter forsøkt kidnappet - i samme område. Hva skjedde, egentlig?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/c6c7d48a-efb7-40a1-87d4-8aefb7b0a175_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/c6c7d48a-efb7-40a1-87d4-8aefb7b0a175_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>25:30</ns0:duration>
+      <pubDate>Wed, 27 May 2026 06:00:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/WceISvijLwdAAc2e7Ibq4QWDtr16tQhKnqbpp-qLchBw.jpg" />
+    </item>
+    <item>
+      <title>Bensindrapet i Porsgrunn</title>
+      <description>Kjetil Mathisen heller bensin over kjæresten sin og tenner på. Noen måneder senere dør kompisen hans. Hva skjedde egentlig?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/f98f8a8d-5045-45db-8f8a-8d504565db88_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/f98f8a8d-5045-45db-8f8a-8d504565db88_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>34:40</ns0:duration>
+      <pubDate>Wed, 20 May 2026 06:00:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/ZpCqrB6hTATxyrybWOjF0wmEvnIy5M-Npe74zZFSdQyQ.jpg" />
+    </item>
+    <item>
+      <title>D4VD: Kan han få dødsstraff?</title>
+      <description>Politiet mener at artisten drepte 14 år gamle Celeste – og parterte henne med motorsag. Men holder bevisene hele veien til retten?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/bb479eeb-0e46-4562-879e-eb0e46b5621b_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/bb479eeb-0e46-4562-879e-eb0e46b5621b_2_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>26:03</ns0:duration>
+      <pubDate>Wed, 13 May 2026 06:00:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/Cng4UKbamhe1n12KvZ6iaQgX42vowUOtwIzhRydG016Q.jpg" />
+    </item>
+    <item>
+      <title>Høiby (20): Avslag på 15 minutter</title>
+      <description>Marius Borg Høiby var tilbake i retten i dag med et ønske om å sitte i varetekt hjemme med fotlenke.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/3ae860d7-d8aa-4a36-a860-d7d8aaaa367b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/3ae860d7-d8aa-4a36-a860-d7d8aaaa367b_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>33:00</ns0:duration>
+      <pubDate>Wed, 06 May 2026 20:45:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/1EEJPg1jIVJybyHR_2IsuwFA0OfQJ8Sc9UHYskzHEpqg.jpg" />
+    </item>
+    <item>
+      <title>Lastebil-Jonas (3): Høy temperatur i retten</title>
+      <description>Det ble roping i salen på rettssakens siste dag. Klarte forsvarerne å snu bevisene til sin fordel?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/376e0c48-0269-49c1-ae0c-48026969c136_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/376e0c48-0269-49c1-ae0c-48026969c136_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>53:09</ns0:duration>
+      <pubDate>Thu, 30 Apr 2026 06:00:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/CoYWGBo5pdWpcdBRV0pWcQNNTkLuxDfHNThlg0eARl6Q.jpg" />
+    </item>
+    <item>
+      <title>Lastebil-Jonas (2): Planlagt drap?</title>
+      <description>Aktor vil ha forvaring for den såkalte "Bestilleren", men kan hun overbevise retten om at drapet på Jonas var planlagt?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/07c62b4c-7aca-499c-862b-4c7aca499c0a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/07c62b4c-7aca-499c-862b-4c7aca499c0a_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>39:17</ns0:duration>
+      <pubDate>Fri, 24 Apr 2026 19:20:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/9wwR0DrfrDhXEhvY5FEE8ggYo0Cnu_ABcZJhla7To3Aw.jpg" />
+    </item>
+    <item>
+      <title>Lastebil-Jonas (1): Dødelig flørt</title>
+      <description>En kort flørt setter i gang en årelang hevnaksjon som ender i drap. Men var planen egentlig å ta livet av Jonas Aarseth Henriksen?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/cb5ff686-857c-4e49-9ff6-86857cbe49cc_5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/cb5ff686-857c-4e49-9ff6-86857cbe49cc_5_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>45:02</ns0:duration>
+      <pubDate>Wed, 15 Apr 2026 06:00:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/v6DGHh-_LknhMHiqON80YAzIA8vc5ywcbvkEwJPXIdVw.jpg" />
+    </item>
+    <item>
+      <title>Vilma Andersson: Kroppsdelene i kjøleskapet (2)</title>
+      <description>En kvinne blir funnet drept og partert i Sverige i romjula 2025. Mannen som nå er pågrepet har en mørk historie.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/6ae6696e-71a2-4b62-a669-6e71a2db622c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/6ae6696e-71a2-4b62-a669-6e71a2db622c_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>26:36</ns0:duration>
+      <pubDate>Wed, 08 Apr 2026 06:00:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/tm0I-osZR_zN5kuTuvThygK_pXRYf9JpLmwDU-s6rhSg.jpg" />
+    </item>
+    <item>
+      <title>Vilma Andersson: 10-åringen som ble tatt (1)</title>
+      <description>En maskert mann drar en jente inn i en bil en sommerdag i 2019. Lokalsamfunnet advarer, men seks år senere blir han tatt med likdeler i kjøleskapet.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/a318a085-c5a3-4f46-98a0-85c5a30f4621_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/a318a085-c5a3-4f46-98a0-85c5a30f4621_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>25:23</ns0:duration>
+      <pubDate>Wed, 01 Apr 2026 06:00:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/QjD_dY70sLMKNkeukJ0U-QXh9jsn5-qtOuCIoj-PznaQ.jpg" />
+    </item>
+    <item>
+      <title>Guthrie: Forsvinningssaken som ryster USA</title>
+      <description>En mann med finlandshette og pistol dukket opp på et overvåkningskamera utenfor huset til TV-stjernens mor.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/d72c61bd-c3b7-4997-ac61-bdc3b7999702_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/d72c61bd-c3b7-4997-ac61-bdc3b7999702_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>24:54</ns0:duration>
+      <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
+      <ns0:image href="https://gfx.nrk.no/W3n4E34EzeqNnubWehHSGAvar1J4Fkxou8FPj9CO0Nug.jpg" />
+    </item>
+    <item>
+      <title>Økse-drapet i Løten (2): Slik endret kvinnen forklaring</title>
+      <description>Drapsdømte Veronica Lystrup tilstod å ha drept, men hevdet nødverge, da saken kom opp i lagmannsretten.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/6ed02099-248a-4691-9020-99248af6912f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/6ed02099-248a-4691-9020-99248af6912f_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>32:45</ns0:duration>
+      <pubDate>Wed, 25 Mar 2026 06:00:00 +0100</pubDate>
+      <ns0:image href="https://gfx.nrk.no/rX_7sQwj4o0bP6A8aQE6ZAEjIJnbOt-tb_lPvHxKWnzA.jpg" />
+    </item>
+    <item>
+      <title>Høiby (19): Forsvaret vil ha ett års fengsel</title>
+      <description>Den siste dagen i retten var forsvarets endelige mulighet til å overbevise dommerne om lavest mulig straff for Marius Borg Høiby.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/b9fbd74a-74aa-4d7f-bbd7-4a74aacd7f96_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/b9fbd74a-74aa-4d7f-bbd7-4a74aacd7f96_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>56:50</ns0:duration>
+      <pubDate>Thu, 19 Mar 2026 23:00:00 +0100</pubDate>
+      <ns0:image href="https://gfx.nrk.no/GSjrhADphw1Jyks94x13oQU7M2Q81Hu6G7QQwQ9Z2Nlg.jpg" />
+    </item>
+    <item>
+      <title>Høiby (18): Aktor vil ha 7 års fengsel</title>
+      <description>Aktoratet og bistandsadvokatene la frem sine siste argumenter i retten i dag.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/8fd21276-b11a-4b70-9212-76b11a5b70e1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/8fd21276-b11a-4b70-9212-76b11a5b70e1_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>41:13</ns0:duration>
+      <pubDate>Wed, 18 Mar 2026 20:30:00 +0100</pubDate>
+      <ns0:image href="https://gfx.nrk.no/LkrAKsBIf0EfTZFMwRaT4Ac9w5YL6YI2eI0yKO-XFAUg.jpg" />
+    </item>
+    <item>
+      <title>Høiby (17): «Høiby er ikke et monster»</title>
+      <description>Mandag var det statsadvokatens siste sjanse til å overbevise retten om at Marius Borg Høiby er skyldig.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/84feb0c2-4ab8-464c-beb0-c24ab8364c35_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/84feb0c2-4ab8-464c-beb0-c24ab8364c35_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>52:16</ns0:duration>
+      <pubDate>Mon, 16 Mar 2026 21:30:00 +0100</pubDate>
+      <ns0:image href="https://gfx.nrk.no/__IfMymy8dM1R6YmNMB_7QDhGNBF_io2G-5AijT8UAoQ.jpg" />
     </item>
   </channel>
 </rss>
