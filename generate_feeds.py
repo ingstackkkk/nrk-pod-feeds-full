@@ -78,7 +78,7 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count=30):
     )
 
     if season == "LATEST_SEASON":
-        season = metadata["_links"]["seasons"][0]["name"]
+        season = None
 
     # ---------------------------------------------------------
     # FETCH EPISODES
