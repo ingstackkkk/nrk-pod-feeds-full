@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 10 siste fra Oppdatert</title>
+    <title>De 11 siste fra Oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 11 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
     <ns0:explicit>no</ns0:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 09 Aug 2026 17:19:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 09:02:01 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <ns0:block>Yes</ns0:block>
     <ns0:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg" />
+    <item>
+      <title>Grensekaos i Europa: Ble Ceuta offer for maktkamp?</title>
+      <description>Hvordan kom over 70.000 migranter til Ceuta samtidig?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/e9f7dd43-4c72-448d-b7dd-434c72748dcc_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/e9f7dd43-4c72-448d-b7dd-434c72748dcc_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>16:32</ns0:duration>
+      <pubDate>Mon, 10 Aug 2026 06:00:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/F2F-PuUDwqZb_FYodMCG9AGZGmgj_cBdsTpPaXTsGBYw.jpg" />
+    </item>
     <item>
       <title>«Heroin chic» er tilbake: Ein stille epidemi?</title>
       <description>Hollywood får skulda for at 90-talets skjønnheitsideal trendar.</description>

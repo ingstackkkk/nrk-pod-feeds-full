@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 357 siste fra Kjapt oppdatert</title>
+    <title>De 358 siste fra Kjapt oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 357 episodene fra podkasten Kjapt oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kjapt_oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 358 episodene fra podkasten Kjapt oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kjapt_oppdatert for mer informasjon.</description>
     <ns0:explicit>no</ns0:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 09 Aug 2026 17:19:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 09:01:54 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <ns0:block>Yes</ns0:block>
     <ns0:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg" />
+    <item>
+      <title>Flere studenter tvunget til å bo hjemme</title>
+      <description>Og hvem er Netanyahus nye utfordrer?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/2a0a245d-5646-41e7-8a24-5d5646f1e76f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/2a0a245d-5646-41e7-8a24-5d5646f1e76f_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
+      <ns0:duration>06:06</ns0:duration>
+      <pubDate>Mon, 10 Aug 2026 05:59:00 +0200</pubDate>
+      <ns0:image href="https://gfx.nrk.no/YrBpmpUbHKA6CzFJ-Dw5NQVGvY7xulf0u_X-JPtHwvxA.jpg" />
+    </item>
     <item>
       <title>Slik beskytter du deg etter et dataangrep</title>
       <description>Og vi gir deg de beste tipsene for kollektivlivet.</description>
