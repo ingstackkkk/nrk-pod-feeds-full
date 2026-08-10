@@ -32,6 +32,10 @@ web_url = "https://sindrel.github.io/nrk-pod-feeds"
 
 ARCHIVE_NS = "https://sindrel.github.io/nrk-pod-feeds/archive"
 ET.register_namespace("nrk", ARCHIVE_NS)
+ET.register_namespace(
+    "itunes",
+    "http://www.itunes.com/dtds/podcast-1.0.dtd",
+)
 
 
 def feed_has_archive_marker(existing_feed):
