@@ -163,7 +163,7 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count=30):
                 title=episode_title,
                 media=Media(
                     audio_url,
-                    0,
+                    1,
                     duration=timedelta(seconds=duration),
                 ),
                 summary=episode_subtitle,
