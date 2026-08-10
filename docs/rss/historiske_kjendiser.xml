@@ -1,430 +1,430 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>De 104 siste fra Historiske kjendiser</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
     <description>Uoffisiell feed med de siste 104 episodene fra podkasten Historiske kjendiser. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/historiske_kjendiser for mer informasjon.</description>
-    <ns0:explicit>no</ns0:explicit>
+    <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 10 Aug 2026 18:03:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 18:10:44 +0000</lastBuildDate>
     <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
-    <ns0:block>Yes</ns0:block>
-    <ns0:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg.jpg" />
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg.jpg" />
     <item>
       <title>Kristoffer Columbus – havets admiral</title>
       <description>Den grådige admiralen oppdaget en ny verdensdel og ble en brutal kolonihersker.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/6241408b-c289-4e25-8140-8bc2891e259c_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/6241408b-c289-4e25-8140-8bc2891e259c_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:53</ns0:duration>
+      <itunes:duration>56:53</itunes:duration>
       <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/jhJuSyG7XzA1X_tInoLNSgvkN67AE248YyueXYpqFnvA.jpg" />
+      <itunes:image href="https://gfx.nrk.no/jhJuSyG7XzA1X_tInoLNSgvkN67AE248YyueXYpqFnvA.jpg" />
     </item>
   <item>
       <title>Alfred Nobel – eksplosiv oppfinner</title>
       <description>Den svenske oppfinneren sprengte seg inn i verdenshistorien og etterlot seg verdens mest kjente pris.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/75d22465-dd87-4a64-9224-65dd877a645d_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/75d22465-dd87-4a64-9224-65dd877a645d_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:54</ns0:duration>
+      <itunes:duration>56:54</itunes:duration>
       <pubDate>Wed, 29 Jul 2026 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/zx1vB-1Sbq-TKsvuyI6MzAsp5noHRUT4tf6kuipj6z5w.jpg" />
+      <itunes:image href="https://gfx.nrk.no/zx1vB-1Sbq-TKsvuyI6MzAsp5noHRUT4tf6kuipj6z5w.jpg" />
     </item>
     <item>
       <title>Katharine Hepburn – selvstendig stjerne</title>
       <description>Skuespilleren trosset griske filmstudioer og dårlig presse, og vant flere Oscar-priser enn noen andre skuespillere.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/63c892c5-c937-4bf1-8892-c5c9376bf175_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/63c892c5-c937-4bf1-8892-c5c9376bf175_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:45</ns0:duration>
+      <itunes:duration>56:45</itunes:duration>
       <pubDate>Wed, 22 Jul 2026 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/P-ahMsilr-j5wrSlNKt46wKaYWl1E-Dwo3vkrZudjM6g.jpg" />
+      <itunes:image href="https://gfx.nrk.no/P-ahMsilr-j5wrSlNKt46wKaYWl1E-Dwo3vkrZudjM6g.jpg" />
     </item>
     <item>
       <title>Knut Hamsun – sulten forfatter</title>
       <description>Han skrev seg fra sult til berømmelse, men i landstrykeren bodde det et evig mørke.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/a5acfa69-0c00-448a-acfa-690c00348a81_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/a5acfa69-0c00-448a-acfa-690c00348a81_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:47</ns0:duration>
+      <itunes:duration>56:47</itunes:duration>
       <pubDate>Wed, 15 Jul 2026 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/j13eFZAwqpQvlfenNfx-iAf5FdHjHWk9e87ZbBqgoWsw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/j13eFZAwqpQvlfenNfx-iAf5FdHjHWk9e87ZbBqgoWsw.jpg" />
     </item>
     <item>
       <title>Leiv Eiriksson – norrøn eventyrer</title>
       <description>Vikingen som satte livet på spill for å finne et ukjent land.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/bf66c863-c744-4207-a6c8-63c744b2070b_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/bf66c863-c744-4207-a6c8-63c744b2070b_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:46</ns0:duration>
+      <itunes:duration>56:46</itunes:duration>
       <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/dILIhYVhhtC3OcCvLyLjOQrtma4uYEmRXT110ufNJocw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/dILIhYVhhtC3OcCvLyLjOQrtma4uYEmRXT110ufNJocw.jpg" />
     </item>
     <item>
       <title>Mor Teresa – selvoppofrende helgen</title>
       <description>Den albanske nonnen ofret alt da hun gikk ut i den indiske slummen for å hjelpe de fattige og syke.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/c79368bf-3baa-4833-9368-bf3baa68332a_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/c79368bf-3baa-4833-9368-bf3baa68332a_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:25</ns0:duration>
+      <itunes:duration>56:25</itunes:duration>
       <pubDate>Wed, 01 Jul 2026 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/AtPrqUyVUJe9wGT5nwbP-Ap7JMfdxz_SPf-fTJ9P0yxg.jpg" />
+      <itunes:image href="https://gfx.nrk.no/AtPrqUyVUJe9wGT5nwbP-Ap7JMfdxz_SPf-fTJ9P0yxg.jpg" />
     </item>
     <item>
       <title>Winston Churchill – nazistenes verste fiende</title>
       <description>Med sigaren i én hånd og whiskyglasset i den andre kjempet den karismatiske statsministeren en krig på vegne av hele verden.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/983bb4fb-a86b-4f56-bbb4-fba86bef56f8_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/983bb4fb-a86b-4f56-bbb4-fba86bef56f8_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:38</ns0:duration>
+      <itunes:duration>56:38</itunes:duration>
       <pubDate>Wed, 24 Jun 2026 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/v6nPd0Ray3ISR-WEHiN_EQuLeBbnpOU4ZevljOGfLkPg.jpg" />
+      <itunes:image href="https://gfx.nrk.no/v6nPd0Ray3ISR-WEHiN_EQuLeBbnpOU4ZevljOGfLkPg.jpg" />
     </item>
     <item>
       <title>Synnøve Finden - religiøs ostedronning</title>
       <description>Hun trosset kjønnsnormer og skapte et forretningsimperium bygget på sin kjærlighet til Gud og ost.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/1cf09a7b-2ef0-45dc-b09a-7b2ef005dc4f_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/1cf09a7b-2ef0-45dc-b09a-7b2ef005dc4f_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:45</ns0:duration>
+      <itunes:duration>56:45</itunes:duration>
       <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/LhhFzK3JoAtyNlQHyZ4h2ws029bCcU_7G923EBEuvFLA.jpg" />
+      <itunes:image href="https://gfx.nrk.no/LhhFzK3JoAtyNlQHyZ4h2ws029bCcU_7G923EBEuvFLA.jpg" />
     </item>
     <item>
       <title>Simón Bolívar - Sør-Amerikas frigjører</title>
       <description>Den brutale revolusjonslederen ble frigjøringshelt for et helt kontinent, men endte sine dager som en forhatt diktator.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/01073c82-2538-4ca0-873c-822538aca08c_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/01073c82-2538-4ca0-873c-822538aca08c_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:45</ns0:duration>
+      <itunes:duration>56:45</itunes:duration>
       <pubDate>Wed, 10 Jun 2026 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/iXtklRQC1DxpkJLLDxeMgAaDiYJA-5GqLWig1DFcoMxg.jpg" />
+      <itunes:image href="https://gfx.nrk.no/iXtklRQC1DxpkJLLDxeMgAaDiYJA-5GqLWig1DFcoMxg.jpg" />
     </item>
     <item>
       <title>Édith Piaf – Frankrikes sangfugl</title>
       <description>Sangerinnen ble kalt den lille spurven, men med sin store stemme vant hun publikums hjerter.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/c6cd8325-9050-45ed-8d83-259050e5ed55_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/c6cd8325-9050-45ed-8d83-259050e5ed55_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:32</ns0:duration>
+      <itunes:duration>56:32</itunes:duration>
       <pubDate>Wed, 03 Jun 2026 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/Tlo74gM_iH6q5kK2cLH9nw2z9XRhf7wuB5uHMYCJAe-w.jpg" />
+      <itunes:image href="https://gfx.nrk.no/Tlo74gM_iH6q5kK2cLH9nw2z9XRhf7wuB5uHMYCJAe-w.jpg" />
     </item>
     <item>
       <title>Gianni Versace – visjonær designer</title>
       <description>Med fargerike design og populære show bygget han et av verdens største motehus, men så ble han offer for en kaldblodig seriemorder.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/539938fc-ab44-49e3-9938-fcab4449e3ea_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/539938fc-ab44-49e3-9938-fcab4449e3ea_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:48</ns0:duration>
+      <itunes:duration>56:48</itunes:duration>
       <pubDate>Wed, 27 May 2026 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/hOM0vpdRDANLlnWqEPTx3gHuu-3bdcNyEd676ZvONk_g.jpg" />
+      <itunes:image href="https://gfx.nrk.no/hOM0vpdRDANLlnWqEPTx3gHuu-3bdcNyEd676ZvONk_g.jpg" />
     </item>
     <item>
       <title>Margrete I – unionsdronningen</title>
       <description>Den danske dronningen styrte hele Norden med jernhånd.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/6f028a4f-7161-448f-828a-4f7161548f0d_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/6f028a4f-7161-448f-828a-4f7161548f0d_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:34</ns0:duration>
+      <itunes:duration>56:34</itunes:duration>
       <pubDate>Wed, 20 May 2026 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/wl95w_JOdf9fdv37UanszgwpN0LTXxielqSsRro5b5WA.jpg" />
+      <itunes:image href="https://gfx.nrk.no/wl95w_JOdf9fdv37UanszgwpN0LTXxielqSsRro5b5WA.jpg" />
     </item>
     <item>
       <title>Thor Heyerdahl – havets opprører</title>
       <description>Trosset vitenskapen og krysset Stillehavet på en flåte av balsatre – og beviste at mennesker kunne krysse hav allerede i oldtiden.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/34f542af-98ce-489c-b542-af98cee89cb5_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/34f542af-98ce-489c-b542-af98cee89cb5_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:10</ns0:duration>
+      <itunes:duration>56:10</itunes:duration>
       <pubDate>Wed, 10 Dec 2025 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/hflE5Cr1d6cKu9PssRI8KAJ22B-J6k2kcg-pl4YGscCg.jpg" />
+      <itunes:image href="https://gfx.nrk.no/hflE5Cr1d6cKu9PssRI8KAJ22B-J6k2kcg-pl4YGscCg.jpg" />
     </item>
     <item>
       <title>Dronning Victoria – imperialistisk hersker</title>
       <description>Den britiske dronningen ble forsøkt drept åtte ganger i løpet av livet, men gjorde Storbritannia til verdens største imperium.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/ab0f84f5-32d9-4af9-8f84-f532d9faf9c0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/ab0f84f5-32d9-4af9-8f84-f532d9faf9c0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:39</ns0:duration>
+      <itunes:duration>56:39</itunes:duration>
       <pubDate>Wed, 03 Dec 2025 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/pu0GjR9ZszMARx0EvGWPbQBWDZej8RLoEckcw83qzSYA.jpg" />
+      <itunes:image href="https://gfx.nrk.no/pu0GjR9ZszMARx0EvGWPbQBWDZej8RLoEckcw83qzSYA.jpg" />
     </item>
     <item>
       <title>Emmeline Pankhurst – fryktløs stemme</title>
       <description>Hun trosset loven for kvinners frihet. Emmeline Pankhurst ledet suffragettene med ukuelig kraft og ofret alt for kvinners stemmerett.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/6e067ab4-b9ac-4b46-867a-b4b9ac6b46e1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/6e067ab4-b9ac-4b46-867a-b4b9ac6b46e1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:39</ns0:duration>
+      <itunes:duration>56:39</itunes:duration>
       <pubDate>Wed, 26 Nov 2025 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/4tocdHDO_YXvMEmdpiuzeAkKFbEIFSwBsX9udaSKdH2w.jpg" />
+      <itunes:image href="https://gfx.nrk.no/4tocdHDO_YXvMEmdpiuzeAkKFbEIFSwBsX9udaSKdH2w.jpg" />
     </item>
     <item>
       <title>Edvard Munch – mørkets maler</title>
       <description>Hans kunstverk av sykdom, død og angst ble møtt med latter og avsky, men den plagede maleren nektet å gi seg.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/53153f85-fa20-42b1-953f-85fa2002b1cc_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/53153f85-fa20-42b1-953f-85fa2002b1cc_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:51</ns0:duration>
+      <itunes:duration>56:51</itunes:duration>
       <pubDate>Wed, 19 Nov 2025 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/HOIjcX7uO4gLVLHPWhkh3wGnNDbKYrRnreU2j55qLD_A.jpg" />
+      <itunes:image href="https://gfx.nrk.no/HOIjcX7uO4gLVLHPWhkh3wGnNDbKYrRnreU2j55qLD_A.jpg" />
     </item>
     <item>
       <title>Vasco da Gama – brutal sjøfarer</title>
       <description>Vasco da Gama åpnet sjøveien til India - med krutt, kors og kompromissløs makt.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/d56cd833-2c61-47ed-acd8-332c6127edb5_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/d56cd833-2c61-47ed-acd8-332c6127edb5_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:21</ns0:duration>
+      <itunes:duration>56:21</itunes:duration>
       <pubDate>Wed, 12 Nov 2025 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/tv1A23Bm74Phe6upf0X3owL4T-x8a7cw1DB1sLr9E17g.jpg" />
+      <itunes:image href="https://gfx.nrk.no/tv1A23Bm74Phe6upf0X3owL4T-x8a7cw1DB1sLr9E17g.jpg" />
     </item>
     <item>
       <title>Madame de Pompadour – forhatt elskerinne</title>
       <description>Den alminnelige jenta dro til Versailles, ble kongens elskerinne og en av de mektigste kvinnene i Frankrikes historie.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/073536d3-4730-4965-b536-d347309965f2_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/073536d3-4730-4965-b536-d347309965f2_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:37</ns0:duration>
+      <itunes:duration>56:37</itunes:duration>
       <pubDate>Tue, 04 Nov 2025 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/XRD5rUGAjQw8umui8lGxfgL-phx-m4pjfQ3j-vmziVVQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/XRD5rUGAjQw8umui8lGxfgL-phx-m4pjfQ3j-vmziVVQ.jpg" />
     </item>
     <item>
       <title>Max Manus – motstandshelten</title>
       <description>Han risikerte alt for å bekjempe den tyske okkupasjonen og ble en nasjonalhelt. Selv fant han aldri fred etter krigen</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/5035b4f2-e3d9-4511-b5b4-f2e3d9451171_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/5035b4f2-e3d9-4511-b5b4-f2e3d9451171_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:38</ns0:duration>
+      <itunes:duration>56:38</itunes:duration>
       <pubDate>Wed, 29 Oct 2025 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/LSmJZpOC9KDASa4M3ESdTg8ymuuJqrur9UTYZFvRTQ5Q.jpg" />
+      <itunes:image href="https://gfx.nrk.no/LSmJZpOC9KDASa4M3ESdTg8ymuuJqrur9UTYZFvRTQ5Q.jpg" />
     </item>
     <item>
       <title>Nina Simone – sjel og kampånd</title>
       <description>Trosset rasisme, vold og svik for å finne sin egen stemme. Endte som musikalsk legende utenfor alle sjangre.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/f15fa4c0-b5e4-4e40-9fa4-c0b5e43e4077_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/f15fa4c0-b5e4-4e40-9fa4-c0b5e43e4077_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:50</ns0:duration>
+      <itunes:duration>56:50</itunes:duration>
       <pubDate>Wed, 22 Oct 2025 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/NPZr6y5q22A-ktdf9o3YiAbJxtwv_YDT6yEhluF64BFQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/NPZr6y5q22A-ktdf9o3YiAbJxtwv_YDT6yEhluF64BFQ.jpg" />
     </item>
     <item>
       <title>Olav V – ensom majestet</title>
       <description>Folkekongen ledet Norge med stø hånd, men bar i det stille på savn og ensomhet.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/9ac0d59d-a658-487f-80d5-9da658b87ffa_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/9ac0d59d-a658-487f-80d5-9da658b87ffa_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:32</ns0:duration>
+      <itunes:duration>56:32</itunes:duration>
       <pubDate>Wed, 15 Oct 2025 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/zRCsYg-_rKB2zu4zc78vFwsptLk5QB8gjz6gwNAQWj3Q.jpg" />
+      <itunes:image href="https://gfx.nrk.no/zRCsYg-_rKB2zu4zc78vFwsptLk5QB8gjz6gwNAQWj3Q.jpg" />
     </item>
     <item>
       <title>Pablo Escobar – kartellkongen</title>
       <description>Den colombianske narkobaronen var rik, mektig og fryktet – både i hjemlandet og resten av verden.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/c1b5f405-af4b-4fa5-b5f4-05af4bcfa539_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/c1b5f405-af4b-4fa5-b5f4-05af4bcfa539_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:57</ns0:duration>
+      <itunes:duration>56:57</itunes:duration>
       <pubDate>Wed, 08 Oct 2025 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/X_siRwmgdaM804jedjhxTwqN6nvOup4UzFN_KoTzh_zg.jpg" />
+      <itunes:image href="https://gfx.nrk.no/X_siRwmgdaM804jedjhxTwqN6nvOup4UzFN_KoTzh_zg.jpg" />
     </item>
     <item>
       <title>Diana – folkets prinsesse</title>
       <description>Den ikoniske prinsessen trollbandt verden og snudde monarkiet på hodet.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/49b7c0e0-4996-4bb6-8007-f9045a533923_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/49b7c0e0-4996-4bb6-8007-f9045a533923_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:52</ns0:duration>
+      <itunes:duration>56:52</itunes:duration>
       <pubDate>Wed, 07 May 2025 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/aAoKYTgcZ46hPp6Yyx206w7skE3UB7s4tJ8Wq8mrmlUQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/aAoKYTgcZ46hPp6Yyx206w7skE3UB7s4tJ8Wq8mrmlUQ.jpg" />
     </item>
     <item>
       <title>Margaret Thatcher – jernkvinnen</title>
       <description>Storbritannias første kvinnelige statsminister fikk både lojale tilhengere og blodtørstige fiender.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/75f9ee7f-e03d-4b5c-8bc9-6f12ba3a7c6a_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/75f9ee7f-e03d-4b5c-8bc9-6f12ba3a7c6a_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:51</ns0:duration>
+      <itunes:duration>56:51</itunes:duration>
       <pubDate>Wed, 30 Apr 2025 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/qix1ZuxdWrn-3W4FmwNxqAJ9hv0Yl-KPWvhy1K3wOD4w.jpg" />
+      <itunes:image href="https://gfx.nrk.no/qix1ZuxdWrn-3W4FmwNxqAJ9hv0Yl-KPWvhy1K3wOD4w.jpg" />
     </item>
     <item>
       <title>Saladin - seirende sultan</title>
       <description>Den muslimske verdens mektigste leder sto imot korsfarerne.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/4ff538c7-3000-4ccc-b842-5071d9384437_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/4ff538c7-3000-4ccc-b842-5071d9384437_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:44</ns0:duration>
+      <itunes:duration>56:44</itunes:duration>
       <pubDate>Wed, 23 Apr 2025 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/hufpWPak01cKxyBevtEU-gHPVBRl6bCkhqnWt_o_MLHA.jpg" />
+      <itunes:image href="https://gfx.nrk.no/hufpWPak01cKxyBevtEU-gHPVBRl6bCkhqnWt_o_MLHA.jpg" />
     </item>
     <item>
       <title>Anne Frank – krigens vitne</title>
       <description>Anne Frank ble forfulgt av nazistene fordi hun var jøde. Hun skrev dagbok mens hun levde i skjul under andre verdenskrig.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/b79f445f-4c15-4a94-84fe-33ddfea83c77_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/b79f445f-4c15-4a94-84fe-33ddfea83c77_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:31</ns0:duration>
+      <itunes:duration>56:31</itunes:duration>
       <pubDate>Wed, 16 Apr 2025 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/RuyHhP6VlVIBP_Vf6yG9BATydEe6S2oO1VvIjK-_qU1g.jpg" />
+      <itunes:image href="https://gfx.nrk.no/RuyHhP6VlVIBP_Vf6yG9BATydEe6S2oO1VvIjK-_qU1g.jpg" />
     </item>
     <item>
       <title>Amalie Skram – naturalismens mor</title>
       <description>Forfatteren brøt ned tabuer med sine ærlige og brutale romaner.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/2f7e8717-9381-44e0-836e-6c4e354350fe_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/2f7e8717-9381-44e0-836e-6c4e354350fe_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:56</ns0:duration>
+      <itunes:duration>56:56</itunes:duration>
       <pubDate>Wed, 09 Apr 2025 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/lFoSl0VAQEw3-vwZ4a7ERQ4Wt5UIMCHZDzpl53qu6eDQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/lFoSl0VAQEw3-vwZ4a7ERQ4Wt5UIMCHZDzpl53qu6eDQ.jpg" />
     </item>
     <item>
       <title>Nikolaj II - Russlands siste tsar</title>
       <description>Den russiske tsaren mistet både riket og livet i revolusjonen, og endte dermed det 300 år gamle Romanov-dynastiet.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/65390bc1-32fc-4e56-8484-57b5ffbd744b_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/65390bc1-32fc-4e56-8484-57b5ffbd744b_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:47</ns0:duration>
+      <itunes:duration>56:47</itunes:duration>
       <pubDate>Wed, 02 Apr 2025 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/eHvWfd6oglHSl5wagnQdBwcuUxCa6PjdUsFGstXZ9FLg.jpg" />
+      <itunes:image href="https://gfx.nrk.no/eHvWfd6oglHSl5wagnQdBwcuUxCa6PjdUsFGstXZ9FLg.jpg" />
     </item>
     <item>
       <title>Sokrates - filosofiens far</title>
       <description>Den greske filosofen ble dømt til døden for å tenke fritt.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/c64e505a-eace-4e6d-8035-d21fed9cdc8d_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/c64e505a-eace-4e6d-8035-d21fed9cdc8d_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:57</ns0:duration>
+      <itunes:duration>56:57</itunes:duration>
       <pubDate>Wed, 26 Mar 2025 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/ElYC29eV4I12xC9f6dKbwQCH34qjolItahZsRsIrGKaQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/ElYC29eV4I12xC9f6dKbwQCH34qjolItahZsRsIrGKaQ.jpg" />
     </item>
     <item>
       <title>Anne Boleyn – halshugget dronning</title>
       <description>Dronningen som ble fratatt kronen og hodet av den engelske kongen.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/47b9d353-d344-45dc-a669-a74a60c7ab3a_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/47b9d353-d344-45dc-a669-a74a60c7ab3a_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:38</ns0:duration>
+      <itunes:duration>56:38</itunes:duration>
       <pubDate>Wed, 19 Mar 2025 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/TQBwlhDjKGu06ysGcAXkjA9Td3aB2HUQRWYIVPi0gOLw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/TQBwlhDjKGu06ysGcAXkjA9Td3aB2HUQRWYIVPi0gOLw.jpg" />
     </item>
     <item>
       <title>Nikola Tesla – elektrisk eksentriker</title>
       <description>Den geniale oppfinneren forandret verden med sine elektriske nyvinninger.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/56b8386f-bdba-4d0e-a926-96fc05d1cd2d_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/56b8386f-bdba-4d0e-a926-96fc05d1cd2d_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:35</ns0:duration>
+      <itunes:duration>56:35</itunes:duration>
       <pubDate>Wed, 12 Mar 2025 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/npowfcmxDXU4IzloWMeOFwlAWzDwALH5KB6tKTO5CRmQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/npowfcmxDXU4IzloWMeOFwlAWzDwALH5KB6tKTO5CRmQ.jpg" />
     </item>
     <item>
       <title>Aasta Hansteen – kvinnekampens rebell</title>
       <description>Norges første kvinnelige maler og grunnlegger av den første feministgruppen, røkte og drakk offentlig, og ble banket opp for meningene sine.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/e805ca46-1ba3-4723-bee0-bc181ab5c810_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/e805ca46-1ba3-4723-bee0-bc181ab5c810_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:34</ns0:duration>
+      <itunes:duration>56:34</itunes:duration>
       <pubDate>Wed, 05 Mar 2025 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/uIeGJHl8opUx7-QeeZW-fgBkIu08yjNDgX5EBBjnftHA.jpg" />
+      <itunes:image href="https://gfx.nrk.no/uIeGJHl8opUx7-QeeZW-fgBkIu08yjNDgX5EBBjnftHA.jpg" />
     </item>
     <item>
       <title>Abraham Lincoln – nasjonens redningsmann</title>
       <description>Den 16. presidenten ledet USA gjennom borgerkrigen og avskaffet slaveriet.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/899c79cb-5cb4-4fea-b963-bf789e8192c9_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/899c79cb-5cb4-4fea-b963-bf789e8192c9_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:55</ns0:duration>
+      <itunes:duration>56:55</itunes:duration>
       <pubDate>Wed, 16 Oct 2024 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/VKeoAAcGME9OWnwQCmYtbQT8pJy3FPo2jzvkQgEuW-Rw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/VKeoAAcGME9OWnwQCmYtbQT8pJy3FPo2jzvkQgEuW-Rw.jpg" />
     </item>
     <item>
       <title>Fridtjof Nansen – oppfinnsom oppdager</title>
       <description>Polfareren og eventyreren reddet også tusener av menneskeliv.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/843c0dfb-6291-4c61-a6ce-2e25af313e9b_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/843c0dfb-6291-4c61-a6ce-2e25af313e9b_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:43</ns0:duration>
+      <itunes:duration>56:43</itunes:duration>
       <pubDate>Wed, 09 Oct 2024 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/Y_j2Ht5YYOlmwuZQw9DwqQE-pYyFcgLz0pEJYcaC3qlw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/Y_j2Ht5YYOlmwuZQw9DwqQE-pYyFcgLz0pEJYcaC3qlw.jpg" />
     </item>
     <item>
       <title>Katarina av Medici – blodtørstig enkedronning</title>
       <description>Den sorte dronningen bestilte drap på sine verste fiender</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/d99f8825-eb87-476e-ba90-a031d5c2a39e_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/d99f8825-eb87-476e-ba90-a031d5c2a39e_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:27</ns0:duration>
+      <itunes:duration>56:27</itunes:duration>
       <pubDate>Wed, 02 Oct 2024 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/QRnusIhcAFI6T8dassFbxQim03ZSak6_72yqWQkERcjQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/QRnusIhcAFI6T8dassFbxQim03ZSak6_72yqWQkERcjQ.jpg" />
     </item>
     <item>
       <title>Marilyn Monroe - banebrytende blondine</title>
       <description>Den platinablonde skuespilleren reiste fra fosterhjem til Hollywood.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/82fdf039-8ebd-4aeb-9ff7-89f6e917a0fb_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/82fdf039-8ebd-4aeb-9ff7-89f6e917a0fb_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:57</ns0:duration>
+      <itunes:duration>56:57</itunes:duration>
       <pubDate>Wed, 25 Sep 2024 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/6WQXbnLrxRCPWmcEdBCoIgFi1mU-8RZbzu0EpdaNOjfQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/6WQXbnLrxRCPWmcEdBCoIgFi1mU-8RZbzu0EpdaNOjfQ.jpg" />
     </item>
     <item>
       <title>Haile Selassie – guddommelig keiser</title>
       <description>Etiopieren gikk fra elsket keiser til hatet diktator</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/6c0ce641-4223-4422-8b7c-0df11b9f4777_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/6c0ce641-4223-4422-8b7c-0df11b9f4777_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:53</ns0:duration>
+      <itunes:duration>56:53</itunes:duration>
       <pubDate>Wed, 18 Sep 2024 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/gfeqYRp9urx8uU6aEQmJmAMCDxPk8mSCFaECF7cXQjmg.jpg" />
+      <itunes:image href="https://gfx.nrk.no/gfeqYRp9urx8uU6aEQmJmAMCDxPk8mSCFaECF7cXQjmg.jpg" />
     </item>
     <item>
       <title>Napoleon Bonaparte Del 2</title>
       <description>Keiseren ble maktsyk, tapte og endte sine dager på en øde øy</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/c2c3224b-b938-4c68-b959-9f7c47ef958f_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/c2c3224b-b938-4c68-b959-9f7c47ef958f_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:49</ns0:duration>
+      <itunes:duration>56:49</itunes:duration>
       <pubDate>Wed, 11 Sep 2024 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/MM6Xh5naZN5cEpBSwomeMwfe-vG5vocGWZNuQo4rqEWw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/MM6Xh5naZN5cEpBSwomeMwfe-vG5vocGWZNuQo4rqEWw.jpg" />
     </item>
     <item>
       <title>Napoleon Bonaparte Del 1</title>
       <description>Korsikaneren klatret i gradene og kronet seg selv til keiser.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/830f0423-35bc-4473-bf28-e871030d43cf_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/830f0423-35bc-4473-bf28-e871030d43cf_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:55</ns0:duration>
+      <itunes:duration>56:55</itunes:duration>
       <pubDate>Wed, 04 Sep 2024 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/pH_bwm7ZsD6RahN4CWapPQFTnjcF7KUBbo3SiQ_ikVqQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/pH_bwm7ZsD6RahN4CWapPQFTnjcF7KUBbo3SiQ_ikVqQ.jpg" />
     </item>
     <item>
       <title>Fredrikke Marie Qvam – kvinnesaksdronningen</title>
       <description>Kvinnesakspionéren var en organisatorisk mesterhjerne.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/f0716b48-64a9-4365-a9d3-7b072fa6eb1e_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/f0716b48-64a9-4365-a9d3-7b072fa6eb1e_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:42</ns0:duration>
+      <itunes:duration>56:42</itunes:duration>
       <pubDate>Wed, 28 Aug 2024 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/La8QBI9sUQjXSeg6cDeFLAUkZSlIPxrpkiX62uoXA_qQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/La8QBI9sUQjXSeg6cDeFLAUkZSlIPxrpkiX62uoXA_qQ.jpg" />
     </item>
     <item>
       <title>Mata Hari – dansende spion</title>
       <description>Showet seg til livsfarlig agentrolle under første verdenskrig.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/3fb7b6bf-86db-449d-97c7-2e416453f457_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/3fb7b6bf-86db-449d-97c7-2e416453f457_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:55</ns0:duration>
+      <itunes:duration>56:55</itunes:duration>
       <pubDate>Wed, 21 Aug 2024 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/zJZ4jXVJnMd0LE3qOXK1gQAnYyFVKvxYrgkIK0sWuyLw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/zJZ4jXVJnMd0LE3qOXK1gQAnYyFVKvxYrgkIK0sWuyLw.jpg" />
     </item>
     <item>
       <title>Henrik Ibsen – dramakongen</title>
       <description>Brøt ned tabuer med det moderne dramaet.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/875f61b6-b912-487c-9a0a-6d29257cff1e_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/875f61b6-b912-487c-9a0a-6d29257cff1e_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:52</ns0:duration>
+      <itunes:duration>56:52</itunes:duration>
       <pubDate>Wed, 14 Aug 2024 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/vvTq_h26uFQi9_Exfln5EgIrSnJlYXb0BJ_FdV26VXxg.jpg" />
+      <itunes:image href="https://gfx.nrk.no/vvTq_h26uFQi9_Exfln5EgIrSnJlYXb0BJ_FdV26VXxg.jpg" />
     </item>
     <item>
       <title>Henrik Wergeland – patriotisk poet</title>
       <description>Den utsvevende forfatteren var en politisk storhet.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/fa59e0f3-4964-41e1-af4a-757cda59c589_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/fa59e0f3-4964-41e1-af4a-757cda59c589_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:26</ns0:duration>
+      <itunes:duration>56:26</itunes:duration>
       <pubDate>Wed, 13 Mar 2024 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/A6jdLg6shZ2O1pCELduFugKF8tdsXQi_L3-NiTN2dWiQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/A6jdLg6shZ2O1pCELduFugKF8tdsXQi_L3-NiTN2dWiQ.jpg" />
     </item>
     <item>
       <title>Aleksander den store – verdens erobrer</title>
       <description>Den makedonske kongen erobret seg til verdensherredømme.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/a42d4bdc-178b-476f-9bf8-f557bdd33763_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/a42d4bdc-178b-476f-9bf8-f557bdd33763_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:25</ns0:duration>
+      <itunes:duration>56:25</itunes:duration>
       <pubDate>Wed, 06 Mar 2024 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/llqbThFM_zFbbCjkAEmu7wk8RVIhCK4klEfb-mc12-SQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/llqbThFM_zFbbCjkAEmu7wk8RVIhCK4klEfb-mc12-SQ.jpg" />
     </item>
     <item>
       <title>Maria Stuart – fanget dronning</title>
       <description>Skotske Maria Stuart mistet tre kongedømmer på veien til avgrunnen.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/d42d7ae9-f84e-433f-be3a-13a282bde0c2_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/d42d7ae9-f84e-433f-be3a-13a282bde0c2_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:35</ns0:duration>
+      <itunes:duration>56:35</itunes:duration>
       <pubDate>Wed, 28 Feb 2024 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/VtKxmiMqDkgxKe8fll6lugy5NfjA91Pj_4X69uvRDBhg.jpg" />
+      <itunes:image href="https://gfx.nrk.no/VtKxmiMqDkgxKe8fll6lugy5NfjA91Pj_4X69uvRDBhg.jpg" />
     </item>
     <item>
       <title>Karl Johan – kongelig kometkarriere</title>
       <description>Franske Jean-Baptiste Bernadotte ble konge over Sverige og Norge.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/5048cff0-03fc-4789-9544-bec0738f62b7_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/5048cff0-03fc-4789-9544-bec0738f62b7_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>52:51</ns0:duration>
+      <itunes:duration>52:51</itunes:duration>
       <pubDate>Wed, 21 Feb 2024 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/1KLrgKnMzGpwvkXh3dHp1AFmLpo-3aSQsFWa5ylHvmIg.jpg" />
+      <itunes:image href="https://gfx.nrk.no/1KLrgKnMzGpwvkXh3dHp1AFmLpo-3aSQsFWa5ylHvmIg.jpg" />
     </item>
     <item>
       <title> Gunvor Hofmo – lengselens lyriker</title>
@@ -432,522 +432,522 @@
 </description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/e957e17b-b377-469a-ad9a-c3d350bc1019_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/e957e17b-b377-469a-ad9a-c3d350bc1019_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>51:11</ns0:duration>
+      <itunes:duration>51:11</itunes:duration>
       <pubDate>Wed, 14 Feb 2024 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/OrJCjmaLPiCoJEXw5EulSwMMW_Ua4GrRuDESF6xwDksQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/OrJCjmaLPiCoJEXw5EulSwMMW_Ua4GrRuDESF6xwDksQ.jpg" />
     </item>
     <item>
       <title>Al Capone – gangsternes konge</title>
       <description>Gangsterkongen Scarface gjorde Chicago til USAs farligste by.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/a13b1422-b8e1-46e8-aaa3-bb69faf8e39d_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/a13b1422-b8e1-46e8-aaa3-bb69faf8e39d_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>52:36</ns0:duration>
+      <itunes:duration>52:36</itunes:duration>
       <pubDate>Wed, 07 Feb 2024 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/1VXrDWu_73yrYMHpLz7BkQf3N9vHS2fW5Tiz-GFKVkKQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/1VXrDWu_73yrYMHpLz7BkQf3N9vHS2fW5Tiz-GFKVkKQ.jpg" />
     </item>
     <item>
       <title>Galileo Galilei – rebelsk vitenskapsmann</title>
       <description>Han var en av fedrene til den moderne vitenskapen, men ble forsøkt kneblet av den katolske kirken.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/7d2e22a6-f363-40cd-9521-efa0d743a5cc_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/7d2e22a6-f363-40cd-9521-efa0d743a5cc_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>57:01</ns0:duration>
+      <itunes:duration>57:01</itunes:duration>
       <pubDate>Wed, 31 Jan 2024 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/sYZW34R1LHzbks7OQclyGQGvNUO_kTXRvXQM9IAzgX2g.jpg" />
+      <itunes:image href="https://gfx.nrk.no/sYZW34R1LHzbks7OQclyGQGvNUO_kTXRvXQM9IAzgX2g.jpg" />
     </item>
     <item>
       <title>Katarina den store – tsar og kuppmaker</title>
       <description>Den russiske keiserinnen kuppet makten fra ektemannen sin.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/59bb09e6-d73c-42db-b151-05e0bb99ce7c_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/59bb09e6-d73c-42db-b151-05e0bb99ce7c_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>59:06</ns0:duration>
+      <itunes:duration>59:06</itunes:duration>
       <pubDate>Wed, 24 Jan 2024 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/uft559i1dW4DXsBMFAbhxg4tkyqK98XJO1PCB9hGgAFA.jpg" />
+      <itunes:image href="https://gfx.nrk.no/uft559i1dW4DXsBMFAbhxg4tkyqK98XJO1PCB9hGgAFA.jpg" />
     </item>
     <item>
       <title>Martin Luther King – mannen med drømmen</title>
       <description>Talene hans gjorde ham verdenskjent, men fikk ham også drept.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/cd11c8af-58fe-4c68-adce-02144ac98bf3_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/cd11c8af-58fe-4c68-adce-02144ac98bf3_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>58:37</ns0:duration>
+      <itunes:duration>58:37</itunes:duration>
       <pubDate>Wed, 17 Jan 2024 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/cJhaUGc7HhOb8Qeg0E79Gww4vQZGhrb7nBihVRQY2zsw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/cJhaUGc7HhOb8Qeg0E79Gww4vQZGhrb7nBihVRQY2zsw.jpg" />
     </item>
     <item>
       <title>Ludwig van Beethoven – symfonisk geni</title>
       <description>Den døve komponisten fylte folks ører med genial musikk.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/50a5e0ba-adf0-4dca-a09f-b5780c60c2c9_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/50a5e0ba-adf0-4dca-a09f-b5780c60c2c9_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:50</ns0:duration>
+      <itunes:duration>56:50</itunes:duration>
       <pubDate>Wed, 10 Jan 2024 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/H4IJ3oJU5UkFhRP_oBcWxAw0z2XopXBEGhiv40MyAnRw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/H4IJ3oJU5UkFhRP_oBcWxAw0z2XopXBEGhiv40MyAnRw.jpg" />
     </item>
     <item>
       <title>Gustav Vigeland – monumental skulptør</title>
       <description>Skulptøren var en sinnatagg, men sto igjen som en kunstnerisk monolitt.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/5cf33a67-68a5-426f-9e89-63e11b27574a_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/5cf33a67-68a5-426f-9e89-63e11b27574a_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:18</ns0:duration>
+      <itunes:duration>56:18</itunes:duration>
       <pubDate>Wed, 04 Oct 2023 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/dlTdOvIidoNb_ypElBcOywW9oNSZufSK480r3ODVTuQA.jpg" />
+      <itunes:image href="https://gfx.nrk.no/dlTdOvIidoNb_ypElBcOywW9oNSZufSK480r3ODVTuQA.jpg" />
     </item>
     <item>
       <title>Ole Høiland – mestertyv og utbryterkonge</title>
       <description>Den sympatiske mestertyven brøt seg ut av fengsel gang etter gang.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/16061955-a552-4eb3-b1fb-27cbdde2aee8_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/16061955-a552-4eb3-b1fb-27cbdde2aee8_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>55:35</ns0:duration>
+      <itunes:duration>55:35</itunes:duration>
       <pubDate>Wed, 27 Sep 2023 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/M0e1iSAJ4D8vZHDhRYM5Lg6vSuwv14TljqfsrtUCInog.jpg" />
+      <itunes:image href="https://gfx.nrk.no/M0e1iSAJ4D8vZHDhRYM5Lg6vSuwv14TljqfsrtUCInog.jpg" />
     </item>
     <item>
       <title>Kleopatra – den siste faraoen</title>
       <description>Den sagnomsuste dronningen ble en av tidenes mektigste herskere.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/9907c6e2-9d8e-4890-a37d-fb5b93fb7a8a_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/9907c6e2-9d8e-4890-a37d-fb5b93fb7a8a_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:37</ns0:duration>
+      <itunes:duration>56:37</itunes:duration>
       <pubDate>Wed, 20 Sep 2023 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/P7pLR0sE2Wyi3fg2tOLBlQBDTEb-QUyyHo5MlUfsfMsA.jpg" />
+      <itunes:image href="https://gfx.nrk.no/P7pLR0sE2Wyi3fg2tOLBlQBDTEb-QUyyHo5MlUfsfMsA.jpg" />
     </item>
     <item>
       <title>Eva Perón – fryktløs førstedame</title>
       <description>Gikk fra skuespiller til førstedame, og ble hele Argentinas Evita.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/e5cb6058-86d2-4640-b8fd-7f4e1131db44_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/e5cb6058-86d2-4640-b8fd-7f4e1131db44_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>57:41</ns0:duration>
+      <itunes:duration>57:41</itunes:duration>
       <pubDate>Wed, 13 Sep 2023 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/DlVLObXmdAvgDxYxCutJugrJD5H4FXw2gsf0Zjub4rmg.jpg" />
+      <itunes:image href="https://gfx.nrk.no/DlVLObXmdAvgDxYxCutJugrJD5H4FXw2gsf0Zjub4rmg.jpg" />
     </item>
     <item>
       <title>William Shakespeare – verdens største dramatiker</title>
       <description>Hele verden kjenner historiene hans, men hans egen er et mysterium.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/04e8d973-56fb-46a7-9921-1f89c49865bb_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/04e8d973-56fb-46a7-9921-1f89c49865bb_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>57:30</ns0:duration>
+      <itunes:duration>57:30</itunes:duration>
       <pubDate>Wed, 06 Sep 2023 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/D_Km6wvF5wfuTCel-3nykQYszI8TPU0vUU_ijh9oA_fg.jpg" />
+      <itunes:image href="https://gfx.nrk.no/D_Km6wvF5wfuTCel-3nykQYszI8TPU0vUU_ijh9oA_fg.jpg" />
     </item>
     <item>
       <title>Haakon VII – valgt av folket</title>
       <description>Folkets konge skulle aldri regjere, men tok sjansen da den bød seg.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/86a2f25c-d081-43c0-9d00-d3fca4b06e00_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/86a2f25c-d081-43c0-9d00-d3fca4b06e00_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>58:00</ns0:duration>
+      <itunes:duration>58:00</itunes:duration>
       <pubDate>Wed, 30 Aug 2023 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/RcXhWxufScJfTl9KJWI1TQF2eLkEaUwAnyTVXhVV4z5g.jpg" />
+      <itunes:image href="https://gfx.nrk.no/RcXhWxufScJfTl9KJWI1TQF2eLkEaUwAnyTVXhVV4z5g.jpg" />
     </item>
     <item>
       <title>Rikard Løvehjerte – sagnomsust krigerkonge</title>
       <description>Den tapre folkehelten rettet sverdet mot fiender – og sin egen familie.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/55659d82-5727-428e-829f-0693b052c4c5_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/55659d82-5727-428e-829f-0693b052c4c5_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>55:34</ns0:duration>
+      <itunes:duration>55:34</itunes:duration>
       <pubDate>Wed, 14 Jun 2023 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/r3GiRb3IqsPZ7_xdHGmRPQGHagEv5vIAHi2X1ILXgBWg.jpg" />
+      <itunes:image href="https://gfx.nrk.no/r3GiRb3IqsPZ7_xdHGmRPQGHagEv5vIAHi2X1ILXgBWg.jpg" />
     </item>
     <item>
       <title>Djengis Khan – brutal verdenshersker</title>
       <description>Den krigerske mongolen skapte et av tidenes største imperier.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/f82ac21f-efe7-44f6-9230-0c6024740a7d_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/f82ac21f-efe7-44f6-9230-0c6024740a7d_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>58:40</ns0:duration>
+      <itunes:duration>58:40</itunes:duration>
       <pubDate>Wed, 07 Jun 2023 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/nR9DHW4PZU1Atu4AcMWAxw5mAkRkVPVyg716ooguR5tA.jpg" />
+      <itunes:image href="https://gfx.nrk.no/nR9DHW4PZU1Atu4AcMWAxw5mAkRkVPVyg716ooguR5tA.jpg" />
     </item>
     <item>
       <title>Josephine Baker – dansende agent</title>
       <description>Showartisten danset seg til hemmelig agent under andre verdenskrig.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/b6dc4ad2-43a0-4c7b-b1cf-08e943713988_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/b6dc4ad2-43a0-4c7b-b1cf-08e943713988_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>58:11</ns0:duration>
+      <itunes:duration>58:11</itunes:duration>
       <pubDate>Wed, 31 May 2023 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/l2mD-eDoorOabxHl_c7yrQOfnTn_LQOpIuLu6DmGoyIw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/l2mD-eDoorOabxHl_c7yrQOfnTn_LQOpIuLu6DmGoyIw.jpg" />
     </item>
     <item>
       <title>Sigrid Undset – fredskjempende forfatter</title>
       <description>Nobelprisvinneren brukte makten sin til å kjempe mot nazismen.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/0b3e88fc-d197-48f9-9083-cd6382651100_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/0b3e88fc-d197-48f9-9083-cd6382651100_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>54:27</ns0:duration>
+      <itunes:duration>54:27</itunes:duration>
       <pubDate>Wed, 24 May 2023 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/FDQp21Db1123Mdr2plQb6AsnvOJMOSYF6ky7zbbociZA.jpg" />
+      <itunes:image href="https://gfx.nrk.no/FDQp21Db1123Mdr2plQb6AsnvOJMOSYF6ky7zbbociZA.jpg" />
     </item>
     <item>
       <title>Christian Magnus Falsen – grunnlovens far</title>
       <description>Den temperamentsfulle mannen skrev hovedutkastet til grunnloven.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/283e8a4e-5478-4bd7-886a-006052daf6d2_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/283e8a4e-5478-4bd7-886a-006052daf6d2_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>55:42</ns0:duration>
+      <itunes:duration>55:42</itunes:duration>
       <pubDate>Tue, 16 May 2023 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/aQ7uvuO5LgCfZ_owz9PqeQuSzsD87RXZtFph9zSh0Eog.jpg" />
+      <itunes:image href="https://gfx.nrk.no/aQ7uvuO5LgCfZ_owz9PqeQuSzsD87RXZtFph9zSh0Eog.jpg" />
     </item>
     <item>
       <title>Wolfgang Amadeus Mozart – brilliant komponist</title>
       <description>Den enestående pianisten komponerte helt inn i døden.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/58deccc2-e8bb-485e-b2f2-8f4195ae4092_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/58deccc2-e8bb-485e-b2f2-8f4195ae4092_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>57:08</ns0:duration>
+      <itunes:duration>57:08</itunes:duration>
       <pubDate>Wed, 10 May 2023 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/qjc8wCHCv_HP8pe27c4WjQ8d0k1XsOsjkegRpIwqIipg.jpg" />
+      <itunes:image href="https://gfx.nrk.no/qjc8wCHCv_HP8pe27c4WjQ8d0k1XsOsjkegRpIwqIipg.jpg" />
     </item>
     <item>
       <title>Albert Einstein – eksplosivt geni</title>
       <description>Fysikeren snudde opp ned på hele vår forståelse av verden.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/161a4246-acff-4f06-ba00-ffd32991696e_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/161a4246-acff-4f06-ba00-ffd32991696e_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>57:04</ns0:duration>
+      <itunes:duration>57:04</itunes:duration>
       <pubDate>Wed, 15 Mar 2023 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/pA81_KUl3ABP9EFZDQSkgQdN6n0-wlXF8JYBUYkBugyw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/pA81_KUl3ABP9EFZDQSkgQdN6n0-wlXF8JYBUYkBugyw.jpg" />
     </item>
     <item>
       <title>Christian VII – den gale kongen</title>
       <description>Regenten av Danmark-Norge levde med psykiske plager og skandaler.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/d370105b-d9ab-4e4a-98ba-05e83539a79d_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/d370105b-d9ab-4e4a-98ba-05e83539a79d_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>54:40</ns0:duration>
+      <itunes:duration>54:40</itunes:duration>
       <pubDate>Wed, 08 Mar 2023 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/5039gfe4BmxY6fyfo4UQRAy0-T-d2ogpn5AkggktMd_w.jpg" />
+      <itunes:image href="https://gfx.nrk.no/5039gfe4BmxY6fyfo4UQRAy0-T-d2ogpn5AkggktMd_w.jpg" />
     </item>
     <item>
       <title>Mary Shelley – Frankensteins mor</title>
       <description>Kvinnen bak et av litteraturens mest berømte monstre.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/ea985fc2-3e76-4375-91de-a9b8ea96f3ef_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/ea985fc2-3e76-4375-91de-a9b8ea96f3ef_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>59:26</ns0:duration>
+      <itunes:duration>59:26</itunes:duration>
       <pubDate>Wed, 01 Mar 2023 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/RscBmB_-KP4skSNNXpA5OQV_auKSZi6Wn5TN2qnJWIBw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/RscBmB_-KP4skSNNXpA5OQV_auKSZi6Wn5TN2qnJWIBw.jpg" />
     </item>
     <item>
       <title>Aristoteles – elementær filosof</title>
       <description>Filosofen var Platons stjerneelev og læreren til Alexander den Store.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/311625d8-19b4-4051-b08a-ce62220fc248_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/311625d8-19b4-4051-b08a-ce62220fc248_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>58:04</ns0:duration>
+      <itunes:duration>58:04</itunes:duration>
       <pubDate>Wed, 22 Feb 2023 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/-FBbORetLFuSpKZHpp8WsgOe-mE_OoRKq7HjLJw_L6Ug.jpg" />
+      <itunes:image href="https://gfx.nrk.no/-FBbORetLFuSpKZHpp8WsgOe-mE_OoRKq7HjLJw_L6Ug.jpg" />
     </item>
     <item>
       <title>Kristine Bonnevie – banebrytende professor</title>
       <description>Norges første kvinnelige professor gikk til kamp mot Hitlers raseteori.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/b611bba5-3cc8-412e-b7e5-7df8268b5611_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/b611bba5-3cc8-412e-b7e5-7df8268b5611_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>53:51</ns0:duration>
+      <itunes:duration>53:51</itunes:duration>
       <pubDate>Wed, 15 Feb 2023 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/JvGiXQaSRvxzyCaHwHu2ug2qCkgMuykC9ZIDubGerXUw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/JvGiXQaSRvxzyCaHwHu2ug2qCkgMuykC9ZIDubGerXUw.jpg" />
     </item>
     <item>
       <title>Elsa Laula Renberg – samisk rebell</title>
       <description>Aktivisten banet vei for reformer og samiske rettigheter.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/5e98fdb2-93dc-42bd-9c65-bdd573eee444_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/5e98fdb2-93dc-42bd-9c65-bdd573eee444_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>53:05</ns0:duration>
+      <itunes:duration>53:05</itunes:duration>
       <pubDate>Mon, 06 Feb 2023 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/xPlvUqLBs2k5Ddnwstb_LQdmZxJvQIBItEKgecSDpLJA.jpg" />
+      <itunes:image href="https://gfx.nrk.no/xPlvUqLBs2k5Ddnwstb_LQdmZxJvQIBItEKgecSDpLJA.jpg" />
     </item>
     <item>
       <title>Leonardo da Vinci – genialt multitalent</title>
       <description>Renessansemannen regnes som en av historiens mest begavede mennesker.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/fa6a6d3a-5feb-44b0-bffc-86c0132c6f02_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/fa6a6d3a-5feb-44b0-bffc-86c0132c6f02_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:48</ns0:duration>
+      <itunes:duration>56:48</itunes:duration>
       <pubDate>Wed, 21 Dec 2022 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/3x5M6vpik3VoXzThQOEPwguz_V4BU1TZ9FX43DUrtmpw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/3x5M6vpik3VoXzThQOEPwguz_V4BU1TZ9FX43DUrtmpw.jpg" />
     </item>
     <item>
       <title>Hirohito – keiser i krig</title>
       <description>Den guddommelige keiseren regjerte da atombombene falt over Japan.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/8d8875ec-c463-4cb5-be5f-9a8c6db6d23c_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/8d8875ec-c463-4cb5-be5f-9a8c6db6d23c_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>57:59</ns0:duration>
+      <itunes:duration>57:59</itunes:duration>
       <pubDate>Wed, 07 Dec 2022 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/ASCM1QQk-PfGTItbUy7jmQKOQnWRAb7owU2WRApsszkQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/ASCM1QQk-PfGTItbUy7jmQKOQnWRAb7owU2WRApsszkQ.jpg" />
     </item>
     <item>
       <title>Grace O´Malley – havets dronning</title>
       <description>Den irske piraten herjet og plyndret på åpent farvann.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/187219b6-beea-462b-8db5-89186aae878e_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/187219b6-beea-462b-8db5-89186aae878e_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>53:20</ns0:duration>
+      <itunes:duration>53:20</itunes:duration>
       <pubDate>Wed, 23 Nov 2022 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/JyyVqDQlhcj1mBGMEWMBDwVJoecgDJ4FW2FGpgHzxDKA.jpg" />
+      <itunes:image href="https://gfx.nrk.no/JyyVqDQlhcj1mBGMEWMBDwVJoecgDJ4FW2FGpgHzxDKA.jpg" />
     </item>
     <item>
       <title>Asbjørnsen og Moe – eventyrlige kamerater</title>
       <description>Mellom fjord og fjell fant bestevennene den norske nasjonalfølelsen.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/d46e342c-c8b4-42e3-9e57-f360e7bf0efe_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/d46e342c-c8b4-42e3-9e57-f360e7bf0efe_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>54:30</ns0:duration>
+      <itunes:duration>54:30</itunes:duration>
       <pubDate>Wed, 09 Nov 2022 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/yYCRK68IyolA4lbA7lk7QgWgRpeuR24vOlqt-vWi13MA.jpg" />
+      <itunes:image href="https://gfx.nrk.no/yYCRK68IyolA4lbA7lk7QgWgRpeuR24vOlqt-vWi13MA.jpg" />
     </item>
     <item>
       <title>Charlie Chaplin – stumfilmens stjerne</title>
       <description>Den ikoniske stumfilmstjernen ble forvist fra Hollywood.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/b49ded34-d020-4659-82d8-aeb190766e2a_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/b49ded34-d020-4659-82d8-aeb190766e2a_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:44</ns0:duration>
+      <itunes:duration>56:44</itunes:duration>
       <pubDate>Wed, 26 Oct 2022 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/88Rzo_uaWrrHLy_WNqeangQvc1tnvhSe9FpnIF55qfYg.jpg" />
+      <itunes:image href="https://gfx.nrk.no/88Rzo_uaWrrHLy_WNqeangQvc1tnvhSe9FpnIF55qfYg.jpg" />
     </item>
     <item>
       <title>Nzinga – dronning og erobrer</title>
       <description>Krigerdronningen seiret mot den portugisiske kolonimakten.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/549da420-bc15-4d0f-83f0-9e4acd5d4f9d_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/549da420-bc15-4d0f-83f0-9e4acd5d4f9d_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>54:35</ns0:duration>
+      <itunes:duration>54:35</itunes:duration>
       <pubDate>Wed, 12 Oct 2022 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/skZl6Hgaoe7poSeTvQVF-g_uahL4X9SG1pGd5wwYKRmg.jpg" />
+      <itunes:image href="https://gfx.nrk.no/skZl6Hgaoe7poSeTvQVF-g_uahL4X9SG1pGd5wwYKRmg.jpg" />
     </item>
     <item>
       <title>Vlad Tepes – virkelighetens Dracula</title>
       <description>Dragesønnen fra Transilvania spiddet ofrene sine på spisse påler.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/d795ea9a-2d90-456e-afaf-eb3f5b4fd28d_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/d795ea9a-2d90-456e-afaf-eb3f5b4fd28d_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:03</ns0:duration>
+      <itunes:duration>56:03</itunes:duration>
       <pubDate>Wed, 28 Sep 2022 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/9yKpauYOvuYZCGLIt_Yt1gKo_l-tSGcD8kfXoAGaptcw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/9yKpauYOvuYZCGLIt_Yt1gKo_l-tSGcD8kfXoAGaptcw.jpg" />
     </item>
     <item>
       <title>Karl Marx – våpenløs revolusjonær</title>
       <description>Den skarpe revolusjonæren kjempet for en arbeiderklasse han ikke tilhørte selv.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/71eca406-6246-4f15-97aa-31949709648b_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/71eca406-6246-4f15-97aa-31949709648b_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>53:18</ns0:duration>
+      <itunes:duration>53:18</itunes:duration>
       <pubDate>Wed, 14 Sep 2022 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/b1gn0uLfikx9gC3uEZycsQWAIURm4FjBCl-XY5wjzjOQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/b1gn0uLfikx9gC3uEZycsQWAIURm4FjBCl-XY5wjzjOQ.jpg" />
     </item>
     <item>
       <title>Sonja Henie – isens stjerne</title>
       <description>Den ikoniske kunstløperen ble den best betalte kvinnelige skuespilleren i Hollywood.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/489202f7-8651-4b89-aa7a-c0bb92c2fb3f_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/489202f7-8651-4b89-aa7a-c0bb92c2fb3f_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>55:25</ns0:duration>
+      <itunes:duration>55:25</itunes:duration>
       <pubDate>Wed, 31 Aug 2022 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/q2M9CPM7cNqKOw4DZ3GK7Q_SjzSBizGQPtKzIeKCSh0Q.jpg" />
+      <itunes:image href="https://gfx.nrk.no/q2M9CPM7cNqKOw4DZ3GK7Q_SjzSBizGQPtKzIeKCSh0Q.jpg" />
     </item>
     <item>
       <title>Marsha P. Johnson – stolt transaktivist</title>
       <description>Dragdronninga som banet vei for en verdensomfattende feiring av pride.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/dc47f95a-0af3-46ea-a6f1-a11fa9da30a5_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/dc47f95a-0af3-46ea-a6f1-a11fa9da30a5_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>50:26</ns0:duration>
+      <itunes:duration>50:26</itunes:duration>
       <pubDate>Wed, 17 Aug 2022 03:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/3EdLg3Yi8CYiw3eGqSCtDAO_u-n8mpv4ogd1RL5N2Edw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/3EdLg3Yi8CYiw3eGqSCtDAO_u-n8mpv4ogd1RL5N2Edw.jpg" />
     </item>
     <item>
       <title>Mary Wollstonecraft – feministisk filosof</title>
       <description>Forfatteren sto imot patriarkatet og mesket seg i kraftfulle kjærlighetshistorier.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/e1850b7e-5401-43e6-923c-aca92032c383_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/e1850b7e-5401-43e6-923c-aca92032c383_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>54:33</ns0:duration>
+      <itunes:duration>54:33</itunes:duration>
       <pubDate>Wed, 03 Aug 2022 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/Ptzmq6pUmsC943zTo1TwUwfsGcVbvk8aKBxYFtH1hYLQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/Ptzmq6pUmsC943zTo1TwUwfsGcVbvk8aKBxYFtH1hYLQ.jpg" />
     </item>
     <item>
       <title>Sitting Bull – standhaftig høvding</title>
       <description>Sioux-høvdingen ledet kampen for urfolks frihet i USA da en blodig trussel kom fra Europa.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/e096f5c7-8de3-4be8-a696-ceae4f36392c_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/e096f5c7-8de3-4be8-a696-ceae4f36392c_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>57:06</ns0:duration>
+      <itunes:duration>57:06</itunes:duration>
       <pubDate>Wed, 13 Jul 2022 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/ftZn6oqNFEEM8uy94A20Nga9EmsaDduVuscFnyW4MOqg.jpg" />
+      <itunes:image href="https://gfx.nrk.no/ftZn6oqNFEEM8uy94A20Nga9EmsaDduVuscFnyW4MOqg.jpg" />
     </item>
     <item>
       <title>Wu Zetian – voldelig keiserinne</title>
       <description>En kaldblodig morder som ble Kinas første og eneste kvinnelige keiser.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/40fee2cb-3ccf-46a6-b59a-7783652aad98_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/40fee2cb-3ccf-46a6-b59a-7783652aad98_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>51:31</ns0:duration>
+      <itunes:duration>51:31</itunes:duration>
       <pubDate>Wed, 06 Jul 2022 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/Vm72lx0zm52ddRpmRmkAWgWtt4CgeM4bsaz1g0DgYxkw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/Vm72lx0zm52ddRpmRmkAWgWtt4CgeM4bsaz1g0DgYxkw.jpg" />
     </item>
     <item>
       <title>Frida Kahlo – uknuselig kunstner</title>
       <description>Kunstneren fra Mexico ble spiddet av en jernstang som femtenåring.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/007c85f8-ea27-4192-8021-efff43cac730_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/007c85f8-ea27-4192-8021-efff43cac730_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>53:22</ns0:duration>
+      <itunes:duration>53:22</itunes:duration>
       <pubDate>Wed, 22 Jun 2022 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/BsMRvax7SP7uFRLTthwQzwnJbbv6VC2AjGzw255baVpA.jpg" />
+      <itunes:image href="https://gfx.nrk.no/BsMRvax7SP7uFRLTthwQzwnJbbv6VC2AjGzw255baVpA.jpg" />
     </item>
     <item>
       <title>Marco Polo – nysgjerrig oppdager</title>
       <description>Oppdageren reiste gjennom det gigantiske mongolske riket styrt av Kublai Khan.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/a03674a9-556f-4851-b67c-93c3a5bd02e5_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/a03674a9-556f-4851-b67c-93c3a5bd02e5_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>53:22</ns0:duration>
+      <itunes:duration>53:22</itunes:duration>
       <pubDate>Wed, 08 Jun 2022 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/yqD2hcbBESEkCnULS97IeQFRt-xEhpXvvIMUikuUKQmw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/yqD2hcbBESEkCnULS97IeQFRt-xEhpXvvIMUikuUKQmw.jpg" />
     </item>
     <item>
       <title>Bonnie og Clyde – kriminelle kjærester</title>
       <description>Kjeltringparet drømte om å bli Hollywood-stjerner.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/7c668830-168d-4449-b097-b2afcdb8198a_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/7c668830-168d-4449-b097-b2afcdb8198a_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>50:37</ns0:duration>
+      <itunes:duration>50:37</itunes:duration>
       <pubDate>Wed, 25 May 2022 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/KTenW366IpSAJ63mGn4UIw0Zfwmyh_wDo_lE_VGvLSUQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/KTenW366IpSAJ63mGn4UIw0Zfwmyh_wDo_lE_VGvLSUQ.jpg" />
     </item>
     <item>
       <title>Elizabeth I – jomfrudronningen</title>
       <description>Dronningen giftet seg aldri, men regjerte England egenrådig i 44 strake år.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/e8a06f2f-4948-4816-a8b2-679a78036663_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/e8a06f2f-4948-4816-a8b2-679a78036663_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>55:29</ns0:duration>
+      <itunes:duration>55:29</itunes:duration>
       <pubDate>Wed, 11 May 2022 10:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/-wkWWsN7W2GjvRACmb1oJQpHAWgbs-_x_KiNkSKgKFEw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/-wkWWsN7W2GjvRACmb1oJQpHAWgbs-_x_KiNkSKgKFEw.jpg" />
     </item>
     <item>
       <title>Roald Amundsen – fryktløs eventyrer</title>
       <description>Polarforskeren som risikerte alt for å være først med å plante det norske flagget på sydpolen.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/2bd2832f-475c-4b0b-a7b6-6cbca2616706_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/2bd2832f-475c-4b0b-a7b6-6cbca2616706_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:45</ns0:duration>
+      <itunes:duration>56:45</itunes:duration>
       <pubDate>Wed, 27 Apr 2022 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/Ela94_1KWz-0on7yWn9m_QjZY95x4CKrCRuLGSbCA3FQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/Ela94_1KWz-0on7yWn9m_QjZY95x4CKrCRuLGSbCA3FQ.jpg" />
     </item>
     <item>
       <title>Julius Cæsar – militært geni</title>
       <description>Den politiske lederen la grunnlag for, og navn til, det romerske keiserdømmet.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/be48b438-fb74-4f29-a734-0464cc2f4812_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/be48b438-fb74-4f29-a734-0464cc2f4812_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>55:16</ns0:duration>
+      <itunes:duration>55:16</itunes:duration>
       <pubDate>Wed, 13 Apr 2022 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/ObvbmD68VcGaDdbV9ZJxLAAypCJI3QHbGzAHs4aBTeWw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/ObvbmD68VcGaDdbV9ZJxLAAypCJI3QHbGzAHs4aBTeWw.jpg" />
     </item>
     <item>
       <title>Marie Antoinette – hatet og halshugget</title>
       <description>Frankrikes siste dronning levde et liv i ekstrem luksus – med forbudt kjærlighet.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/923f1cf5-5be8-4788-b520-a3f197f49817_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/923f1cf5-5be8-4788-b520-a3f197f49817_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>52:14</ns0:duration>
+      <itunes:duration>52:14</itunes:duration>
       <pubDate>Wed, 30 Mar 2022 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/e1yFR6DEKFssirR-GaqP4AZtEJ2T7I_aRZvLhD9ftIlg.jpg" />
+      <itunes:image href="https://gfx.nrk.no/e1yFR6DEKFssirR-GaqP4AZtEJ2T7I_aRZvLhD9ftIlg.jpg" />
     </item>
     <item>
       <title>Moctezuma II – dommedagens hersker</title>
       <description>Den siste keiseren over Aztekerriket tapte mot krutt og kopper.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/a39000df-6db3-4d4a-9165-4b993dbef47d_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/a39000df-6db3-4d4a-9165-4b993dbef47d_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>54:14</ns0:duration>
+      <itunes:duration>54:14</itunes:duration>
       <pubDate>Wed, 23 Mar 2022 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/ZmZe8RJMy69xJLVzrdPJXQRlFSZQ7C6rJmbcx2dX0UYQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/ZmZe8RJMy69xJLVzrdPJXQRlFSZQ7C6rJmbcx2dX0UYQ.jpg" />
     </item>
     <item>
       <title>Coco Chanel – den lille designeren</title>
       <description>Den fattige barnehjemsjenta ble en av verdens mektigste moteikoner.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/483638a3-877a-401b-82bf-bb04d3b3c891_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/483638a3-877a-401b-82bf-bb04d3b3c891_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:13</ns0:duration>
+      <itunes:duration>56:13</itunes:duration>
       <pubDate>Wed, 16 Mar 2022 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/BuNKxnZCZXi7iu7w-gMgUwucPz80mjcMUs__q8Snr2MA.jpg" />
+      <itunes:image href="https://gfx.nrk.no/BuNKxnZCZXi7iu7w-gMgUwucPz80mjcMUs__q8Snr2MA.jpg" />
     </item>
     <item>
       <title>Kirsten Flagstad – forfulgt operasanger</title>
       <description>Den norske operasangeren ble hyllet som 1900-tallets største sangstemme.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/d13a8bb9-f52c-4840-9fbb-738f65595b1b_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/d13a8bb9-f52c-4840-9fbb-738f65595b1b_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:04</ns0:duration>
+      <itunes:duration>56:04</itunes:duration>
       <pubDate>Wed, 09 Mar 2022 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/H7GJAYlMlNMzgCGgffSNBgbm4r4FAMtYeq_8uKZnA_4A.jpg" />
+      <itunes:image href="https://gfx.nrk.no/H7GJAYlMlNMzgCGgffSNBgbm4r4FAMtYeq_8uKZnA_4A.jpg" />
     </item>
     <item>
       <title>Mahatma Gandhi – frihetens kjemper</title>
       <description>Advokaten kjempet for et samlet, uavhengig India med ikke-voldelige metoder.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/50d05420-2940-4e55-989e-90828ad31119_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/50d05420-2940-4e55-989e-90828ad31119_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>55:36</ns0:duration>
+      <itunes:duration>55:36</itunes:duration>
       <pubDate>Wed, 02 Mar 2022 06:01:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/-85WbQFyuUbFka9muqOppAphlprya3-m4x8IhbZSqBuQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/-85WbQFyuUbFka9muqOppAphlprya3-m4x8IhbZSqBuQ.jpg" />
     </item>
     <item>
       <title>Amelia Earhart – forsvunnet folkehelt</title>
       <description>Den rekordjagende piloten som flyttet kvinners grenser i luften.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/fd0c12f0-8e86-4e2e-a11b-2645aed2850d_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/fd0c12f0-8e86-4e2e-a11b-2645aed2850d_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>55:42</ns0:duration>
+      <itunes:duration>55:42</itunes:duration>
       <pubDate>Wed, 23 Feb 2022 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/sPyQnRV5NHuPpWXcrxDupwP7BVD3HOhvQ_nspglZZ7gw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/sPyQnRV5NHuPpWXcrxDupwP7BVD3HOhvQ_nspglZZ7gw.jpg" />
     </item>
     <item>
       <title>Grigorij Rasputin – Spåmannen fra Sibir</title>
       <description>Den gåtefulle munken bidro til det russiske monarkiets undergang.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/72d2a804-39cb-44d3-9c55-8056d6f6d371_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/72d2a804-39cb-44d3-9c55-8056d6f6d371_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>54:30</ns0:duration>
+      <itunes:duration>54:30</itunes:duration>
       <pubDate>Wed, 16 Feb 2022 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/D9Q0ZarCdKI3A2Kkc0XglQre6flhn2yEA8AJyCiGOXBQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/D9Q0ZarCdKI3A2Kkc0XglQre6flhn2yEA8AJyCiGOXBQ.jpg" />
     </item>
     <item>
       <title>Camilla Collett – Norges første feminist</title>
       <description>En litterær pioner som sto i kryssilden mellom de to mennene hun elsket aller høyest.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/ab96dac7-167a-4e56-8bc8-21a06553ad5f_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/ab96dac7-167a-4e56-8bc8-21a06553ad5f_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>49:55</ns0:duration>
+      <itunes:duration>49:55</itunes:duration>
       <pubDate>Wed, 09 Feb 2022 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/o7r6sOUdPd47qJOcdBHVEgSfuOqZAGrmV81J4L5QECng.jpg" />
+      <itunes:image href="https://gfx.nrk.no/o7r6sOUdPd47qJOcdBHVEgSfuOqZAGrmV81J4L5QECng.jpg" />
     </item>
     <item>
       <title>Pocahontas – mennesket bak myten</title>
       <description>Jenta fra Powhatan-stammen ble forsøkt temmet som et villdyr av europeerne.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/1e911346-b60f-4096-932b-874a3ccdbb1d_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/1e911346-b60f-4096-932b-874a3ccdbb1d_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>55:25</ns0:duration>
+      <itunes:duration>55:25</itunes:duration>
       <pubDate>Wed, 02 Feb 2022 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/nR6bh5TP2_GvDm4OX9gGDwuFHGxaStTpgTHC8xZfUmoQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/nR6bh5TP2_GvDm4OX9gGDwuFHGxaStTpgTHC8xZfUmoQ.jpg" />
     </item>
     <item>
       <title>Florence Nightingale – sykepleiens mor</title>
       <description>«The Lady with the Lamp» reddet tusenvis av soldatliv og revolusjonerte den moderne sykepleien.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/b7d57b2e-172d-4e29-ab1c-14d54a1f1e1a_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/b7d57b2e-172d-4e29-ab1c-14d54a1f1e1a_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:02</ns0:duration>
+      <itunes:duration>56:02</itunes:duration>
       <pubDate>Wed, 26 Jan 2022 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/Z8YJIkbhYZdAFt7qRnskCwycW21Ss027gLl3vl4ERMPQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/Z8YJIkbhYZdAFt7qRnskCwycW21Ss027gLl3vl4ERMPQ.jpg" />
     </item>
     <item>
       <title>Vidkun Quisling – landssvikeren</title>
       <description>Landsforræderen kuppet makten og sendte sine egne landsmenn i døden.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/2510a44b-fd87-4d87-ad33-b62e6b805385_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/2510a44b-fd87-4d87-ad33-b62e6b805385_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>55:24</ns0:duration>
+      <itunes:duration>55:24</itunes:duration>
       <pubDate>Wed, 19 Jan 2022 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/QTxVrpBLyHDuaIudXYRIZQ20jNbKCjMyXhOL7WIbkCFQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/QTxVrpBLyHDuaIudXYRIZQ20jNbKCjMyXhOL7WIbkCFQ.jpg" />
     </item>
     <item>
       <title>Jeanne d’Arc – hellig hærfører</title>
       <description>Den franske bondejenta så på seg selv som Guds hellige kriger.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/9d8f8de3-2e6e-4c24-8f10-1254a97d551b_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/9d8f8de3-2e6e-4c24-8f10-1254a97d551b_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>53:52</ns0:duration>
+      <itunes:duration>53:52</itunes:duration>
       <pubDate>Wed, 12 Jan 2022 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/2SnI4cAI1t6hjOMb_iayoQsL26ZlJB2d_JFhUt9OLJ7g.jpg" />
+      <itunes:image href="https://gfx.nrk.no/2SnI4cAI1t6hjOMb_iayoQsL26ZlJB2d_JFhUt9OLJ7g.jpg" />
     </item>
     <item>
       <title>Henrik VIII – maktgal tyrann</title>
       <description>Den engelske kongens tid på tronen var preget av paranoia, svik og døde koner.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/3aaceec9-fe23-469a-82b7-4d3091a670c3_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/3aaceec9-fe23-469a-82b7-4d3091a670c3_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>57:05</ns0:duration>
+      <itunes:duration>57:05</itunes:duration>
       <pubDate>Wed, 05 Jan 2022 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/3ysWI64bBudoQ587MyzF6Aqnea8NPIvRtngdIv-gmnjA.jpg" />
+      <itunes:image href="https://gfx.nrk.no/3ysWI64bBudoQ587MyzF6Aqnea8NPIvRtngdIv-gmnjA.jpg" />
     </item>
     <item>
       <title>Marie Curie – radioaktivt geni</title>
       <description>Fysikeren ble den første kvinnelige nobelprisvinneren i naturvitenskap.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/4d966f7b-1820-4c0d-a52d-bf39f6a6836a_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/4d966f7b-1820-4c0d-a52d-bf39f6a6836a_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>55:17</ns0:duration>
+      <itunes:duration>55:17</itunes:duration>
       <pubDate>Wed, 05 Jan 2022 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/cEwWBOTxskcv8wgm1AKCTQ2Ab7OZfmFioqR-__a6jqmA.jpg" />
+      <itunes:image href="https://gfx.nrk.no/cEwWBOTxskcv8wgm1AKCTQ2Ab7OZfmFioqR-__a6jqmA.jpg" />
     </item>
     <item>
       <title>Smakebit: Historiske kjendiser</title>
       <description>I Historiske kjendiser vekker Alexandra Gjerpen historiens største personer til live igjen, krydret med dramatiske scener.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/cfeb5b7e-6e70-47bc-93e7-4f06ce432333_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/cfeb5b7e-6e70-47bc-93e7-4f06ce432333_0_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>00:51</ns0:duration>
+      <itunes:duration>00:51</itunes:duration>
       <pubDate>Wed, 29 Dec 2021 06:00:00 +0100</pubDate>
-      <ns0:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg.jpg" />
+      <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg.jpg" />
     </item>
     </channel>
 </rss>

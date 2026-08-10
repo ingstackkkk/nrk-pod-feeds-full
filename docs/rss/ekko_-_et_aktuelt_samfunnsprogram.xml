@@ -1,286 +1,286 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>De 30 siste fra Ekko</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
     <description>Uoffisiell feed med de siste 30 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
-    <ns0:explicit>no</ns0:explicit>
+    <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 10 Aug 2026 18:02:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 18:10:36 +0000</lastBuildDate>
     <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
-    <ns0:block>Yes</ns0:block>
-    <ns0:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg" />
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg" />
     <item>
       <title>Keisersnitt gir ikke sykmelding</title>
       <description>Norge står midt i årets største babyboom, men kvinner som føder med keisersnitt har ikke alltid rett på sykmelding. Hvorfor?</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/bb1367c7-fe34-4160-9367-c7fe3451608a_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/bb1367c7-fe34-4160-9367-c7fe3451608a_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>20:54</ns0:duration>
+      <itunes:duration>20:54</itunes:duration>
       <pubDate>Mon, 10 Aug 2026 13:30:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/kQopxBlDVPHKsT8OIfPutAbCdTB0-_9bXvxVNKiJjDMA.jpg" />
+      <itunes:image href="https://gfx.nrk.no/kQopxBlDVPHKsT8OIfPutAbCdTB0-_9bXvxVNKiJjDMA.jpg" />
     </item>
     <item>
       <title>Netthandel endrar samfunnet</title>
       <description>Nye kjøpemønstre går ut over nærbutikkane. Kva gjer det med både oss, og bysamfunna, at vi handlar digitalt?</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/93c80e2d-3bdf-436f-880e-2d3bdf236fbc_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/93c80e2d-3bdf-436f-880e-2d3bdf236fbc_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>26:43</ns0:duration>
+      <itunes:duration>26:43</itunes:duration>
       <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/r8Ey8ezGM1CCPx2Ar0grHAborvNyZKLNOuoYqP0f3xsA.jpg" />
+      <itunes:image href="https://gfx.nrk.no/r8Ey8ezGM1CCPx2Ar0grHAborvNyZKLNOuoYqP0f3xsA.jpg" />
     </item>
     <item>
       <title>Natur er kur mot ensomhet</title>
       <description>Skog, fjell og sjø kan gjøre oss mindre ensomme, selv om vi er der alene. Hva gir naturen oss, som andre mennesker ikke kan?</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/5ba56467-4658-410a-a564-674658d10a97_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/5ba56467-4658-410a-a564-674658d10a97_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>33:25</ns0:duration>
+      <itunes:duration>33:25</itunes:duration>
       <pubDate>Tue, 28 Jul 2026 12:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/E6bgM9qRmlyz9ZC7h1NEGghSYmm2dlmTMPdqgn_wK2Yw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/E6bgM9qRmlyz9ZC7h1NEGghSYmm2dlmTMPdqgn_wK2Yw.jpg" />
     </item>
     <item>
       <title>Ufarlig med peanøtter?</title>
       <description>Det er ikke farlig for allergikere å ha peanøtter i samme rom, viser ny studie.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8805fedd-30ec-4652-85fe-dd30ec86527a_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8805fedd-30ec-4652-85fe-dd30ec86527a_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>23:06</ns0:duration>
+      <itunes:duration>23:06</itunes:duration>
       <pubDate>Tue, 21 Jul 2026 12:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/9gkLU-_9_xYk1y2R06Sy1QGACH5SBigaYiSQ4-3q0L-A.jpg" />
+      <itunes:image href="https://gfx.nrk.no/9gkLU-_9_xYk1y2R06Sy1QGACH5SBigaYiSQ4-3q0L-A.jpg" />
     </item>
     <item>
       <title>Hvis russerne kommer</title>
       <description>Finnmark får flere soldater, mer luftvern, og det finnes allerede en plan for evakuering av sivilbefolkninga.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/674df4fb-2e05-447c-8df4-fb2e05947cb2_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/674df4fb-2e05-447c-8df4-fb2e05947cb2_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>34:15</ns0:duration>
+      <itunes:duration>34:15</itunes:duration>
       <pubDate>Tue, 14 Jul 2026 12:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/nKJ2PBmq8X1d29gREWrGqQgJhwHDsy_R-FKCr7RPyukw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/nKJ2PBmq8X1d29gREWrGqQgJhwHDsy_R-FKCr7RPyukw.jpg" />
     </item>
     <item>
       <title>Demo-boom på Eidsvolls plass</title>
       <description>Hvorfor fortsetter folk å demonstrere utafor Stortinget, når så mye av debatten foregår i sosiale medier?</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d21c260d-29d9-47b3-9c26-0d29d9e7b3b4_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d21c260d-29d9-47b3-9c26-0d29d9e7b3b4_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>33:15</ns0:duration>
+      <itunes:duration>33:15</itunes:duration>
       <pubDate>Tue, 07 Jul 2026 12:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/3o7QSBKVOwX79r5gr6jvZQoy4pv0IdqEGwaNXP0Qv7jg.jpg" />
+      <itunes:image href="https://gfx.nrk.no/3o7QSBKVOwX79r5gr6jvZQoy4pv0IdqEGwaNXP0Qv7jg.jpg" />
     </item>
     <item>
       <title>Fastlegeordninga - jubilant i krise?</title>
       <description>Fastlegeordninga har gått fra suksess til krise på 25 år. Men alternativene til ordninga er verre.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9c8f9973-63bd-4de6-8f99-7363bd6de6e9_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9c8f9973-63bd-4de6-8f99-7363bd6de6e9_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>22:50</ns0:duration>
+      <itunes:duration>22:50</itunes:duration>
       <pubDate>Tue, 30 Jun 2026 12:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/LNm1_XllkM3gBOI5462JKAylQUEjim3uGOiW2pZX22Ig.jpg" />
+      <itunes:image href="https://gfx.nrk.no/LNm1_XllkM3gBOI5462JKAylQUEjim3uGOiW2pZX22Ig.jpg" />
     </item>
     <item>
       <title>Flere blir syke av flåtten</title>
       <description>Selv om rekordmange velger å vaksinere seg, blir stadig flere av oss syke av flåttbitt.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0b26c424-c4c4-447a-a6c4-24c4c4647a2e_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0b26c424-c4c4-447a-a6c4-24c4c4647a2e_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>23:01</ns0:duration>
+      <itunes:duration>23:01</itunes:duration>
       <pubDate>Tue, 23 Jun 2026 13:30:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/G4iQBBEh_7sruudiyqBNUQg-5hpuhV8c8PegtgTjIlCw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/G4iQBBEh_7sruudiyqBNUQg-5hpuhV8c8PegtgTjIlCw.jpg" />
     </item>
     <item>
       <title>Trumps USA: Fest, fiender og fredsavtaler</title>
       <description>Trump vil være fredsmekler i verden, men hjemme er det fortsatt krig mot fiendene. Hva sier uka som gikk om USA nå?</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9a50951c-fcf1-40dc-9095-1cfcf1c0dc62_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9a50951c-fcf1-40dc-9095-1cfcf1c0dc62_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>42:47</ns0:duration>
+      <itunes:duration>42:47</itunes:duration>
       <pubDate>Thu, 18 Jun 2026 14:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/TqDIT3WMXkIEJAJWimDH-QyMiacaxXtBX26oCeOFVStA.jpg" />
+      <itunes:image href="https://gfx.nrk.no/TqDIT3WMXkIEJAJWimDH-QyMiacaxXtBX26oCeOFVStA.jpg" />
     </item>
     <item>
       <title>Skam etter slankesprøyte</title>
       <description>Folk syns de som bruker slankemedisin jukser, viser ny studie. Hvorfor dømmer vi dem som trenger hjelp?</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2122d2d9-c667-4600-a2d2-d9c667f600d3_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2122d2d9-c667-4600-a2d2-d9c667f600d3_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>23:46</ns0:duration>
+      <itunes:duration>23:46</itunes:duration>
       <pubDate>Wed, 17 Jun 2026 12:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/1QlzXDk1v_BnhSn73rBsIwunAOzrDvg-yOpUONuKf4yA.jpg" />
+      <itunes:image href="https://gfx.nrk.no/1QlzXDk1v_BnhSn73rBsIwunAOzrDvg-yOpUONuKf4yA.jpg" />
     </item>
     <item>
       <title>Spør Ekko: Dagen etter dommen</title>
       <description>Hadde Marius Borg Høiby blitt funnet skyldig uten sine egne mobilopptak og hva skjer videre nå? Ekspertene svarte lytterne.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/139c4bc1-7505-4b7a-9c4b-c17505fb7a29_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/139c4bc1-7505-4b7a-9c4b-c17505fb7a29_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>57:53</ns0:duration>
+      <itunes:duration>57:53</itunes:duration>
       <pubDate>Tue, 16 Jun 2026 13:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/xYTj6HAXBroMs-d0_fd3agjxed1nIUBdAmanCxUJnHxw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/xYTj6HAXBroMs-d0_fd3agjxed1nIUBdAmanCxUJnHxw.jpg" />
     </item>
   <item>
       <title>Glimt av håp i Sudan</title>
       <description>I Sudan finnes en av verdens mest glemte konflikter. Men midt i katastrofen finnes også håp: mennesker som hjelper hverandre.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/fd24ac3a-4d92-49bb-a4ac-3a4d9229bb67_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/fd24ac3a-4d92-49bb-a4ac-3a4d9229bb67_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>23:37</ns0:duration>
+      <itunes:duration>23:37</itunes:duration>
       <pubDate>Mon, 15 Jun 2026 13:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/yvTRkdZzHFzu7zgfzxsgfwlF-j5f-gJ3bOV3WOTE-l8Q.jpg" />
+      <itunes:image href="https://gfx.nrk.no/yvTRkdZzHFzu7zgfzxsgfwlF-j5f-gJ3bOV3WOTE-l8Q.jpg" />
     </item>
     <item>
       <title>Trumps USA: VM med bismak</title>
       <description>Fotball-VM byrjar i dag, men vertslandet USA stikk kjepper i hjula for fleire. Vi oppsummerer siste veka med Trump.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/4e2c77b9-952c-4cad-ac77-b9952c5cad86_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/4e2c77b9-952c-4cad-ac77-b9952c5cad86_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>46:41</ns0:duration>
+      <itunes:duration>46:41</itunes:duration>
       <pubDate>Thu, 11 Jun 2026 14:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/k0QXmtq9bI0GGdtGnBnPrQ20A9bS_ptPKlQnYbuOcUJw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/k0QXmtq9bI0GGdtGnBnPrQ20A9bS_ptPKlQnYbuOcUJw.jpg" />
     </item>
     <item>
       <title>Fotball kun for de rike?</title>
       <description>Det koster titusenvis av kroner for barn å spille fotball. Hva skjer når fotballen forsvinner fra "løkka" og blir proff tidlig?</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9b03432c-5a86-4120-8343-2c5a863120c1_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9b03432c-5a86-4120-8343-2c5a863120c1_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>23:10</ns0:duration>
+      <itunes:duration>23:10</itunes:duration>
       <pubDate>Wed, 10 Jun 2026 13:15:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/htNuoy7ntKuOrYmbModWaQ_El0O0SSjrXWjg04FjF_cw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/htNuoy7ntKuOrYmbModWaQ_El0O0SSjrXWjg04FjF_cw.jpg" />
     </item>
     <item>
       <title>Pride: Fest eller politikk?</title>
       <description>Juni er Pride-måneden. Pride er både rettighetskamp og brennhet kulturdebatt.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/48fa405e-63f6-4a77-ba40-5e63f68a77b3_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/48fa405e-63f6-4a77-ba40-5e63f68a77b3_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>22:06</ns0:duration>
+      <itunes:duration>22:06</itunes:duration>
       <pubDate>Tue, 09 Jun 2026 13:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/Wwx_OWonQNwx9CMAI9wrqA4ibF3npK02tHMYVUfKJo9g.jpg" />
+      <itunes:image href="https://gfx.nrk.no/Wwx_OWonQNwx9CMAI9wrqA4ibF3npK02tHMYVUfKJo9g.jpg" />
     </item>
     <item>
       <title>Ytre høgre + venstre = sant?</title>
       <description>Demokratane er i ei identitetskrise. Løner det seg å alliere seg med ein tidlegare Trump-støttespelar for å vinne valet?</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/4332f7e3-c5f7-46d1-b2f7-e3c5f706d114_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/4332f7e3-c5f7-46d1-b2f7-e3c5f706d114_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>24:42</ns0:duration>
+      <itunes:duration>24:42</itunes:duration>
       <pubDate>Mon, 08 Jun 2026 13:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/ddL3fuBGdZN1BMpilh81twBPijpv1EeX5LGFmsuV1GJg.jpg" />
+      <itunes:image href="https://gfx.nrk.no/ddL3fuBGdZN1BMpilh81twBPijpv1EeX5LGFmsuV1GJg.jpg" />
     </item>
     <item>
       <title>Trumps USA: Donalds innerste tanker</title>
       <description>52 rasende meldinger på seks timer. Ekspertene mener nattutbruddene gir et historisk unikt og ufiltrert innblikk i Donald Trumps hode.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cfa725e4-7ba0-4c9b-a725-e47ba0fc9b95_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cfa725e4-7ba0-4c9b-a725-e47ba0fc9b95_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>47:40</ns0:duration>
+      <itunes:duration>47:40</itunes:duration>
       <pubDate>Thu, 04 Jun 2026 08:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/8CYgHHsBEZTz-mCvv6-8jAmb7yB8no22sUUN-3Kr96-g.jpg" />
+      <itunes:image href="https://gfx.nrk.no/8CYgHHsBEZTz-mCvv6-8jAmb7yB8no22sUUN-3Kr96-g.jpg" />
     </item>
     <item>
       <title>Norge 2026: Hvem har mest makt?</title>
       <description>Tech-giganter, KI og skjult makt: Er det på tide med en ny maktutredning for å finne ut hvem som egentlig trekker i trådene?</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a7bf964f-144e-4e17-bf96-4f144eae172a_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a7bf964f-144e-4e17-bf96-4f144eae172a_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>23:58</ns0:duration>
+      <itunes:duration>23:58</itunes:duration>
       <pubDate>Wed, 03 Jun 2026 14:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/z2xdMV2epB6suEPKE-Z45g9GnkcE5jv3GJY6yVOM7cbw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/z2xdMV2epB6suEPKE-Z45g9GnkcE5jv3GJY6yVOM7cbw.jpg" />
     </item>
     <item>
       <title>Når er det greitt å bruke KI?</title>
       <description>Vi bruker KI til alt frå lekser og arbeidsoppgåver til kunst og musikk. Men kvar går grensa for kva som er innafor?</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/ba976ea2-2aab-43ac-976e-a22aabf3acc9_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/ba976ea2-2aab-43ac-976e-a22aabf3acc9_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>52:28</ns0:duration>
+      <itunes:duration>52:28</itunes:duration>
       <pubDate>Tue, 02 Jun 2026 13:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/4x0AR_HJKsRMZnAAFQqq-Q1nDtr9WwBjg-quZBLuU89A.jpg" />
+      <itunes:image href="https://gfx.nrk.no/4x0AR_HJKsRMZnAAFQqq-Q1nDtr9WwBjg-quZBLuU89A.jpg" />
     </item>
     <item>
       <title>Med KI som klassekompis</title>
       <description>Kunstig intelligens har flyttet inn i klasserommet. Det gjør lærernes arbeidsdag vanskeligere.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/14c8a903-a96c-430a-88a9-03a96cb30a4e_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/14c8a903-a96c-430a-88a9-03a96cb30a4e_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>22:02</ns0:duration>
+      <itunes:duration>22:02</itunes:duration>
       <pubDate>Mon, 01 Jun 2026 13:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/F5WiN_aResre0ZCXkd5ScQyHkgYJRs5XLOHofevN2thA.jpg" />
+      <itunes:image href="https://gfx.nrk.no/F5WiN_aResre0ZCXkd5ScQyHkgYJRs5XLOHofevN2thA.jpg" />
     </item>
     <item>
       <title>Trumps USA: Alle presidentens menn</title>
       <description>Å bli plukket ut som Trumps favoritt er vinnerloddet i den amerikanske nominasjonskampen.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d7082da3-611d-4a3d-882d-a3611dca3d64_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d7082da3-611d-4a3d-882d-a3611dca3d64_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>56:11</ns0:duration>
+      <itunes:duration>56:11</itunes:duration>
       <pubDate>Thu, 28 May 2026 14:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/cyYlJgVoBmBesiednv_BqgC0feuWMdIH6cUCW6GjKkCA.jpg" />
+      <itunes:image href="https://gfx.nrk.no/cyYlJgVoBmBesiednv_BqgC0feuWMdIH6cUCW6GjKkCA.jpg" />
     </item>
     <item>
       <title>Bistand er også beredskap</title>
       <description>Ebola herjar medan bistandskutta rullar. Er hjelp til andre eigentleg vår viktigaste forsikring mot ein ny pandemi?</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/19f9b2dd-2e77-4111-b9b2-dd2e7771118a_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/19f9b2dd-2e77-4111-b9b2-dd2e7771118a_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>27:53</ns0:duration>
+      <itunes:duration>27:53</itunes:duration>
       <pubDate>Wed, 27 May 2026 12:35:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/VbSkejkX8jptBnZvdLxvYwkXg4aH1v0smNalc8UUacMg.jpg" />
+      <itunes:image href="https://gfx.nrk.no/VbSkejkX8jptBnZvdLxvYwkXg4aH1v0smNalc8UUacMg.jpg" />
     </item>
     <item>
       <title>Borgerlønn, noe for Norge?</title>
       <description>Hundretusener rett på konto til alle. Hva kan vi  lære av land som prøvde borgerlønn for å få flere i jobb?</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a6e22bfe-1571-4c37-a22b-fe15713c37a9_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a6e22bfe-1571-4c37-a22b-fe15713c37a9_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>24:26</ns0:duration>
+      <itunes:duration>24:26</itunes:duration>
       <pubDate>Tue, 26 May 2026 13:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/qaztMQDwfmu6gnwWC9uf5wKEipTxc2p5Ar_7XeCFuTUg.jpg" />
+      <itunes:image href="https://gfx.nrk.no/qaztMQDwfmu6gnwWC9uf5wKEipTxc2p5Ar_7XeCFuTUg.jpg" />
     </item>
     <item>
       <title>Er asylordninga utdatert?</title>
       <description>Har vi laga eit system som favoriserar dei som har pengar, nettverk og helse til å klare reisa, og dermed sviktar dei som sit att?</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2d933047-84ae-43ed-9330-4784ae33ed43_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2d933047-84ae-43ed-9330-4784ae33ed43_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>22:19</ns0:duration>
+      <itunes:duration>22:19</itunes:duration>
       <pubDate>Mon, 25 May 2026 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/tJ-GfCJITHf1CqzaT_1hUwFabrYRslxEvGCypz8dOmGQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/tJ-GfCJITHf1CqzaT_1hUwFabrYRslxEvGCypz8dOmGQ.jpg" />
     </item>
     <item>
       <title>Trumps USA: No hemnar han seg</title>
       <description>Trump rydder unna fiendar, sikrar milliardar til sine eigne og forhandlar om Taiwan. Vi oppsummerer siste veka med USA-ekspertane.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a6852f83-8dfe-4b75-852f-838dfefb753f_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a6852f83-8dfe-4b75-852f-838dfefb753f_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>48:49</ns0:duration>
+      <itunes:duration>48:49</itunes:duration>
       <pubDate>Thu, 21 May 2026 12:30:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/F9Xga_vD6ot5x9s79CX9EwkFpWqm_rxYr4cfZwpn0ZjA.jpg" />
+      <itunes:image href="https://gfx.nrk.no/F9Xga_vD6ot5x9s79CX9EwkFpWqm_rxYr4cfZwpn0ZjA.jpg" />
     </item>
     <item>
       <title>Får Forsvaret feil folk?</title>
       <description>Nye trusler krever annen kompetanse. Forsvaret trenger tusenvis av kodere, ingeniører og til og med samfunnsvitere, men risikerer å tape kampen om de kloke hodene.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cd5220cb-2236-44fb-9220-cb223674fb9f_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cd5220cb-2236-44fb-9220-cb223674fb9f_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>23:42</ns0:duration>
+      <itunes:duration>23:42</itunes:duration>
       <pubDate>Wed, 20 May 2026 13:15:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/4T9jVNqOAbNDYQlqDQUgjgVE-fbUogkXRoCYdSVNYDpw.jpg" />
+      <itunes:image href="https://gfx.nrk.no/4T9jVNqOAbNDYQlqDQUgjgVE-fbUogkXRoCYdSVNYDpw.jpg" />
     </item>
     <item>
       <title>Kvinnosfæren: Kvinner som hater menn?</title>
       <description>Kvinner under 30 år er tre ganger mer negative til menn enn omvendt. Bør alarmklokkene ringe?</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/323bfc3a-c6ad-4377-bbfc-3ac6ad037705_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/323bfc3a-c6ad-4377-bbfc-3ac6ad037705_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>21:44</ns0:duration>
+      <itunes:duration>21:44</itunes:duration>
       <pubDate>Tue, 19 May 2026 13:30:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/aMV5Pr2SuT7y8z_8t1Z88gkUIdMvyv5qDBmkpCOTTVRA.jpg" />
+      <itunes:image href="https://gfx.nrk.no/aMV5Pr2SuT7y8z_8t1Z88gkUIdMvyv5qDBmkpCOTTVRA.jpg" />
     </item>
     <item>
       <title>Spør finansministeren</title>
       <description>Frå matprisar og kvardagsøkonomi til kva samfunn regjeringa vil ha. Jens Stoltenberg svarte på dykkar spørsmål på direkten.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/659abbd3-cf86-49d8-9abb-d3cf86f9d8d4_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/659abbd3-cf86-49d8-9abb-d3cf86f9d8d4_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>41:04</ns0:duration>
+      <itunes:duration>41:04</itunes:duration>
       <pubDate>Mon, 18 May 2026 13:30:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/qBmh50xTyMwnFMYsp0rCPQq0uI79rNtTT6tp3gYsIpQQ.jpg" />
+      <itunes:image href="https://gfx.nrk.no/qBmh50xTyMwnFMYsp0rCPQq0uI79rNtTT6tp3gYsIpQQ.jpg" />
     </item>
     <item>
       <title>Pen hud med høy helserisiko</title>
       <description>Tollerne advarer: Peptider kommer ulovlig til landet. Jakten på ungdomshud kan ha en høy pris.</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/1c0a5bb5-549a-40b2-8a5b-b5549ae0b2c0_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/1c0a5bb5-549a-40b2-8a5b-b5549ae0b2c0_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>17:03</ns0:duration>
+      <itunes:duration>17:03</itunes:duration>
       <pubDate>Thu, 14 May 2026 06:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/uS0Ow1TZE6fPrCtl7IxqgQHOBLaxd9TS4YC1TZZOBq7w.jpg" />
+      <itunes:image href="https://gfx.nrk.no/uS0Ow1TZE6fPrCtl7IxqgQHOBLaxd9TS4YC1TZZOBq7w.jpg" />
     </item>
     <item>
       <title>Trumps USA: Kina og USA i viktig møte</title>
       <description>De har møttes før, og nå møtes de igjen. Kan Kina ha nøkkelen til fred i Midtøsten?</description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e95de719-7c7f-427c-9de7-197c7f727c39_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e95de719-7c7f-427c-9de7-197c7f727c39_1_ID192MP3.mp3" length="0" type="audio/mpeg" />
-      <ns0:duration>46:52</ns0:duration>
+      <itunes:duration>46:52</itunes:duration>
       <pubDate>Wed, 13 May 2026 13:00:00 +0200</pubDate>
-      <ns0:image href="https://gfx.nrk.no/3LHVK-KIu2ZCSW24Ibe2IAxaMhScRb13hm_KsV1J9m9g.jpg" />
+      <itunes:image href="https://gfx.nrk.no/3LHVK-KIu2ZCSW24Ibe2IAxaMhScRb13hm_KsV1J9m9g.jpg" />
     </item>
   </channel>
 </rss>
