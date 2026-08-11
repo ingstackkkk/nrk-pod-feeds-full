@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 30 siste fra Oppdatert</title>
+    <title>De 31 siste fra Oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 30 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 31 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 10 Aug 2026 18:24:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 08:15:30 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg" />
+    <item>
+      <title>Album, press og pause: Kva skjer med Ariana Grande?</title>
+      <description>Ryktene florerer etter at superstjerna annonserte pause frå rampelyset.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/71a3e0f9-9727-40bd-a3e0-f9972730bd22_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/71a3e0f9-9727-40bd-a3e0-f9972730bd22_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>17:24</itunes:duration>
+      <pubDate>Tue, 11 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Lihly6BmICcDyEQj_Gml1A9IYe6zYihLQR11-pvp_--Q.jpg" />
+    </item>
     <item>
       <title>Grensekaos i Europa: Ble Ceuta offer for maktkamp?</title>
       <description>Hvordan kom over 70.000 migranter til Ceuta samtidig?</description>
