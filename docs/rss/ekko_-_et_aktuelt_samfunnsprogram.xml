@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 30 siste fra Ekko</title>
+    <title>De 31 siste fra Ekko</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 30 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 31 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 11 Aug 2026 08:14:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 08:49:52 +0000</lastBuildDate>
     <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg" />
+    <item>
+      <title>Den nyttige skogbrannen</title>
+      <description>Vi  tenner på norsk skog med vilje, samtidig som ukontrollerte skogbranner herjer i Europa. Hvilken nytte har skogen av å brenne?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a6dc1df4-42e1-4060-9c1d-f442e1f0602c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a6dc1df4-42e1-4060-9c1d-f442e1f0602c_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>22:56</itunes:duration>
+      <pubDate>Tue, 11 Aug 2026 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vWrxhY2cwDv0WXsT2PEhowxeAYrtuh-Wvhci7FUXNkiA.jpg" />
+    </item>
     <item>
       <title>Keisersnitt gir ikke sykmelding</title>
       <description>Norge står midt i årets største babyboom, men kvinner som føder med keisersnitt har ikke alltid rett på sykmelding. Hvorfor?</description>

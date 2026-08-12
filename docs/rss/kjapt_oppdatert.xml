@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 359 siste fra Kjapt oppdatert</title>
+    <title>De 360 siste fra Kjapt oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 359 episodene fra podkasten Kjapt oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kjapt_oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 360 episodene fra podkasten Kjapt oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kjapt_oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 11 Aug 2026 08:15:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 08:50:09 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg" />
+    <item>
+      <title>I kveld må du se opp</title>
+      <description>Og stadig flere sliter med å ha råd til mat</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/c72c7c15-af97-4a1f-ac7c-15af970a1f8b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/c72c7c15-af97-4a1f-ac7c-15af970a1f8b_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>06:09</itunes:duration>
+      <pubDate>Wed, 12 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Yfb00tHcBoxIZhF8aOmnMgm8S20k9XyZPSpx6GQy4VKQ.jpg" />
+    </item>
     <item>
       <title>Desperat kamp mot klokka i Colombia</title>
       <description>Og tips og triks til nye studenter</description>
