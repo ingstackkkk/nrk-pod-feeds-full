@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 105 siste fra Historiske kjendiser</title>
+    <title>De 106 siste fra Historiske kjendiser</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 105 episodene fra podkasten Historiske kjendiser. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/historiske_kjendiser for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 106 episodene fra podkasten Historiske kjendiser. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/historiske_kjendiser for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 18 Aug 2026 05:48:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 05:51:02 +0000</lastBuildDate>
     <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg.jpg" />
+    <item>
+      <title>Anne-Cath. Vestly – Norges mormor</title>
+      <description>Hele Norges mormor ga stemme til de små og oversette.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/9def45d5-1247-4073-af45-d51247c0731e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/9def45d5-1247-4073-af45-d51247c0731e_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>56:44</itunes:duration>
+      <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qILNM4XGyyY-PtiAelLxvgcJwpKBd3t-Y4FmNJJYjYTg.jpg" />
+    </item>
     <item>
       <title>Simone de Beauvoir – radikal frihetstenker</title>
       <description>Simone de Beauvoir utfordret patriarkatet med pennen.</description>
