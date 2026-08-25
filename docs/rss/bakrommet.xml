@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 10 siste fra Bakrommet</title>
+    <title>De 11 siste fra Bakrommet</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Bakrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/bakrommet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 11 episodene fra podkasten Bakrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/bakrommet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 24 Aug 2026 06:05:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 05:52:52 +0000</lastBuildDate>
     <pubDate>Mon, 20 Jul 2026 04:52:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg" />
+    <item>
+      <title>Vi er klare for høstens fotballfest!</title>
+      <description>VM er over, men landslagsfesten fortsetter. Men ny storscorersveis og kaptein i storform. Danmark og Portugal venter, men hva skjer med klubbyttene alle ventet på?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/6cddad2d-d11d-4e70-9dad-2dd11d9e7069_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/6cddad2d-d11d-4e70-9dad-2dd11d9e7069_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>51:12</itunes:duration>
+      <pubDate>Mon, 24 Aug 2026 14:50:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg" />
+    </item>
     <item>
       <title>Spania er verdens beste</title>
       <description>Da er tidenes lengste verdensmesterskap over. Spania er mestere, Argentina er i tårer og Bakrommet reiser hjem.</description>

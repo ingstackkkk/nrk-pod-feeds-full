@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 40 siste fra Oppdatert</title>
+    <title>De 41 siste fra Oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 40 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 41 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 24 Aug 2026 06:05:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 05:53:53 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg" />
+    <item>
+      <title>Heksejakt og juks? Skandalen som ryster akademia</title>
+      <description>Jason Arday var tidenes yngste svarte professor ved Cambridge. Så kom anklagene.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/cc723fe0-5a3f-4acc-b23f-e05a3ffacc12_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/cc723fe0-5a3f-4acc-b23f-e05a3ffacc12_2_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>17:27</itunes:duration>
+      <pubDate>Tue, 25 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BGDajgI7OZYCL0NBeb_HsAuEBfkVsO7O-nDljqo7Uh0A.jpg" />
+    </item>
     <item>
       <title>«Putins mareritt»: Dette er Ukrainas dronekommando</title>
       <description>På et hemmelig sted i Ukraina sitter mennene som er blitt en del av Ukrainas mektigste våpen i krigen.</description>
