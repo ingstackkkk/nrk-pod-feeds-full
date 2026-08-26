@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 38 siste fra Ekko</title>
+    <title>De 39 siste fra Ekko</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 38 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 39 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 25 Aug 2026 05:53:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 05:55:40 +0000</lastBuildDate>
     <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg" />
+    <item>
+      <title>Hva sier tallene om nordmenn?</title>
+      <description>Lykkelige småbarnsforeldre i tidsklemma, men hva mer skjuler tallene?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c56c0795-68af-408c-ac07-9568af208ca4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c56c0795-68af-408c-ac07-9568af208ca4_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>21:27</itunes:duration>
+      <pubDate>Tue, 25 Aug 2026 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/v4zC8j9C4b7oT9dywDNNsA7Ut3hibKoTQsYg6hrKYaNg.jpg" />
+    </item>
     <item>
       <title>Sex uten hemninger</title>
       <description>I en ny studie forteller kvinner om friere og intens sex på MDMA, men også uklare grenser. Hva skjer når frigjøring og risiko møtes?</description>
