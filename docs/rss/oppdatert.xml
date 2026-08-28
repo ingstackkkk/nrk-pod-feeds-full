@@ -1,17 +1,44 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 42 siste fra Oppdatert</title>
+    <title>De 45 siste fra Oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 42 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 45 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 26 Aug 2026 05:56:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:18:27 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg" />
+    <item>
+      <title>Kong Harald: Slik var livet hans</title>
+      <description>I årevis var majestetens liv tett sammenvevd med definerende hendelser for Norge. Nå er kong Harald død.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/fa860795-36c3-4809-8607-9536c358097a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/fa860795-36c3-4809-8607-9536c358097a_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>01:02:40</itunes:duration>
+      <pubDate>Fri, 28 Aug 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fLoPQDfQgbrKDjJDeWZlOw8xOoF4K4YVIsWG6uXXkpcg.jpg" />
+    </item>
+    <item>
+      <title>Dolly Parton: Artisten som forente USA</title>
+      <description>Hvordan klarte hun å forene et helt land?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/ff0da274-384f-4f2a-8da2-74384f0f2a98_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/ff0da274-384f-4f2a-8da2-74384f0f2a98_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>15:18</itunes:duration>
+      <pubDate>Fri, 28 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rkREHUMwxeCeaEIyKDQV1AenEs4GGnP49Lnf16hblFIg.jpg" />
+    </item>
+    <item>
+      <title>Et liv som syk: Så begynte varsellampene å blinke</title>
+      <description>I barndommen trodde «Kamilla» at hun kunne dø om hun spiste en is. Men er det sant?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/a8efe2a0-c369-4ef5-afe2-a0c3697ef5da_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/a8efe2a0-c369-4ef5-afe2-a0c3697ef5da_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>16:49</itunes:duration>
+      <pubDate>Thu, 27 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FAhEQLJ-1z1dxs-l5k2FSQs-eTUFujL37Fn8SMqLWGJA.jpg" />
+    </item>
     <item>
       <title>Odysseen: Slik ble diktet en milliard-suksess</title>
       <description>Hvordan kan en 2700 år gammel historie fortsatt være relevant i dag?</description>
