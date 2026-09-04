@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 377 siste fra Kjapt oppdatert</title>
+    <title>De 378 siste fra Kjapt oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 377 episodene fra podkasten Kjapt oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kjapt_oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 378 episodene fra podkasten Kjapt oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kjapt_oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 03 Sep 2026 05:36:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 04:24:21 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg" />
+    <item>
+      <title>– Jeg ble kvalm av det</title>
+      <description>Tidligere FpU-leder og varsler møtte i Debatten.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/1de102cb-1bce-4f23-a102-cb1bcedf234c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/1de102cb-1bce-4f23-a102-cb1bcedf234c_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>06:32</itunes:duration>
+      <pubDate>Fri, 04 Sep 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BUjjBSs0eVf8Y-PtXOyYKQZj7djQyoDtmWOVsC_0guwQ.jpg" />
+    </item>
     <item>
       <title>Norge venter reaksjoner fra Russland</title>
       <description>Og mange er redde for at boligprisene blir høye i flere år</description>
