@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 45 siste fra Ekko</title>
+    <title>De 46 siste fra Ekko</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 45 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 46 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 07 Sep 2026 04:24:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 04:24:55 +0000</lastBuildDate>
     <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg" />
+    <item>
+      <title>Sergej Lavrov - fra koseprat til krigsretorikk</title>
+      <description>En gang tuslet han rundt på Storskog og roste samarbeidet med Norge. Nå kaller han Norge en risiko mot Russland.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c0962f6d-2ee3-4c22-962f-6d2ee30c2244_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c0962f6d-2ee3-4c22-962f-6d2ee30c2244_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>32:19</itunes:duration>
+      <pubDate>Mon, 07 Sep 2026 13:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Mfge3gqnQvmCQzW-9o5XBwNtM8x0-jGrSwuLMfHE4Xgw.jpg" />
+    </item>
     <item>
       <title>Nytt håp for organdonasjon</title>
       <description>Da lille Saga på 6 uker døde ønsket familien at hun skulle bli donor, men fikk nei. Nå er det endringer som gir håp for andre.</description>
