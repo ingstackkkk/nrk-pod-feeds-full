@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 380 siste fra Kjapt oppdatert</title>
+    <title>De 381 siste fra Kjapt oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 380 episodene fra podkasten Kjapt oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kjapt_oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 381 episodene fra podkasten Kjapt oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kjapt_oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 08 Sep 2026 04:25:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 04:25:24 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg" />
+    <item>
+      <title>I dag tar Norge farvel med kong Harald</title>
+      <description>Gravferden skal vises over hele landet.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/fb15890b-8964-44e2-9589-0b896444e264_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/fb15890b-8964-44e2-9589-0b896444e264_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>04:44</itunes:duration>
+      <pubDate>Wed, 09 Sep 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tli9oakrA-9Nk12TpgEABghGhv0_Xu3T7O_QEXw6dQBQ.jpg" />
+    </item>
     <item>
       <title>Hockeyboom i Norge</title>
       <description>Og en ny studie viser at det er geografiske forskjeller i hvem som rammes av parkinson.</description>
