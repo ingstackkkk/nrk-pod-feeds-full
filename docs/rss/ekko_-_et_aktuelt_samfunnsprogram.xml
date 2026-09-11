@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 47 siste fra Ekko</title>
+    <title>De 48 siste fra Ekko</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 47 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 48 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 10 Sep 2026 08:56:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 08:54:01 +0000</lastBuildDate>
     <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg" />
+    <item>
+      <title>Trumps USA: Et dystert 25-årsminne</title>
+      <description>For tjuefem år siden skrev en fryktelig terrorhandling seg inn i verdenshistorien. Det skjedde på amerikansk jord.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/542f12b3-f1fd-42f9-af12-b3f1fdf2f9bf_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/542f12b3-f1fd-42f9-af12-b3f1fdf2f9bf_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>55:38</itunes:duration>
+      <pubDate>Thu, 10 Sep 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sflnsUmIpSxVs9psxvvkPQLuKbmSIfW9dMslE7blCFGA.jpg" />
+    </item>
     <item>
       <title>Ceuta-konspirasjonane</title>
       <description>Statsministeren i Spania skuldar Russland og Israel for desinformasjon i Ceuta. Kven tener på å fyre opp krisa og splitte Europa?</description>

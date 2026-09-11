@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 55 siste fra Oppdatert</title>
+    <title>De 56 siste fra Oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 55 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 56 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 10 Sep 2026 08:56:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 08:54:50 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg" />
+    <item>
+      <title>Guantánamo: «Skrekkfengslet» verden glemte</title>
+      <description>Det skulle være en midlertidig løsning etter 11. september 2001. Hvorfor er fengselet på Cuba fortsatt åpent?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/436f7b46-08e9-4f1b-af7b-4608e92f1b3f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/436f7b46-08e9-4f1b-af7b-4608e92f1b3f_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>19:01</itunes:duration>
+      <pubDate>Fri, 11 Sep 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/d5ug5vuky4Z-fUIwYxpoUAEa3Rk-hAqp1H02eLN16l6Q.jpg" />
+    </item>
     <item>
       <title>Nepal-katastrofen: Saradas kamp for kjæresten</title>
       <description>Under en pilegrimstur i Nepal havnet kjæresten midt i katastrofen. Men Sarada nekter å gi opp.</description>
