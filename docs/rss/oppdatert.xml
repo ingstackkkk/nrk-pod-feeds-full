@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 56 siste fra Oppdatert</title>
+    <title>De 57 siste fra Oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 56 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 57 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 13 Sep 2026 09:31:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 09:49:47 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg" />
+    <item>
+      <title>Dette er «Tysklands farlegaste mann»</title>
+      <description>Partiet hans, AfD, er under overvaking mistenkt for høgreekstremisme. No kan dei for første gong få regjeringsmakt.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/beed1a52-ff5c-4216-ad1a-52ff5c82165c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/beed1a52-ff5c-4216-ad1a-52ff5c82165c_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>20:23</itunes:duration>
+      <pubDate>Mon, 14 Sep 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/89Bl2j4eOxEU4Q56yWRrHgC_70qniORR-glnZacnn9Ng.jpg" />
+    </item>
     <item>
       <title>Guantánamo: «Skrekkfengslet» verden glemte</title>
       <description>Det skulle være en midlertidig løsning etter 11. september 2001. Hvorfor er fengselet på Cuba fortsatt åpent?</description>
