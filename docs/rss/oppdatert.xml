@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 57 siste fra Oppdatert</title>
+    <title>De 58 siste fra Oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 57 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 58 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 14 Sep 2026 09:49:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 09:24:29 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg" />
+    <item>
+      <title>I strupen på datasentre: Kan Erin stoppe dem?</title>
+      <description>Hun slo et av USAs mektigste energiselskaper. Nå har hun tatt på seg en ny kamp. Kan hun klare det igjen?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/b5bb419f-db57-4c9a-bb41-9fdb57cc9a67_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/b5bb419f-db57-4c9a-bb41-9fdb57cc9a67_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>15:52</itunes:duration>
+      <pubDate>Tue, 15 Sep 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/j4RFzlO3jOal1rJ5osJa8wSUrDq1DJQC8Rr5kNMUooMA.jpg" />
+    </item>
     <item>
       <title>Dette er «Tysklands farlegaste mann»</title>
       <description>Partiet hans, AfD, er under overvaking mistenkt for høgreekstremisme. No kan dei for første gong få regjeringsmakt.</description>

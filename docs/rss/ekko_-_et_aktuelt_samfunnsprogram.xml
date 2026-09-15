@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 48 siste fra Ekko</title>
+    <title>De 49 siste fra Ekko</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 48 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 49 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 14 Sep 2026 09:49:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 09:23:40 +0000</lastBuildDate>
     <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg" />
+    <item>
+      <title>Oppdage ADHD ved fødsel?</title>
+      <description>Blod frå navlestrengen kan gi svar om ADHD. Ny forsking opnar for at barna kan få betre og tidlegare hjelp.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e84b9ef0-93e6-457b-8b9e-f093e6757b27_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e84b9ef0-93e6-457b-8b9e-f093e6757b27_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>19:16</itunes:duration>
+      <pubDate>Mon, 14 Sep 2026 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JEUDe7swYHHnAbrstO7a3grrMvMUxyuNSgzy9iEzUwPg.jpg" />
+    </item>
     <item>
       <title>Trumps USA: Et dystert 25-årsminne</title>
       <description>For tjuefem år siden skrev en fryktelig terrorhandling seg inn i verdenshistorien. Det skjedde på amerikansk jord.</description>
