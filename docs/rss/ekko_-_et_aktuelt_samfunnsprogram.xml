@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 49 siste fra Ekko</title>
+    <title>De 50 siste fra Ekko</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 49 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 50 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 15 Sep 2026 09:23:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 09:16:25 +0000</lastBuildDate>
     <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg" />
+    <item>
+      <title>Spør Ekko om Pisa-krisa</title>
+      <description>Norske elever blir bare dårligere og dårligere i lesing, regning og naturfag. Hvorfor skjer det og hva kan vi gjøre for å endre utviklingen?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/3a675366-2e7a-429f-a753-662e7a829f0f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/3a675366-2e7a-429f-a753-662e7a829f0f_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>55:06</itunes:duration>
+      <pubDate>Tue, 15 Sep 2026 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ouZGZGHfxUpnupDgvAsKkgxoL_YUrf1mpb11ejVy9qDQ.jpg" />
+    </item>
     <item>
       <title>Oppdage ADHD ved fødsel?</title>
       <description>Blod frå navlestrengen kan gi svar om ADHD. Ny forsking opnar for at barna kan få betre og tidlegare hjelp.</description>
