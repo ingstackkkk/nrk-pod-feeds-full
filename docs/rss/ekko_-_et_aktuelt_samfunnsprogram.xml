@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 50 siste fra Ekko</title>
+    <title>De 51 siste fra Ekko</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 50 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 51 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 16 Sep 2026 09:16:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 09:24:55 +0000</lastBuildDate>
     <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg" />
+    <item>
+      <title>Solarpunk - en bærekraftig drøm</title>
+      <description>Mørke nyheter slukker optimismen. Kan grønn sci-fi gi oss troen på framtida igjen?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/28c304fe-a899-431e-8304-fea899b31e46_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/28c304fe-a899-431e-8304-fea899b31e46_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>24:34</itunes:duration>
+      <pubDate>Wed, 16 Sep 2026 13:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/E8y-gKupHNSfSnyvkeZpSQd_F1NxmkNvIdMUVzIudCNA.jpg" />
+    </item>
     <item>
       <title>Spør Ekko om Pisa-krisa</title>
       <description>Norske elever blir bare dårligere og dårligere i lesing, regning og naturfag. Hvorfor skjer det og hva kan vi gjøre for å endre utviklingen?</description>
