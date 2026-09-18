@@ -1,17 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 60 siste fra Oppdatert</title>
+    <title>De 61 siste fra Oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 60 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 61 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 17 Sep 2026 09:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 08:59:47 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg" />
+    <item>
+      <title>Naken i sportsreklame: Hån mot kvinner?</title>
+      <description>Sydney Sweeney dukker opp uten klær i en reklamefilm. Nå ser flere rødt.
+
+Faksimile: Novig Sports</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/9d368638-fc96-4980-b686-38fc96798034_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/9d368638-fc96-4980-b686-38fc96798034_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>18:20</itunes:duration>
+      <pubDate>Fri, 18 Sep 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XLe03AAhaEzGFlFhkUq6sQeQUQyZsrGV1kn3Ny4-vnDA.jpg" />
+    </item>
     <item>
       <title>Tyskeren som fikk Norge til verdensrommet</title>
       <description>5. september 2026 ble det skrevet norsk romfartshistorie. Hvem er tyskeren som gjorde det hele mulig?</description>
