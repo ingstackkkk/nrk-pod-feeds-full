@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 64 siste fra Oppdatert</title>
+    <title>De 65 siste fra Oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 64 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 65 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 23 Sep 2026 09:17:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 09:17:13 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg" />
+    <item>
+      <title>Pavens oppgjør: Slik vil han redde kirkens rykte</title>
+      <description>Robert Prevost ble pave i 2025. Nå tar pave Leo XIV et oppgjør med kirkens mørke fortid.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/e3dcbe2b-a188-412c-9cbe-2ba188112ce5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/e3dcbe2b-a188-412c-9cbe-2ba188112ce5_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>15:39</itunes:duration>
+      <pubDate>Thu, 24 Sep 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/alFEP2hwF__eT_2fB3KNiwOiMLT1tiQH48CtLzDeK_gQ.jpg" />
+    </item>
     <item>
       <title>AOC: Kan ho bli USAs neste president?</title>
       <description>Samtidig som ho har opna opp om ein intim, medisinsk prosess, går spekulasjonane om at alt er ein del av ein kalkulert plan.</description>
