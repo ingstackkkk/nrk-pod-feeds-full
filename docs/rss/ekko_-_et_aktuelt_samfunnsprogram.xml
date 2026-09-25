@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 55 siste fra Ekko</title>
+    <title>De 56 siste fra Ekko</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 55 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 56 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 24 Sep 2026 09:16:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 09:35:12 +0000</lastBuildDate>
     <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg" />
+    <item>
+      <title>Trumps USA: Vinden har vendt</title>
+      <description>Krigene mot mediene hardner til samtidig som flere prøver å distansere seg fra Donald Trump.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/716cc1f0-2591-4fe8-acc1-f025914fe861_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/716cc1f0-2591-4fe8-acc1-f025914fe861_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>57:01</itunes:duration>
+      <pubDate>Thu, 24 Sep 2026 13:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AeIFRhGB41ao_bE4_UQDMQHT48XaKR5hVd2dJUR7EgdA.jpg" />
+    </item>
     <item>
       <title>Bedre kjøpekraft - for hvem?</title>
       <description>De økonomiske forskjellene øker. Vi forklarer hvorfor kjøpekrafta er et måleverktøy for økonomien vår.</description>
