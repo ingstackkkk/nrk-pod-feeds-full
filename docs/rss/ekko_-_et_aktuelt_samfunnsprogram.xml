@@ -1,17 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 56 siste fra Ekko</title>
+    <title>De 58 siste fra Ekko</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 56 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 58 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 28 Sep 2026 10:50:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 10:38:55 +0000</lastBuildDate>
     <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg" />
+    <item>
+      <title>Unge ryddar opp gamle synder</title>
+      <description>Kysten druknar i søppel. Reddar ryddedugnadane fjordane våre, eller er det berre ei dråpe i eit gigantisk hav av plast?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/18c11b12-d7b0-4941-811b-12d7b0b941dc_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/18c11b12-d7b0-4941-811b-12d7b0b941dc_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>21:07</itunes:duration>
+      <pubDate>Tue, 29 Sep 2026 12:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sSz-vbFESlRgoiREcO8hDwM0ENYbPfLKBQ9Y_lnDfprg.jpg" />
+    </item>
+    <item>
+      <title>Umodne skolebarn</title>
+      <description>Noen barn møter skolen før de egentlig er klare for det. Nye undersøkelser viser overraskende resultater.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9ff23b0a-03ec-49c5-b23b-0a03ec69c582_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9ff23b0a-03ec-49c5-b23b-0a03ec69c582_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>24:33</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XXohESNBhU98t8wq-iEwKwr5lpZ0a9vSsgTV_RPTFV3g.jpg" />
+    </item>
     <item>
       <title>Trumps USA: Vinden har vendt</title>
       <description>Krigene mot mediene hardner til samtidig som flere prøver å distansere seg fra Donald Trump.</description>
