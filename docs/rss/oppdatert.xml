@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 74 siste fra Oppdatert</title>
+    <title>De 75 siste fra Oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 74 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 75 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 07 Oct 2026 11:02:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 11:20:45 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg" />
+    <item>
+      <title>Derfor stormer det rundt Document-sjefen</title>
+      <description>Hvorfor er presse-Norge i strupen på redaktøren?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/78ae7a5b-468f-4a18-ae7a-5b468faa1823_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/78ae7a5b-468f-4a18-ae7a-5b468faa1823_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>18:46</itunes:duration>
+      <pubDate>Thu, 08 Oct 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fUl9DHqEAErG9xS9T0NJhgVM-f8HjNI5i5fN9M8Jfdqg.jpg" />
+    </item>
     <item>
       <title>«Cornell 7»: Valdtektssaka som rystar USA</title>
       <description>Ei kvinne hevdar å ha blitt dopa og valdtatt av sju menn. No rasar folk i sosiale medium. Kva skjedde på eliteuniversitetet?</description>

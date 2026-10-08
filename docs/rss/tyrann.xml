@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 37 siste fra Tyrann</title>
+    <title>De 38 siste fra Tyrann</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 37 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 38 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 07 Oct 2026 11:03:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 11:21:00 +0000</lastBuildDate>
     <pubDate>Sat, 27 Jun 2026 06:03:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg" />
+    <item>
+      <title>Macías - kommer lørdag</title>
+      <description>Francisco Macías Nguema kalte seg hitler-marxist, var klinisk gal og en av verdens aller mest brutale og inkompetente diktatorer.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/9c9bf002-0d0e-42ba-9bf0-020d0e62badd_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/9c9bf002-0d0e-42ba-9bf0-020d0e62badd_1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>00:39</itunes:duration>
+      <pubDate>Wed, 07 Oct 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/W1_dRT3YisJOs1MtDvnlcAXvsWQFP1gCzuTk-pUerrFQ.jpg" />
+    </item>
     <item>
       <title>Gaddafi (5:5)</title>
       <description>Lockerbie-katastrofen tvinger Gaddafi til å endre taktikk. Men ingen maktmidler kan redde Gaddafi fra hans egen befolknings vrede.</description>
