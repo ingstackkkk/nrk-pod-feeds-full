@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 39 siste fra Krimrommet</title>
+    <title>De 40 siste fra Krimrommet</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 39 episodene fra podkasten Krimrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/krimrommet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 40 episodene fra podkasten Krimrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/krimrommet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 08 Oct 2026 11:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 11:18:04 +0000</lastBuildDate>
     <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg" />
+    <item>
+      <title>Cornell: Hva er egentlig sant?</title>
+      <description>I flere uker har ansiktene til sju unge menn herjet på internett. Hva har egentlig skjedd i Cornell-saken? Og er det innafor?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/117b939f-cd70-4d78-bd34-ccded230685f_ae71667b-b775-46b7-9b3f-6e9bc373e5cd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/117b939f-cd70-4d78-bd34-ccded230685f_ae71667b-b775-46b7-9b3f-6e9bc373e5cd_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>37:02</itunes:duration>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iQaYefP2T4Pv_v0Kjl96rAsXS-f3r94QxJ8ccxnEUwfA.jpg" />
+    </item>
     <item>
       <title>Jaktdrapet i Halden: Dette vet vi</title>
       <description>Søndag morgen våkner Halden opp til drapsalarm. To voksne menn, far og sønn, har mistet livet. Men ble de tilfeldig utvalgt?</description>
