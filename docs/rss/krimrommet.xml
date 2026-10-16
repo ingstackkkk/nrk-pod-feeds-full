@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 41 siste fra Krimrommet</title>
+    <title>De 42 siste fra Krimrommet</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 41 episodene fra podkasten Krimrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/krimrommet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 42 episodene fra podkasten Krimrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/krimrommet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 15 Oct 2026 09:07:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 08:59:45 +0000</lastBuildDate>
     <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg" />
+    <item>
+      <title>Kvinnen som ikke vil dø</title>
+      <description>Christa Gail Pike blir dømt til døden, og føres inn i et henrettelseskammer. Men så går noe galt.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/f64d6ef8-f2e0-448b-b0a4-02c9811d41ea_0f970563-a2c0-48ce-82a3-2de3c73dfd9a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/f64d6ef8-f2e0-448b-b0a4-02c9811d41ea_0f970563-a2c0-48ce-82a3-2de3c73dfd9a_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>35:15</itunes:duration>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aYbp4qbR0tCqbMGpmI9MZg_rFGFIXk3G6yq_-avjkv4g.jpg" />
+    </item>
     <item>
       <title>Clancy (3): «Patrick did it!»</title>
       <description>Lindsay Clancy er tiltalt for å ha drept barna sine – men på internett florerer teoriene om en helt annen gjerningsmann. </description>
