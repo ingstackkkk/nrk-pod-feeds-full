@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 83 siste fra Oppdatert</title>
+    <title>De 84 siste fra Oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 83 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 84 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 19 Oct 2026 09:51:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 09:24:08 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg" />
+    <item>
+      <title>Kampen om Førdefjorden: Derfor er det bråk igjen</title>
+      <description>En årelang konflikt har blusset opp på ny. </description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/3a0b187f-912b-49e1-9ea5-438aa66a2ee8_8746b196-207b-47d7-b35a-854b97001f0f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/3a0b187f-912b-49e1-9ea5-438aa66a2ee8_8746b196-207b-47d7-b35a-854b97001f0f_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>13:56</itunes:duration>
+      <pubDate>Tue, 20 Oct 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0GsiHhmEQQZ29m-8-SGP4gqEXnrpbAJjq74PYeTeBO3w.jpg" />
+    </item>
     <item>
       <title>Eldrebølgen er her: Slik kan det bli i 2060</title>
       <description>I flere tiår har politikerne varslet om den kommende eldrebølgen. Nå er den her. Er vi forberedt?</description>
