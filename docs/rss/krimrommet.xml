@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 43 siste fra Krimrommet</title>
+    <title>De 44 siste fra Krimrommet</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 43 episodene fra podkasten Krimrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/krimrommet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 44 episodene fra podkasten Krimrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/krimrommet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 22 Oct 2026 09:23:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 09:19:09 +0000</lastBuildDate>
     <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg" />
+    <item>
+      <title>Tilsto drap - er han uskyldig?</title>
+      <description>Douglas Carter tilsto å ha drept danske Eva på 80-tallet. Men etter 41 år i fengsel gjør nye DNA-funn at han blir løslatt.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/cb29ddf4-a1b8-4499-a8a3-3ff7aee9e0d9_621011eb-918a-42c8-b040-a1655bed7fe2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/cb29ddf4-a1b8-4499-a8a3-3ff7aee9e0d9_621011eb-918a-42c8-b040-a1655bed7fe2_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>28:12</itunes:duration>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HZvnWSzaP4rcjfwIEVqmswspuC_ffjCsuePwco5Pj71w.jpg" />
+    </item>
     <item>
       <title>Tenåring dømt: Skulle drepe på bestilling</title>
       <description>19-åringen fra Stavanger ble fjernstyrt av Foxtrot. Nå risikerer han å sitte 20 år i britisk fengsel. </description>
