@@ -1,17 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 90 siste fra Oppdatert</title>
+    <title>De 92 siste fra Oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 90 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 92 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 28 Oct 2026 10:32:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 10:52:26 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg" />
+    <item>
+      <title>Drap i feeden: Slik gikk journalistene «undercover»</title>
+      <description>NRK og Faktisk.no ble tilbudt drapsoppdrag av kriminelle nettverk når de undersøkte hvordan unge rekrutteres.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/c87b1fc7-c9b1-4a79-a966-4deae94da2cc_3d315392-d5f7-4254-9f67-4bfa8872c811_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/c87b1fc7-c9b1-4a79-a966-4deae94da2cc_3d315392-d5f7-4254-9f67-4bfa8872c811_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>18:59</itunes:duration>
+      <pubDate>Thu, 29 Oct 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7v-oG4U2T2GmjpDYKzoHBA-nfkcywRytR5pMEeX5g5Qg.jpg" />
+    </item>
+    <item>
+      <title>Derfor raser Ungarns statsminister mot NRK</title>
+      <description>Plutselig ble en NRK-korrespondent den store nyhetssaken i Ungarn. Hva skjedde?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/84f4f22e-755b-4d43-b216-383726d5c9db_e98e3bae-8876-4e45-bc7a-a34c4f8c6731_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/84f4f22e-755b-4d43-b216-383726d5c9db_e98e3bae-8876-4e45-bc7a-a34c4f8c6731_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>15:08</itunes:duration>
+      <pubDate>Wed, 28 Oct 2026 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JNjAdpT0ytbMNiexGEs87QjnZuyfMWNATa0N2VrdweOA.jpg" />
+    </item>
     <item>
       <title>Historisk val: No skal studentane styre Serbia</title>
       <description>Dei tok makta frå Putins venn. Kva no?</description>

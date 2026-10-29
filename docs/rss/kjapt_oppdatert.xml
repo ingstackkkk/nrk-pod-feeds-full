@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 416 siste fra Kjapt oppdatert</title>
+    <title>De 417 siste fra Kjapt oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 416 episodene fra podkasten Kjapt oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kjapt_oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 417 episodene fra podkasten Kjapt oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kjapt_oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 28 Oct 2026 10:32:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 10:52:11 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg" />
+    <item>
+      <title>Minst 68 døde i togulykke i Spania</title>
+      <description>Og hva betyr norske oljeinntekter for deg?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/94d8b867-44cc-4c20-9805-66688a967322_18c993d0-26a2-4be6-8923-2ac5a3b3884e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/94d8b867-44cc-4c20-9805-66688a967322_18c993d0-26a2-4be6-8923-2ac5a3b3884e_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>06:51</itunes:duration>
+      <pubDate>Thu, 29 Oct 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NnpuApyMBFxddDXlUEWNIgeFu1ZYZJ6mHK4Bu7pMX9Rw.jpg" />
+    </item>
     <item>
       <title>Flere selskaper må kunne formidle nødsamtaler</title>
       <description>Og det er et jevnt valg i Israel</description>
