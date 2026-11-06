@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 422 siste fra Kjapt oppdatert</title>
+    <title>De 423 siste fra Kjapt oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 422 episodene fra podkasten Kjapt oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kjapt_oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 423 episodene fra podkasten Kjapt oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kjapt_oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 05 Nov 2026 12:15:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 12:02:38 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg" />
+    <item>
+      <title>Snart kan det bli 16-årsgrense for elsparkesykkel</title>
+      <description>Og en populær TV-serie er kansellert etter ti sesonger. </description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/63e52212-f458-4310-8550-2e9a43a02282_ac577f0b-5dc2-4aed-9861-ced41243e0da_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/63e52212-f458-4310-8550-2e9a43a02282_ac577f0b-5dc2-4aed-9861-ced41243e0da_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>06:06</itunes:duration>
+      <pubDate>Fri, 06 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yyTLBWShMRLDusMDg9BffQ5o616K6tVH0m8XqWlaX0Og.jpg" />
+    </item>
     <item>
       <title>Foxtrot har blitt mer aktive i Norge</title>
       <description>Og lege advarer mot fenomenet «looksmaxxing».</description>

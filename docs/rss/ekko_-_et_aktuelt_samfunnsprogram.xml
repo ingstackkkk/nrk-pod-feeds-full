@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 79 siste fra Ekko</title>
+    <title>De 80 siste fra Ekko</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 79 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 80 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 05 Nov 2026 12:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 12:02:18 +0000</lastBuildDate>
     <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg" />
+    <item>
+      <title>Trumps USA: Presidentens skjebne</title>
+      <description>Presidenten overrasker med å innrømme nederlag og gratulere demokratene. Er det en ny Trump vi ser konturene av?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/61136d48-7562-451e-b935-8890a8eb1950_a6e91e30-b5ef-4572-99b0-81e64e77638f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/61136d48-7562-451e-b935-8890a8eb1950_a6e91e30-b5ef-4572-99b0-81e64e77638f_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>57:59</itunes:duration>
+      <pubDate>Thu, 05 Nov 2026 13:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/z0UrAPJIhOTgsOfzFe8xTQSGv4DphbMYRgW0CiKHTEmg.jpg" />
+    </item>
     <item>
       <title>Når folket reiser seg for demokratiet</title>
       <description>MAGA tapte så det sang i mellomvalget og de er ikke alene. Ytre høyre møter stadig mer motstand. I Ungarn, Serbia og Brasil har stemt ut de autoritære lederne.  Kan dette bety at den langvarige antidemokratiske bølgen er over - eller er det som skjer nå bare et forbigående blaff?</description>

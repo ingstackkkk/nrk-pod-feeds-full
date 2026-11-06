@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 39 siste fra Historier fra virkeligheten</title>
+    <title>De 40 siste fra Historier fra virkeligheten</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 39 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 40 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 05 Nov 2026 12:16:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 12:03:05 +0000</lastBuildDate>
     <pubDate>Sat, 08 Aug 2026 06:02:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg" />
+    <item>
+      <title>Kommer: Rottefangeren</title>
+      <description>Under andre verdenskrig får Edvard Tallaksen i oppdrag å drepe nordmenn som samarbeider med nazistene. De kaller det «å jakte rotter». </description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/8deaf474-3004-4f15-9c98-460edc8beb90_30bc572a-73b9-46de-bda0-e8a84b7e6467_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/8deaf474-3004-4f15-9c98-460edc8beb90_30bc572a-73b9-46de-bda0-e8a84b7e6467_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>00:28</itunes:duration>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/urILPw1hcre0CZDNvxa9lQLcQYBCxJzVzkSxQN6WV8wA.jpg" />
+    </item>
     <item>
       <title>Med buksa nede (2:2)</title>
       <description>Det virker som om superspaner Eirik Jensen har full kontroll på alt Nordlandsmafiaen foretar seg. </description>
