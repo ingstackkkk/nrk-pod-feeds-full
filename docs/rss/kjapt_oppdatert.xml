@@ -1,17 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 423 siste fra Kjapt oppdatert</title>
+    <title>De 424 siste fra Kjapt oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 423 episodene fra podkasten Kjapt oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kjapt_oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 424 episodene fra podkasten Kjapt oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kjapt_oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 08 Nov 2026 11:15:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 12:47:05 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg" />
+    <item>
+      <title>Hedda og Solveig ble skutt mot under masseskyting i Krakow </title>
+      <description>Og i dag starter FNs klimatoppmøte.
+
+//
+Oppdatert 09.11.2026 07:25 med nyheten om at gjerningspersonen bak masseskytingen i Polen er død.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/e43d7ebd-9f9e-4996-8d3f-4c6836758f56_4175135e-7c9b-4c00-8398-ed9613546a1d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/e43d7ebd-9f9e-4996-8d3f-4c6836758f56_4175135e-7c9b-4c00-8398-ed9613546a1d_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>07:00</itunes:duration>
+      <pubDate>Mon, 09 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAEE10J_eCWPoO0CgArFVg9f9aTtV7RPySetQJ5P-dSQ.jpg" />
+    </item>
     <item>
       <title>Snart kan det bli 16-årsgrense for elsparkesykkel</title>
       <description>Og en populær TV-serie er kansellert etter ti sesonger. </description>
