@@ -1,17 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 101 siste fra Oppdatert</title>
+    <title>De 103 siste fra Oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 101 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 103 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 10 Nov 2026 12:34:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 12:38:36 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg" />
+    <item>
+      <title>Ørjan Håskjold Nyland: Fra helt til syndebukk?</title>
+      <description>Han reddet Norge i VM, men i Nasjonsligaen har det stormet rundt keeperen.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/8110c368-d5ad-4aea-805e-9d14c41218bf_55cf8649-70e5-4ddb-b7ad-fa53556616c4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/8110c368-d5ad-4aea-805e-9d14c41218bf_55cf8649-70e5-4ddb-b7ad-fa53556616c4_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>17:00</itunes:duration>
+      <pubDate>Thu, 12 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Oc_5rRwn8N5F-xbm0JdR4wz9VnOI1eeeBa4SjxUOYwwQ.jpg" />
+    </item>
+    <item>
+      <title>«Alle» lurte Rasmus: TV-stuntet som ryster Danmark</title>
+      <description>Slik ble skjult kamera til skandale. </description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/8ba55a63-c079-48dd-9758-2471afad57a3_34b19abb-88f4-41f2-aa0b-bc6ccb6e8279_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/8ba55a63-c079-48dd-9758-2471afad57a3_34b19abb-88f4-41f2-aa0b-bc6ccb6e8279_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>12:15</itunes:duration>
+      <pubDate>Wed, 11 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yHAb5OENBlo0UUDfEOgSTAwStqWecnj0CGqd-zPLiXJQ.jpg" />
+    </item>
     <item>
       <title>Flybase-mysteriet: Utenlandsk angrep på England?</title>
       <description>Hva skjedde på den engelske flybasen, RAF Fairford, og var det en fremmed makt som stod bak?</description>

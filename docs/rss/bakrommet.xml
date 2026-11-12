@@ -1,17 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 33 siste fra Bakrommet</title>
+    <title>De 34 siste fra Bakrommet</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 33 episodene fra podkasten Bakrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/bakrommet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 34 episodene fra podkasten Bakrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/bakrommet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 10 Nov 2026 12:33:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 12:37:42 +0000</lastBuildDate>
     <pubDate>Mon, 20 Jul 2026 04:52:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg" />
+    <item>
+      <title>Ståles angrep og Heggem om nedturen</title>
+      <description>En gira landslagssjef "angrep" oss, Heggem snakker om sin håpløse situasjon og bør Ryerson går til en ny storklubb?
+I dag også med Mangus Wolff Eikrem, også kalt kirurgen.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/89665b46-56ae-4144-a3d1-37bbab51f4ab_5dfd5107-32a4-4b14-9af0-23bb914ce955_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/89665b46-56ae-4144-a3d1-37bbab51f4ab_5dfd5107-32a4-4b14-9af0-23bb914ce955_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>38:57</itunes:duration>
+      <pubDate>Wed, 11 Nov 2026 15:26:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg" />
+    </item>
     <item>
       <title>Endelig landslagsfotball igjen!</title>
       <description>Blir det revansje mot Wales og hvem vinner "slaget" om Skandinavia i København?
