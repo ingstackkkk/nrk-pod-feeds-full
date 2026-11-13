@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 42 siste fra Tyrann</title>
+    <title>De 43 siste fra Tyrann</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 42 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 43 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 12 Nov 2026 12:38:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 12:08:44 +0000</lastBuildDate>
     <pubDate>Sat, 27 Jun 2026 06:03:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg" />
+    <item>
+      <title>Leopold II</title>
+      <description>Kong Leopold II drømmer om å gjøre Belgia stort og mektig - og seg selv søkkrik. Ambisjonene skal koste millioner av menneskeliv.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/c78b3a27-a92b-402c-aee9-7cf7775b094a_de0bb06b-1047-454c-acab-7a3d94c3014e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/c78b3a27-a92b-402c-aee9-7cf7775b094a_de0bb06b-1047-454c-acab-7a3d94c3014e_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>00:36</itunes:duration>
+      <pubDate>Fri, 13 Nov 2026 12:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_v7zTDvr4OYCnKi8DU-cBAmLLzG73JtV0_-uRniQvm8g.jpg" />
+    </item>
     <item>
       <title>Tyrann - viktig beskjed!</title>
       <description>OBS! Fra og med 14. november publiserer vi våre Tyrann-episoder ukentlig. Første fæle fyr ut er Belgias brutale kong Leopold II.</description>

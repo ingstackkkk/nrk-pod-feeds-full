@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 103 siste fra Oppdatert</title>
+    <title>De 104 siste fra Oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 103 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 104 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 12 Nov 2026 12:38:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 12:08:34 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg" />
+    <item>
+      <title>Angrepsbølge: Slik hackes blodbanker og kjøleskap</title>
+      <description>Smarte hjem, sårbare systemer. Har cyberangrepene avslørt hvor utsatt teknologien har gjort oss?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/48aa5a14-9b6c-427d-adc7-8c00e310757b_8cf36dbb-aac5-4527-842b-0e1e2adaaf76_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/48aa5a14-9b6c-427d-adc7-8c00e310757b_8cf36dbb-aac5-4527-842b-0e1e2adaaf76_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>15:32</itunes:duration>
+      <pubDate>Fri, 13 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oeeI9hwAbNU1QjhiT6RhbAiwY4AwOW8AUi3S61FrPTCg.jpg" />
+    </item>
     <item>
       <title>Ørjan Håskjold Nyland: Fra helt til syndebukk?</title>
       <description>Han reddet Norge i VM, men i Nasjonsligaen har det stormet rundt keeperen.</description>
