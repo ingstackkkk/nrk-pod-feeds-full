@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 35 siste fra Bakrommet</title>
+    <title>De 36 siste fra Bakrommet</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 35 episodene fra podkasten Bakrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/bakrommet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 36 episodene fra podkasten Bakrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/bakrommet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 13 Nov 2026 12:07:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 11:25:22 +0000</lastBuildDate>
     <pubDate>Mon, 20 Jul 2026 04:52:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg" />
+    <item>
+      <title>Mener Haaland må stille opp</title>
+      <description>Ekspertene mener det er en plikt for spillerne å stille opp for pressen og folket. Men Haaland forblir taus fram mot Wales-kampen. Dagen før dagen var det endelig klart for trening på gress og Ødegaard åpner opp for en ny rolle på laget.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/3bcca6e1-650f-44ec-95e0-5751c5095e6e_b11e78c0-3ce2-42fe-94e7-c7a9ba71ab47_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/3bcca6e1-650f-44ec-95e0-5751c5095e6e_b11e78c0-3ce2-42fe-94e7-c7a9ba71ab47_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>39:43</itunes:duration>
+      <pubDate>Fri, 13 Nov 2026 15:10:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg" />
+    </item>
     <item>
       <title>Kritiske til avlyst trening. Visste at snøen kom!</title>
       <description>Snøværet i Oslo stanset landslagstrening og Kristoffer mener å vite hva laget mot Wales blir.</description>
