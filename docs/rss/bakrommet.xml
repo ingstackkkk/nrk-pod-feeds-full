@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 36 siste fra Bakrommet</title>
+    <title>De 37 siste fra Bakrommet</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 36 episodene fra podkasten Bakrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/bakrommet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 37 episodene fra podkasten Bakrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/bakrommet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 14 Nov 2026 11:25:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 11:55:06 +0000</lastBuildDate>
     <pubDate>Mon, 20 Jul 2026 04:52:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg" />
+    <item>
+      <title>Wales-sjefen hyller Nusa: – Verdensklasse!</title>
+      <description>Det satt langt inne, men Norge sikret seg den viktige tredjeplassen i gruppa, og veien mot EM i 2028 blir mye lettere. Wales-sjefen mener Nusa er blant verdens beste vinger.  Haaland snakket endelig om Manchester City-dommen, men sliter med motivasjonen mot Danmark på tirsdag. </description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/21439db0-d3be-4198-9343-b3fc0dc3cb0a_c261d404-2b81-402e-8eca-c915fcec750d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/21439db0-d3be-4198-9343-b3fc0dc3cb0a_c261d404-2b81-402e-8eca-c915fcec750d_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>48:30</itunes:duration>
+      <pubDate>Sun, 15 Nov 2026 00:23:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg" />
+    </item>
     <item>
       <title>Mener Haaland må stille opp</title>
       <description>Ekspertene mener det er en plikt for spillerne å stille opp for pressen og folket. Men Haaland forblir taus fram mot Wales-kampen. Dagen før dagen var det endelig klart for trening på gress og Ødegaard åpner opp for en ny rolle på laget.</description>
