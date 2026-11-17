@@ -1,17 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 84 siste fra Ekko</title>
+    <title>De 86 siste fra Ekko</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 84 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 86 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 16 Nov 2026 12:40:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 13:16:11 +0000</lastBuildDate>
     <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg" />
+    <item>
+      <title>Europa vs. Elon Musk</title>
+      <description>Store europeiske teleselskap går saman mot Elon Musk. Finst det realistiske alternativ til Starlink, eller er løpet køyrt?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cd5f8d30-44f5-40ca-ae2c-c49e2b84fe34_b26b19d3-6470-49fc-b2ff-987528920624_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cd5f8d30-44f5-40ca-ae2c-c49e2b84fe34_b26b19d3-6470-49fc-b2ff-987528920624_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>21:29</itunes:duration>
+      <pubDate>Tue, 17 Nov 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kcRQGslnVUwS025znCM6EgGSxhSFBSGFulmj9hPC0HWQ.jpg" />
+    </item>
+    <item>
+      <title>Gløym dommedag og klimaskam</title>
+      <description>Klimatoppmøtet COP31 nærmar seg slutten, og dette meiner ekspertane må til for at vi endre vanane våre og godta klimatiltak.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e77cb389-800f-4758-89dc-a7b78c639b7e_ef700a4c-2c04-4f22-bf8b-9911c540e656_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e77cb389-800f-4758-89dc-a7b78c639b7e_ef700a4c-2c04-4f22-bf8b-9911c540e656_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>26:32</itunes:duration>
+      <pubDate>Mon, 16 Nov 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4WJtgUV9FzAVRnInmrihpAFoX94FtOJVNyDPy8FvclYA.jpg" />
+    </item>
     <item>
       <title>Trumps USA: Vil ikke snakke miljø</title>
       <description>Nå samles alle ledende land i verden til miljøtoppmøte. Men USA synes klimamøtene er noe stort tøv, og kommer ikke.</description>
