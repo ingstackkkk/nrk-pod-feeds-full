@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 86 siste fra Ekko</title>
+    <title>De 87 siste fra Ekko</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 86 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 87 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 17 Nov 2026 13:16:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 12:58:57 +0000</lastBuildDate>
     <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg" />
+    <item>
+      <title>Spillenes konge 6.0</title>
+      <description>Nye GTA 6 slippes denne uka, og kan bli årets største populærkulturelle begivenhet. Men det koster å være del av fellesskapet.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/38ab882f-e8b5-4bc5-b75e-a2f714010edf_33f027b6-c933-4f02-97bc-81b782e512b6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/38ab882f-e8b5-4bc5-b75e-a2f714010edf_33f027b6-c933-4f02-97bc-81b782e512b6_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>23:42</itunes:duration>
+      <pubDate>Wed, 18 Nov 2026 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pA58IC0dmphUbdsS97nVgAeNDdijVkWRdiNNujJZ0l0w.jpg" />
+    </item>
     <item>
       <title>Europa vs. Elon Musk</title>
       <description>Store europeiske teleselskap går saman mot Elon Musk. Finst det realistiske alternativ til Starlink, eller er løpet køyrt?</description>
