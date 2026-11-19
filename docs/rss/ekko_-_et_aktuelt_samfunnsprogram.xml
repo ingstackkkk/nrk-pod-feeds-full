@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 87 siste fra Ekko</title>
+    <title>De 88 siste fra Ekko</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 87 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 88 episodene fra podkasten Ekko. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Nov 2026 12:58:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 12:57:15 +0000</lastBuildDate>
     <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg" />
+    <item>
+      <title>Trumps USA: Mektige menn samla</title>
+      <description>Trump, Xi og Putin møttest i Kina, medan podkast-bros og Musk tek avstand frå Trump og Maga. Vi oppsummerer veka med Trumps USA.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/83516dc4-c80f-43e3-b266-f73014697583_c972175e-df09-4971-ac36-587dfc160002_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/83516dc4-c80f-43e3-b266-f73014697583_c972175e-df09-4971-ac36-587dfc160002_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>56:29</itunes:duration>
+      <pubDate>Thu, 19 Nov 2026 13:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NjqxY5seYxxsSg_posjVBQBwZ2O5vNxFTAx5ugNlsoiA.jpg" />
+    </item>
     <item>
       <title>Spillenes konge 6.0</title>
       <description>Nye GTA 6 slippes denne uka, og kan bli årets største populærkulturelle begivenhet. Men det koster å være del av fellesskapet.</description>

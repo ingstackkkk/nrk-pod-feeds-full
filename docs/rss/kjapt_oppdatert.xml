@@ -1,17 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 431 siste fra Kjapt oppdatert</title>
+    <title>De 432 siste fra Kjapt oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 431 episodene fra podkasten Kjapt oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kjapt_oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 432 episodene fra podkasten Kjapt oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kjapt_oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Nov 2026 12:59:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 12:57:39 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg" />
+    <item>
+      <title>GTA VI hylles</title>
+      <description>Og i dag markeres mannsdagen
+</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/b4e6a33d-8005-40f8-8d9b-9327288f9790_6afcb1e1-cc5d-4cca-8e82-f7e4fd8bbcc5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/b4e6a33d-8005-40f8-8d9b-9327288f9790_6afcb1e1-cc5d-4cca-8e82-f7e4fd8bbcc5_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>06:57</itunes:duration>
+      <pubDate>Thu, 19 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8shgqh9nZiDH7Lb683HfnwBOCJMbIw2hQXjIeiLC6ehQ.jpg" />
+    </item>
     <item>
       <title>Fra og med i dag jobber kvinner «gratis»</title>
       <description>Og det norske herrelandslaget er blant de beste i Europa</description>
