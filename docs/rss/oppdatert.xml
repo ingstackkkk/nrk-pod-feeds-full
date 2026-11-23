@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 110 siste fra Oppdatert</title>
+    <title>De 111 siste fra Oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 110 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 111 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 22 Nov 2026 12:32:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 14:31:15 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg" />
+    <item>
+      <title>Taiwans databrikker: Kan de forhindre storkrig?</title>
+      <description>Databrikkene hele verden trenger har blitt Taiwans viktigste forsvar.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/163ece25-7a7d-489b-8691-05c3e04a6d4e_c1737018-6644-461b-b668-08ad12a26326_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/163ece25-7a7d-489b-8691-05c3e04a6d4e_c1737018-6644-461b-b668-08ad12a26326_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>16:53</itunes:duration>
+      <pubDate>Mon, 23 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/j_Y13N0a8WzGURxpdBGM4wx7nPsGmbWoT0cTzLK9oshw.jpg" />
+    </item>
     <item>
       <title>Mannen «alle» burde hørt på: Nå spår han ny krise</title>
       <description>Forrige gang fikk han rett i spådommene sine om finanskrise. Kan advarslene hans stemme igjen?</description>
