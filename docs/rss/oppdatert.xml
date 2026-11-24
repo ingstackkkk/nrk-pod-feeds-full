@@ -1,17 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 111 siste fra Oppdatert</title>
+    <title>De 112 siste fra Oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 111 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 112 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 23 Nov 2026 14:31:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 14:48:57 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg" />
+    <item>
+      <title>Maricarmens kamp: Slik blei bustadkrise til nyval</title>
+      <description>Korleis blei ei vanleg kvinne på 87 sjølve symbolet på opprøret i Spania?
+</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/ecd67010-4f3c-495f-8bdc-ebccff4a4c1d_c3ee4b3f-ebc1-4646-ba40-48b28c2a6c4a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/ecd67010-4f3c-495f-8bdc-ebccff4a4c1d_c3ee4b3f-ebc1-4646-ba40-48b28c2a6c4a_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>19:10</itunes:duration>
+      <pubDate>Tue, 24 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jSPL5-r1ixqLfXTEV4CcRwT1feYHtdyfSmqHGMvoUJzw.jpg" />
+    </item>
     <item>
       <title>Taiwans databrikker: Kan de forhindre storkrig?</title>
       <description>Databrikkene hele verden trenger har blitt Taiwans viktigste forsvar.</description>
