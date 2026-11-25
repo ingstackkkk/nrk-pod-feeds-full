@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 435 siste fra Kjapt oppdatert</title>
+    <title>De 436 siste fra Kjapt oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 435 episodene fra podkasten Kjapt oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kjapt_oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 436 episodene fra podkasten Kjapt oppdatert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kjapt_oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 24 Nov 2026 14:48:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 14:15:07 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg" />
+    <item>
+      <title>Flere rektorer slår alarm om grenseløse elever</title>
+      <description>Og USA planlegger å øke tollsatsene.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/42d657ad-a9e5-4fad-8913-3118a866eb17_3150e942-6715-42cd-b38b-b252208f43f1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/42d657ad-a9e5-4fad-8913-3118a866eb17_3150e942-6715-42cd-b38b-b252208f43f1_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>05:49</itunes:duration>
+      <pubDate>Wed, 25 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZZ694mlGzWdsx6hId3BSwgL4L-OyRc69lkuggLSTLEbQ.jpg" />
+    </item>
     <item>
       <title>Trump tar æren for Nvidia-sjefens comeback</title>
       <description>Og mange norske journalister bruker KI. </description>

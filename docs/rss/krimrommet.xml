@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 48 siste fra Krimrommet</title>
+    <title>De 49 siste fra Krimrommet</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 48 episodene fra podkasten Krimrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/krimrommet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 49 episodene fra podkasten Krimrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/krimrommet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 24 Nov 2026 14:48:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 14:15:14 +0000</lastBuildDate>
     <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg" />
+    <item>
+      <title>Babyfabrikken (1): Hemmeligheten</title>
+      <description>I 2024 er Kayla (26) surrogatmor for første gang. Det hun ikke vet, er at babyens kommende foreldre har en mørk hemmelighet.</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/cb5b165d-6461-4d74-9aa0-7db11005faa7_61ac9dc0-2a6b-41a2-8f8f-8a904f5b5bbd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/cb5b165d-6461-4d74-9aa0-7db11005faa7_61ac9dc0-2a6b-41a2-8f8f-8a904f5b5bbd_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>18:36</itunes:duration>
+      <pubDate>Wed, 25 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/etUG9diBvcv_lxww72zLGAR2VPQa1zrKEr39EDKE2uEQ.jpg" />
+    </item>
     <item>
       <title>Russell Brand: «Et seksuelt rovdyr»</title>
       <description>Dommeren mener stjernestatusen beskyttet Russell Brand i mange år. Nå er komikeren dømt til 10,5 år i fengsel.</description>
