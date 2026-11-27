@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>De 114 siste fra Oppdatert</title>
+    <title>De 115 siste fra Oppdatert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 114 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 115 episodene fra podkasten Oppdatert. Opphavsrett på innhold eies av NRK og andre rettighetshavere. Se https://radio.nrk.no/podkast/oppdatert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 26 Nov 2026 13:51:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 13:48:47 +0000</lastBuildDate>
     <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg" />
+    <item>
+      <title>Historiens største bankran: Står atommakt bak?</title>
+      <description>Over 50 milliarder kroner forsvant i kryptoangrepet. Hva skjer med pengene?</description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/6f7412e0-8084-4af8-9b36-805ebeaf8974_7713b23c-ef03-4b1b-8c01-d28d142a64df_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/6f7412e0-8084-4af8-9b36-805ebeaf8974_7713b23c-ef03-4b1b-8c01-d28d142a64df_ID192MP3.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>14:43</itunes:duration>
+      <pubDate>Fri, 27 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JIiHBf1lF5ZRv2cViz-CCAMWgVKG8Q4VDuh6vSE2x-MQ.jpg" />
+    </item>
     <item>
       <title>Rwanda: Danmarks nye dumpingplass for asylsøkere?</title>
       <description>Den danske statsministeren Mette Frederiksen ønsker å opprette asylmottak i Rwanda. Vil Norge følge etter?</description>
